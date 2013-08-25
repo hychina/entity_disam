@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="n" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="本名何耀深，香港演员，在1982年演出丽的电视的《仙鹤神针》，1990年转投亚洲电视(原丽的电视)，后再度转投无线电视，现还是无线电视演员，演过很多道貌岸然的角色。">
+                <word id="0" cont="本" pos="r" />
+                <word id="1" cont="名" pos="n" />
+                <word id="2" cont="何耀" pos="nh" />
+                <word id="3" cont="深" pos="a" />
+                <word id="4" cont="，" pos="wp" />
+                <word id="5" cont="香港" pos="ns" />
+                <word id="6" cont="演员" pos="n" />
+                <word id="7" cont="，" pos="wp" />
+                <word id="8" cont="在" pos="p" />
+                <word id="9" cont="1982年" pos="m" />
+                <word id="10" cont="演出丽" pos="n" />
+                <word id="11" cont="的" pos="u" />
+                <word id="12" cont="电视" pos="n" />
+                <word id="13" cont="的" pos="u" />
+                <word id="14" cont="《" pos="wp" />
+                <word id="15" cont="仙鹤" pos="n" />
+                <word id="16" cont="神针" pos="n" />
+                <word id="17" cont="》" pos="wp" />
+                <word id="18" cont="，" pos="wp" />
+                <word id="19" cont="1990年" pos="m" />
+                <word id="20" cont="转" pos="v" />
+                <word id="21" cont="投" pos="v" />
+                <word id="22" cont="亚洲" pos="ns" />
+                <word id="23" cont="电视" pos="n" />
+                <word id="24" cont="(" pos="nh" />
+                <word id="25" cont="原丽" pos="nh" />
+                <word id="26" cont="的" pos="u" />
+                <word id="27" cont="电视" pos="n" />
+                <word id="28" cont=")" pos="n" />
+                <word id="29" cont="，" pos="wp" />
+                <word id="30" cont="后" pos="nd" />
+                <word id="31" cont="再度" pos="d" />
+                <word id="32" cont="转投" pos="v" />
+                <word id="33" cont="无线电视" pos="i" />
+                <word id="34" cont="，" pos="wp" />
+                <word id="35" cont="现" pos="nt" />
+                <word id="36" cont="还是" pos="v" />
+                <word id="37" cont="无线电视" pos="i" />
+                <word id="38" cont="演员" pos="n" />
+                <word id="39" cont="，" pos="wp" />
+                <word id="40" cont="演" pos="v" />
+                <word id="41" cont="过" pos="u" />
+                <word id="42" cont="很多" pos="m" />
+                <word id="43" cont="道" pos="q" />
+                <word id="44" cont="貌" pos="n" />
+                <word id="45" cont="岸然" pos="d" />
+                <word id="46" cont="的" pos="u" />
+                <word id="47" cont="角色" pos="n" />
+                <word id="48" cont="。" pos="wp" />
+            </sent>
+        </para>
+        <para id="1">
+            <sent id="0" cont="山东荣城人，1972年3月参加工作，广西师范大学政治与公共管理学院在职研究生班马克思主义哲学专业毕业，在职研究生学历，讲师。">
+                <word id="0" cont="山东" pos="ns" />
+                <word id="1" cont="荣城人" pos="n" />
+                <word id="2" cont="，" pos="wp" />
+                <word id="3" cont="1972年" pos="m" />
+                <word id="4" cont="3月" pos="m" />
+                <word id="5" cont="参加" pos="v" />
+                <word id="6" cont="工作" pos="n" />
+                <word id="7" cont="，" pos="wp" />
+                <word id="8" cont="广西" pos="ns" />
+                <word id="9" cont="师范大学" pos="n" />
+                <word id="10" cont="政治" pos="n" />
+                <word id="11" cont="与" pos="c" />
+                <word id="12" cont="公共" pos="b" />
+                <word id="13" cont="管理" pos="v" />
+                <word id="14" cont="学院" pos="n" />
+                <word id="15" cont="在职" pos="v" />
+                <word id="16" cont="研究生班" pos="n" />
+                <word id="17" cont="马克思主义" pos="n" />
+                <word id="18" cont="哲学" pos="n" />
+                <word id="19" cont="专业" pos="n" />
+                <word id="20" cont="毕业" pos="v" />
+                <word id="21" cont="，" pos="wp" />
+                <word id="22" cont="在职" pos="v" />
+                <word id="23" cont="研究生" pos="n" />
+                <word id="24" cont="学历" pos="n" />
+                <word id="25" cont="，" pos="wp" />
+                <word id="26" cont="讲师" pos="n" />
+                <word id="27" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="　">
+                <word id="0" cont="　" pos="wp" />
+            </sent>
+            <sent id="2" cont="现任广西壮族自治区党委第九届委员，广西壮族自治区人民政府副主席、党组成员。">
+                <word id="0" cont="现任" pos="b" />
+                <word id="1" cont="广西" pos="ns" />
+                <word id="2" cont="壮族" pos="nz" />
+                <word id="3" cont="自治区" pos="n" />
+                <word id="4" cont="党委" pos="n" />
+                <word id="5" cont="第九" pos="m" />
+                <word id="6" cont="届" pos="q" />
+                <word id="7" cont="委员" pos="n" />
+                <word id="8" cont="，" pos="wp" />
+                <word id="9" cont="广西" pos="ns" />
+                <word id="10" cont="壮族" pos="nz" />
+                <word id="11" cont="自治区" pos="n" />
+                <word id="12" cont="人民政府" pos="i" />
+                <word id="13" cont="副" pos="b" />
+                <word id="14" cont="主席" pos="n" />
+                <word id="15" cont="、" pos="wp" />
+                <word id="16" cont="党组" pos="n" />
+                <word id="17" cont="成员" pos="n" />
+                <word id="18" cont="。" pos="wp" />
+            </sent>
+            <sent id="3" cont="曾任广西南宁市新城区委书记，广西桂林市委副书记，广西百色地委书记，广西桂林市委书记。">
+                <word id="0" cont="曾" pos="d" />
+                <word id="1" cont="任" pos="v" />
+                <word id="2" cont="广西" pos="ns" />
+                <word id="3" cont="南宁市" pos="ns" />
+                <word id="4" cont="新城" pos="ns" />
+                <word id="5" cont="区委" pos="n" />
+                <word id="6" cont="书记" pos="n" />
+                <word id="7" cont="，" pos="wp" />
+                <word id="8" cont="广西" pos="ns" />
+                <word id="9" cont="桂林" pos="ns" />
+                <word id="10" cont="市委" pos="n" />
+                <word id="11" cont="副" pos="b" />
+                <word id="12" cont="书记" pos="n" />
+                <word id="13" cont="，" pos="wp" />
+                <word id="14" cont="广西" pos="ns" />
+                <word id="15" cont="百色" pos="ns" />
+                <word id="16" cont="地委" pos="n" />
+                <word id="17" cont="书记" pos="n" />
+                <word id="18" cont="，" pos="wp" />
+                <word id="19" cont="广西" pos="ns" />
+                <word id="20" cont="桂林" pos="ns" />
+                <word id="21" cont="市委" pos="n" />
+                <word id="22" cont="书记" pos="n" />
+                <word id="23" cont="。" pos="wp" />
+            </sent>
+        </para>
+        <para id="2">
+            <sent id="0" cont="内蒙古托克托县人。">
+                <word id="0" cont="内蒙古" pos="ns" />
+                <word id="1" cont="托克托县人" pos="n" />
+                <word id="2" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="毕业于原内蒙古农牧学院农业机械设计与制造专业，获工学学位，同年留校任教。">
+                <word id="0" cont="毕业" pos="v" />
+                <word id="1" cont="于" pos="p" />
+                <word id="2" cont="原" pos="b" />
+                <word id="3" cont="内蒙古" pos="ns" />
+                <word id="4" cont="农牧" pos="j" />
+                <word id="5" cont="学院" pos="n" />
+                <word id="6" cont="农业" pos="n" />
+                <word id="7" cont="机械" pos="n" />
+                <word id="8" cont="设计" pos="v" />
+                <word id="9" cont="与" pos="c" />
+                <word id="10" cont="制造" pos="v" />
+                <word id="11" cont="专业" pos="n" />
+                <word id="12" cont="，" pos="wp" />
+                <word id="13" cont="获" pos="v" />
+                <word id="14" cont="工学" pos="n" />
+                <word id="15" cont="学位" pos="n" />
+                <word id="16" cont="，" pos="wp" />
+                <word id="17" cont="同年" pos="d" />
+                <word id="18" cont="留" pos="v" />
+                <word id="19" cont="校" pos="n" />
+                <word id="20" cont="任教" pos="v" />
+                <word id="21" cont="。" pos="wp" />
+            </sent>
+            <sent id="2" cont="1991年考取原内蒙古农牧学院农业机械化助教进修班。">
+                <word id="0" cont="1991年" pos="m" />
+                <word id="1" cont="考取" pos="v" />
+                <word id="2" cont="原" pos="b" />
+                <word id="3" cont="内蒙古" pos="ns" />
+                <word id="4" cont="农牧" pos="j" />
+                <word id="5" cont="学院" pos="n" />
+                <word id="6" cont="农业" pos="n" />
+                <word id="7" cont="机械化" pos="v" />
+                <word id="8" cont="助教" pos="v" />
+                <word id="9" cont="进修班" pos="n" />
+                <word id="10" cont="。" pos="wp" />
+            </sent>
+            <sent id="3" cont="1995年任副教授。">
+                <word id="0" cont="1995年" pos="m" />
+                <word id="1" cont="任" pos="q" />
+                <word id="2" cont="副教授" pos="n" />
+                <word id="3" cont="。" pos="wp" />
+            </sent>
+            <sent id="4" cont="２００６年任硕士研究生导师，研究方向为机械性能分析与优化。">
+                <word id="0" cont="２０" pos="m" />
+                <word id="1" cont="０" pos="m" />
+                <word id="2" cont="６年" pos="nt" />
+                <word id="3" cont="任" pos="v" />
+                <word id="4" cont="硕士" pos="n" />
+                <word id="5" cont="研究生" pos="n" />
+                <word id="6" cont="导师" pos="n" />
+                <word id="7" cont="，" pos="wp" />
+                <word id="8" cont="研究" pos="v" />
+                <word id="9" cont="方向" pos="n" />
+                <word id="10" cont="为" pos="v" />
+                <word id="11" cont="机械" pos="n" />
+                <word id="12" cont="性能" pos="n" />
+                <word id="13" cont="分析" pos="v" />
+                <word id="14" cont="与" pos="c" />
+                <word id="15" cont="优化" pos="v" />
+                <word id="16" cont="。" pos="wp" />
+            </sent>
+            <sent id="5" cont="现任内蒙古农业大学机电工程学院工会主席、内蒙古农业机械学会会员。">
+                <word id="0" cont="现任" pos="b" />
+                <word id="1" cont="内蒙古" pos="ns" />
+                <word id="2" cont="农业" pos="n" />
+                <word id="3" cont="大学" pos="n" />
+                <word id="4" cont="机电" pos="b" />
+                <word id="5" cont="工程学院" pos="n" />
+                <word id="6" cont="工会" pos="n" />
+                <word id="7" cont="主席" pos="n" />
+                <word id="8" cont="、" pos="wp" />
+                <word id="9" cont="内蒙古" pos="ns" />
+                <word id="10" cont="农业" pos="n" />
+                <word id="11" cont="机械" pos="n" />
+                <word id="12" cont="学会" pos="n" />
+                <word id="13" cont="会员" pos="n" />
+                <word id="14" cont="。" pos="wp" />
+            </sent>
+        </para>
+        <para id="3">
+            <sent id="0" cont="台湾南部的一个准地级市。">
+                <word id="0" cont="台湾" pos="ns" />
+                <word id="1" cont="南部" pos="nd" />
+                <word id="2" cont="的" pos="u" />
+                <word id="3" cont="一个" pos="m" />
+                <word id="4" cont="准" pos="a" />
+                <word id="5" cont="地级" pos="b" />
+                <word id="6" cont="市" pos="n" />
+                <word id="7" cont="。" pos="wp" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>

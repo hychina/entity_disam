@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="n" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="山东大学齐鲁医院主任医师，医学博士，博士后出站，硕士生导师。">
+                <word id="0" cont="山东" pos="ns" />
+                <word id="1" cont="大学" pos="n" />
+                <word id="2" cont="齐鲁" pos="ns" />
+                <word id="3" cont="医院" pos="n" />
+                <word id="4" cont="主任医师" pos="i" />
+                <word id="5" cont="，" pos="wp" />
+                <word id="6" cont="医学" pos="n" />
+                <word id="7" cont="博士" pos="n" />
+                <word id="8" cont="，" pos="wp" />
+                <word id="9" cont="博士后" pos="n" />
+                <word id="10" cont="出" pos="v" />
+                <word id="11" cont="站" pos="n" />
+                <word id="12" cont="，" pos="wp" />
+                <word id="13" cont="硕士生" pos="n" />
+                <word id="14" cont="导师" pos="n" />
+                <word id="15" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="从事心血管疾病的教学、科研和临床工作16年，在高血压病、冠心病、扩张型心肌病、顽固性心力衰竭的诊治方面积累了非常丰富的临床经验。">
+                <word id="0" cont="从事" pos="v" />
+                <word id="1" cont="心血管" pos="n" />
+                <word id="2" cont="疾病" pos="n" />
+                <word id="3" cont="的" pos="u" />
+                <word id="4" cont="教学" pos="n" />
+                <word id="5" cont="、" pos="wp" />
+                <word id="6" cont="科研" pos="n" />
+                <word id="7" cont="和" pos="c" />
+                <word id="8" cont="临床" pos="v" />
+                <word id="9" cont="工作" pos="v" />
+                <word id="10" cont="16" pos="m" />
+                <word id="11" cont="年" pos="q" />
+                <word id="12" cont="，" pos="wp" />
+                <word id="13" cont="在" pos="p" />
+                <word id="14" cont="高血压" pos="n" />
+                <word id="15" cont="病" pos="n" />
+                <word id="16" cont="、" pos="wp" />
+                <word id="17" cont="冠心病" pos="n" />
+                <word id="18" cont="、" pos="wp" />
+                <word id="19" cont="扩张型" pos="b" />
+                <word id="20" cont="心肌病" pos="n" />
+                <word id="21" cont="、" pos="wp" />
+                <word id="22" cont="顽固性" pos="n" />
+                <word id="23" cont="心力衰竭" pos="n" />
+                <word id="24" cont="的" pos="u" />
+                <word id="25" cont="诊治" pos="v" />
+                <word id="26" cont="方面" pos="n" />
+                <word id="27" cont="积累" pos="v" />
+                <word id="28" cont="了" pos="u" />
+                <word id="29" cont="非常" pos="d" />
+                <word id="30" cont="丰富" pos="a" />
+                <word id="31" cont="的" pos="u" />
+                <word id="32" cont="临床" pos="v" />
+                <word id="33" cont="经验" pos="n" />
+                <word id="34" cont="。" pos="wp" />
+            </sent>
+            <sent id="2" cont="先后获贵州省医学会二等奖1项(第一位)、贵阳市科技进步二等奖1项(第一位)和中国人民解放军科技成果二等奖1项（第四位）。">
+                <word id="0" cont="先后" pos="d" />
+                <word id="1" cont="获" pos="v" />
+                <word id="2" cont="贵州省" pos="ns" />
+                <word id="3" cont="医学会" pos="n" />
+                <word id="4" cont="二等奖" pos="n" />
+                <word id="5" cont="1" pos="m" />
+                <word id="6" cont="项" pos="q" />
+                <word id="7" cont="(" pos="n" />
+                <word id="8" cont="第一" pos="m" />
+                <word id="9" cont="位" pos="q" />
+                <word id="10" cont=")" pos="n" />
+                <word id="11" cont="、" pos="wp" />
+                <word id="12" cont="贵阳市" pos="ns" />
+                <word id="13" cont="科技" pos="n" />
+                <word id="14" cont="进步" pos="v" />
+                <word id="15" cont="二等奖" pos="n" />
+                <word id="16" cont="1" pos="m" />
+                <word id="17" cont="项" pos="q" />
+                <word id="18" cont="(" pos="n" />
+                <word id="19" cont="第一" pos="m" />
+                <word id="20" cont="位" pos="q" />
+                <word id="21" cont=")" pos="nh" />
+                <word id="22" cont="和" pos="c" />
+                <word id="23" cont="中国" pos="ns" />
+                <word id="24" cont="人民" pos="n" />
+                <word id="25" cont="解放军" pos="n" />
+                <word id="26" cont="科技" pos="n" />
+                <word id="27" cont="成果" pos="n" />
+                <word id="28" cont="二等奖" pos="n" />
+                <word id="29" cont="1" pos="m" />
+                <word id="30" cont="项" pos="q" />
+                <word id="31" cont="（" pos="wp" />
+                <word id="32" cont="第四" pos="m" />
+                <word id="33" cont="位" pos="q" />
+                <word id="34" cont="）" pos="wp" />
+                <word id="35" cont="。" pos="wp" />
+            </sent>
+        </para>
+        <para id="1">
+            <sent id="0" cont="华中科技大学同济医学院附属协和医院肿瘤中心护士。">
+                <word id="0" cont="华中" pos="ns" />
+                <word id="1" cont="科技" pos="n" />
+                <word id="2" cont="大学" pos="n" />
+                <word id="3" cont="同济" pos="nz" />
+                <word id="4" cont="医学院" pos="n" />
+                <word id="5" cont="附属" pos="v" />
+                <word id="6" cont="协和" pos="nz" />
+                <word id="7" cont="医院" pos="n" />
+                <word id="8" cont="肿瘤" pos="n" />
+                <word id="9" cont="中心" pos="n" />
+                <word id="10" cont="护士" pos="n" />
+                <word id="11" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="2007年7月，通过两次骨髓采集手术，胡琴共捐献200多毫升造血干细胞，被湖北省红十字会志愿者专程运送到河南省人民医院血液科，移植到18岁的白血病患者荆路体内，手术取得了成功，因此成为了湖北省内首位捐献骨髓的医护人员。">
+                <word id="0" cont="2007年" pos="m" />
+                <word id="1" cont="7月" pos="m" />
+                <word id="2" cont="，" pos="wp" />
+                <word id="3" cont="通过" pos="p" />
+                <word id="4" cont="两" pos="m" />
+                <word id="5" cont="次" pos="q" />
+                <word id="6" cont="骨髓" pos="n" />
+                <word id="7" cont="采集" pos="v" />
+                <word id="8" cont="手术" pos="v" />
+                <word id="9" cont="，" pos="wp" />
+                <word id="10" cont="胡琴" pos="n" />
+                <word id="11" cont="共" pos="d" />
+                <word id="12" cont="捐献" pos="v" />
+                <word id="13" cont="200" pos="m" />
+                <word id="14" cont="多" pos="m" />
+                <word id="15" cont="毫升" pos="q" />
+                <word id="16" cont="造血" pos="v" />
+                <word id="17" cont="干细胞" pos="n" />
+                <word id="18" cont="，" pos="wp" />
+                <word id="19" cont="被" pos="p" />
+                <word id="20" cont="湖北省" pos="ns" />
+                <word id="21" cont="红十字会" pos="i" />
+                <word id="22" cont="志愿者" pos="n" />
+                <word id="23" cont="专程" pos="d" />
+                <word id="24" cont="运送" pos="v" />
+                <word id="25" cont="到" pos="v" />
+                <word id="26" cont="河南省" pos="ns" />
+                <word id="27" cont="人民" pos="n" />
+                <word id="28" cont="医院" pos="n" />
+                <word id="29" cont="血液科" pos="n" />
+                <word id="30" cont="，" pos="wp" />
+                <word id="31" cont="移植" pos="v" />
+                <word id="32" cont="到" pos="v" />
+                <word id="33" cont="18" pos="m" />
+                <word id="34" cont="岁" pos="q" />
+                <word id="35" cont="的" pos="u" />
+                <word id="36" cont="白血病" pos="n" />
+                <word id="37" cont="患者" pos="n" />
+                <word id="38" cont="荆路" pos="ns" />
+                <word id="39" cont="体内" pos="nl" />
+                <word id="40" cont="，" pos="wp" />
+                <word id="41" cont="手术" pos="v" />
+                <word id="42" cont="取得" pos="v" />
+                <word id="43" cont="了" pos="u" />
+                <word id="44" cont="成功" pos="a" />
+                <word id="45" cont="，" pos="wp" />
+                <word id="46" cont="因此" pos="c" />
+                <word id="47" cont="成为" pos="v" />
+                <word id="48" cont="了" pos="u" />
+                <word id="49" cont="湖北省" pos="ns" />
+                <word id="50" cont="内" pos="nd" />
+                <word id="51" cont="首" pos="m" />
+                <word id="52" cont="位" pos="q" />
+                <word id="53" cont="捐献" pos="v" />
+                <word id="54" cont="骨髓" pos="n" />
+                <word id="55" cont="的" pos="u" />
+                <word id="56" cont="医护" pos="v" />
+                <word id="57" cont="人员" pos="n" />
+                <word id="58" cont="。" pos="wp" />
+            </sent>
+            <sent id="2" cont="荣获2008年武汉市优秀护士。">
+                <word id="0" cont="荣获" pos="v" />
+                <word id="1" cont="2008年" pos="m" />
+                <word id="2" cont="武汉市" pos="ns" />
+                <word id="3" cont="优秀" pos="a" />
+                <word id="4" cont="护士" pos="n" />
+                <word id="5" cont="。" pos="wp" />
+            </sent>
+        </para>
+        <para id="2">
+            <sent id="0" cont="博士，教授，硕士生导师。">
+                <word id="0" cont="博士" pos="n" />
+                <word id="1" cont="，" pos="wp" />
+                <word id="2" cont="教授" pos="n" />
+                <word id="3" cont="，" pos="wp" />
+                <word id="4" cont="硕士生" pos="n" />
+                <word id="5" cont="导师" pos="n" />
+                <word id="6" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="1988～2001年在新疆大学理化测试中心工作，主要从事气相色谱－质谱研究与测试工作；2001～2003年在南京医科大学基础医学博士后流动站工作，从事药代动力学研究；2003～至今在南京医科大学药学院分析化学教研室，任该室主任。">
+                <word id="0" cont="1988" pos="m" />
+                <word id="1" cont="～" pos="wp" />
+                <word id="2" cont="2001年" pos="m" />
+                <word id="3" cont="在" pos="p" />
+                <word id="4" cont="新疆" pos="ns" />
+                <word id="5" cont="大学" pos="n" />
+                <word id="6" cont="理化" pos="n" />
+                <word id="7" cont="测试" pos="v" />
+                <word id="8" cont="中心" pos="n" />
+                <word id="9" cont="工作" pos="v" />
+                <word id="10" cont="，" pos="wp" />
+                <word id="11" cont="主要" pos="d" />
+                <word id="12" cont="从事" pos="v" />
+                <word id="13" cont="气" pos="n" />
+                <word id="14" cont="相" pos="d" />
+                <word id="15" cont="色谱" pos="v" />
+                <word id="16" cont="－质" pos="n" />
+                <word id="17" cont="谱" pos="n" />
+                <word id="18" cont="研究" pos="v" />
+                <word id="19" cont="与" pos="c" />
+                <word id="20" cont="测试" pos="v" />
+                <word id="21" cont="工作" pos="v" />
+                <word id="22" cont="；" pos="wp" />
+                <word id="23" cont="2001" pos="m" />
+                <word id="24" cont="～" pos="wp" />
+                <word id="25" cont="2003年" pos="m" />
+                <word id="26" cont="在" pos="p" />
+                <word id="27" cont="南京" pos="ns" />
+                <word id="28" cont="医科" pos="n" />
+                <word id="29" cont="大学" pos="n" />
+                <word id="30" cont="基础" pos="n" />
+                <word id="31" cont="医学" pos="n" />
+                <word id="32" cont="博士后" pos="n" />
+                <word id="33" cont="流动站" pos="n" />
+                <word id="34" cont="工作" pos="v" />
+                <word id="35" cont="，" pos="wp" />
+                <word id="36" cont="从事" pos="v" />
+                <word id="37" cont="药" pos="n" />
+                <word id="38" cont="代" pos="v" />
+                <word id="39" cont="动力学" pos="n" />
+                <word id="40" cont="研究" pos="v" />
+                <word id="41" cont="；" pos="wp" />
+                <word id="42" cont="2003" pos="m" />
+                <word id="43" cont="～" pos="wp" />
+                <word id="44" cont="至今" pos="d" />
+                <word id="45" cont="在" pos="p" />
+                <word id="46" cont="南京" pos="ns" />
+                <word id="47" cont="医科" pos="n" />
+                <word id="48" cont="大学" pos="n" />
+                <word id="49" cont="药学院" pos="n" />
+                <word id="50" cont="分析" pos="v" />
+                <word id="51" cont="化学" pos="n" />
+                <word id="52" cont="教研室" pos="n" />
+                <word id="53" cont="，" pos="wp" />
+                <word id="54" cont="任" pos="v" />
+                <word id="55" cont="该室" pos="r" />
+                <word id="56" cont="主任" pos="n" />
+                <word id="57" cont="。" pos="wp" />
+            </sent>
+            <sent id="2" cont="主要从事分析化学教学和临床前、后药代动力学及药物质量研究。">
+                <word id="0" cont="主要" pos="d" />
+                <word id="1" cont="从事" pos="v" />
+                <word id="2" cont="分析" pos="v" />
+                <word id="3" cont="化学" pos="n" />
+                <word id="4" cont="教学" pos="v" />
+                <word id="5" cont="和" pos="c" />
+                <word id="6" cont="临床" pos="v" />
+                <word id="7" cont="前" pos="nd" />
+                <word id="8" cont="、" pos="wp" />
+                <word id="9" cont="后药" pos="nh" />
+                <word id="10" cont="代" pos="v" />
+                <word id="11" cont="动力学" pos="n" />
+                <word id="12" cont="及" pos="c" />
+                <word id="13" cont="药物" pos="n" />
+                <word id="14" cont="质量" pos="n" />
+                <word id="15" cont="研究" pos="v" />
+                <word id="16" cont="。" pos="wp" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>

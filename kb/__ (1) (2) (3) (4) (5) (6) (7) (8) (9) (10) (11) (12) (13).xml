@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="n" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="祖籍浙江省温州市，1975年2月28日出生于浙江温州，歌手。">
+                <word id="0" cont="祖籍" pos="n" />
+                <word id="1" cont="浙江省" pos="ns" />
+                <word id="2" cont="温州市" pos="ns" />
+                <word id="3" cont="，" pos="wp" />
+                <word id="4" cont="1975年" pos="m" />
+                <word id="5" cont="2月" pos="m" />
+                <word id="6" cont="28日" pos="m" />
+                <word id="7" cont="出生" pos="v" />
+                <word id="8" cont="于" pos="p" />
+                <word id="9" cont="浙江" pos="ns" />
+                <word id="10" cont="温州" pos="ns" />
+                <word id="11" cont="，" pos="wp" />
+                <word id="12" cont="歌手" pos="n" />
+                <word id="13" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="1987年考上浙江温州清县小百花越剧团，在团里唱小生。">
+                <word id="0" cont="1987年" pos="m" />
+                <word id="1" cont="考上" pos="v" />
+                <word id="2" cont="浙江" pos="ns" />
+                <word id="3" cont="温州" pos="ns" />
+                <word id="4" cont="清县" pos="ns" />
+                <word id="5" cont="小百花" pos="nz" />
+                <word id="6" cont="越剧团" pos="n" />
+                <word id="7" cont="，" pos="wp" />
+                <word id="8" cont="在" pos="p" />
+                <word id="9" cont="团里" pos="n" />
+                <word id="10" cont="唱" pos="v" />
+                <word id="11" cont="小生" pos="n" />
+                <word id="12" cont="。" pos="wp" />
+            </sent>
+            <sent id="2" cont="1991年考上浙江军区文工团，做了一名歌唱演员。">
+                <word id="0" cont="1991年" pos="m" />
+                <word id="1" cont="考上" pos="v" />
+                <word id="2" cont="浙江" pos="ns" />
+                <word id="3" cont="军区" pos="n" />
+                <word id="4" cont="文工团" pos="n" />
+                <word id="5" cont="，" pos="wp" />
+                <word id="6" cont="做" pos="v" />
+                <word id="7" cont="了" pos="u" />
+                <word id="8" cont="一" pos="m" />
+                <word id="9" cont="名" pos="q" />
+                <word id="10" cont="歌唱" pos="v" />
+                <word id="11" cont="演员" pos="n" />
+                <word id="12" cont="。" pos="wp" />
+            </sent>
+            <sent id="3" cont="由学戏改为演唱，颇费了一番工夫。">
+                <word id="0" cont="由" pos="p" />
+                <word id="1" cont="学戏" pos="n" />
+                <word id="2" cont="改" pos="v" />
+                <word id="3" cont="为" pos="v" />
+                <word id="4" cont="演唱" pos="v" />
+                <word id="5" cont="，" pos="wp" />
+                <word id="6" cont="颇" pos="d" />
+                <word id="7" cont="费" pos="v" />
+                <word id="8" cont="了" pos="u" />
+                <word id="9" cont="一番" pos="m" />
+                <word id="10" cont="工夫" pos="n" />
+                <word id="11" cont="。" pos="wp" />
+            </sent>
+            <sent id="4" cont="马剑老师是她学唱歌的启蒙老师，对她走上歌坛的道路起了引路作用。">
+                <word id="0" cont="马剑" pos="nh" />
+                <word id="1" cont="老师" pos="n" />
+                <word id="2" cont="是" pos="v" />
+                <word id="3" cont="她" pos="r" />
+                <word id="4" cont="学" pos="v" />
+                <word id="5" cont="唱歌" pos="v" />
+                <word id="6" cont="的" pos="u" />
+                <word id="7" cont="启蒙" pos="v" />
+                <word id="8" cont="老师" pos="n" />
+                <word id="9" cont="，" pos="wp" />
+                <word id="10" cont="对" pos="p" />
+                <word id="11" cont="她" pos="r" />
+                <word id="12" cont="走" pos="v" />
+                <word id="13" cont="上" pos="v" />
+                <word id="14" cont="歌坛" pos="n" />
+                <word id="15" cont="的" pos="u" />
+                <word id="16" cont="道路" pos="n" />
+                <word id="17" cont="起" pos="v" />
+                <word id="18" cont="了" pos="u" />
+                <word id="19" cont="引路" pos="v" />
+                <word id="20" cont="作用" pos="n" />
+                <word id="21" cont="。" pos="wp" />
+            </sent>
+        </para>
+        <para id="1">
+            <sent id="0" cont="白百何，中国内地女演员，别名白雪。">
+                <word id="0" cont="白百" pos="a" />
+                <word id="1" cont="何" pos="r" />
+                <word id="2" cont="，" pos="wp" />
+                <word id="3" cont="中国" pos="ns" />
+                <word id="4" cont="内地" pos="nl" />
+                <word id="5" cont="女" pos="b" />
+                <word id="6" cont="演员" pos="n" />
+                <word id="7" cont="，" pos="wp" />
+                <word id="8" cont="别" pos="d" />
+                <word id="9" cont="名" pos="v" />
+                <word id="10" cont="白雪" pos="n" />
+                <word id="11" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="毕业于中央戏剧学院。">
+                <word id="0" cont="毕业" pos="v" />
+                <word id="1" cont="于" pos="p" />
+                <word id="2" cont="中央" pos="n" />
+                <word id="3" cont="戏剧" pos="n" />
+                <word id="4" cont="学院" pos="n" />
+                <word id="5" cont="。" pos="wp" />
+            </sent>
+            <sent id="2" cont="随着2007年《幸福在哪里》、《与青春有关的日子》和2009年《我的青春谁做主》的热播，观众才开始对其有所了解。">
+                <word id="0" cont="随着" pos="p" />
+                <word id="1" cont="2007年" pos="m" />
+                <word id="2" cont="《" pos="wp" />
+                <word id="3" cont="幸福" pos="a" />
+                <word id="4" cont="在" pos="v" />
+                <word id="5" cont="哪里" pos="r" />
+                <word id="6" cont="》" pos="wp" />
+                <word id="7" cont="、" pos="wp" />
+                <word id="8" cont="《" pos="wp" />
+                <word id="9" cont="与" pos="p" />
+                <word id="10" cont="青春" pos="n" />
+                <word id="11" cont="有关" pos="v" />
+                <word id="12" cont="的" pos="u" />
+                <word id="13" cont="日子" pos="n" />
+                <word id="14" cont="》" pos="wp" />
+                <word id="15" cont="和" pos="c" />
+                <word id="16" cont="2009年" pos="m" />
+                <word id="17" cont="《" pos="wp" />
+                <word id="18" cont="我" pos="r" />
+                <word id="19" cont="的" pos="u" />
+                <word id="20" cont="青春" pos="n" />
+                <word id="21" cont="谁" pos="r" />
+                <word id="22" cont="做主" pos="v" />
+                <word id="23" cont="》" pos="wp" />
+                <word id="24" cont="的" pos="u" />
+                <word id="25" cont="热播" pos="v" />
+                <word id="26" cont="，" pos="wp" />
+                <word id="27" cont="观众" pos="n" />
+                <word id="28" cont="才" pos="d" />
+                <word id="29" cont="开始" pos="v" />
+                <word id="30" cont="对" pos="p" />
+                <word id="31" cont="其" pos="r" />
+                <word id="32" cont="有所" pos="v" />
+                <word id="33" cont="了解" pos="v" />
+                <word id="34" cont="。" pos="wp" />
+            </sent>
+            <sent id="3" cont="2006年与陈羽凡在拍摄电视剧《与青春有关的日子》时相恋并结为夫妻。">
+                <word id="0" cont="2006年" pos="m" />
+                <word id="1" cont="与" pos="p" />
+                <word id="2" cont="陈羽凡" pos="nh" />
+                <word id="3" cont="在" pos="p" />
+                <word id="4" cont="拍摄" pos="v" />
+                <word id="5" cont="电视剧" pos="n" />
+                <word id="6" cont="《" pos="wp" />
+                <word id="7" cont="与" pos="p" />
+                <word id="8" cont="青春" pos="n" />
+                <word id="9" cont="有关" pos="v" />
+                <word id="10" cont="的" pos="u" />
+                <word id="11" cont="日子" pos="n" />
+                <word id="12" cont="》" pos="wp" />
+                <word id="13" cont="时" pos="n" />
+                <word id="14" cont="相" pos="d" />
+                <word id="15" cont="恋" pos="v" />
+                <word id="16" cont="并" pos="c" />
+                <word id="17" cont="结" pos="v" />
+                <word id="18" cont="为" pos="v" />
+                <word id="19" cont="夫妻" pos="n" />
+                <word id="20" cont="。" pos="wp" />
+            </sent>
+            <sent id="4" cont="2011年主演了电视剧《家的N次方》和电影《万有引力》、《失恋33天》，均有上佳表现。">
+                <word id="0" cont="2011" pos="m" />
+                <word id="1" cont="年" pos="q" />
+                <word id="2" cont="主演" pos="v" />
+                <word id="3" cont="了" pos="u" />
+                <word id="4" cont="电视剧" pos="n" />
+                <word id="5" cont="《" pos="wp" />
+                <word id="6" cont="家" pos="n" />
+                <word id="7" cont="的" pos="u" />
+                <word id="8" cont="N次" pos="ws" />
+                <word id="9" cont="方" pos="n" />
+                <word id="10" cont="》" pos="wp" />
+                <word id="11" cont="和" pos="c" />
+                <word id="12" cont="电影" pos="n" />
+                <word id="13" cont="《" pos="wp" />
+                <word id="14" cont="万有" pos="v" />
+                <word id="15" cont="引力" pos="n" />
+                <word id="16" cont="》" pos="wp" />
+                <word id="17" cont="、" pos="wp" />
+                <word id="18" cont="《" pos="wp" />
+                <word id="19" cont="失恋" pos="v" />
+                <word id="20" cont="33" pos="m" />
+                <word id="21" cont="天" pos="q" />
+                <word id="22" cont="》" pos="wp" />
+                <word id="23" cont="，" pos="wp" />
+                <word id="24" cont="均" pos="d" />
+                <word id="25" cont="有" pos="v" />
+                <word id="26" cont="上佳" pos="a" />
+                <word id="27" cont="表现" pos="v" />
+                <word id="28" cont="。" pos="wp" />
+            </sent>
+            <sent id="5" cont="《失恋33天》是她第一部主演的电影，此片获得了极高的关注度和票房成绩。">
+                <word id="0" cont="《" pos="wp" />
+                <word id="1" cont="失恋" pos="v" />
+                <word id="2" cont="33" pos="m" />
+                <word id="3" cont="天" pos="q" />
+                <word id="4" cont="》" pos="wp" />
+                <word id="5" cont="是" pos="v" />
+                <word id="6" cont="她" pos="r" />
+                <word id="7" cont="第一" pos="m" />
+                <word id="8" cont="部" pos="q" />
+                <word id="9" cont="主演" pos="v" />
+                <word id="10" cont="的" pos="u" />
+                <word id="11" cont="电影" pos="n" />
+                <word id="12" cont="，" pos="wp" />
+                <word id="13" cont="此片" pos="r" />
+                <word id="14" cont="获得" pos="v" />
+                <word id="15" cont="了" pos="u" />
+                <word id="16" cont="极" pos="d" />
+                <word id="17" cont="高" pos="a" />
+                <word id="18" cont="的" pos="u" />
+                <word id="19" cont="关注度" pos="n" />
+                <word id="20" cont="和" pos="c" />
+                <word id="21" cont="票房" pos="n" />
+                <word id="22" cont="成绩" pos="n" />
+                <word id="23" cont="。" pos="wp" />
+            </sent>
+        </para>
+        <para id="2">
+            <sent id="0" cont="女子马拉松冠军得主。">
+                <word id="0" cont="女子" pos="n" />
+                <word id="1" cont="马拉松" pos="n" />
+                <word id="2" cont="冠军" pos="n" />
+                <word id="3" cont="得主" pos="n" />
+                <word id="4" cont="。" pos="wp" />
+            </sent>
+        </para>
+        <para id="3">
+            <sent id="0" cont="女性配音演员。">
+                <word id="0" cont="女性" pos="n" />
+                <word id="1" cont="配音" pos="v" />
+                <word id="2" cont="演员" pos="n" />
+                <word id="3" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="现居北京。">
+                <word id="0" cont="现" pos="nt" />
+                <word id="1" cont="居" pos="v" />
+                <word id="2" cont="北京" pos="ns" />
+                <word id="3" cont="。" pos="wp" />
+            </sent>
+            <sent id="2" cont="毕业于北京电影学院02级高职配音班（同班同学：黄渤、边江、邱秋、孟宇、张磊、王凯、刘特、褚珺等）。">
+                <word id="0" cont="毕业" pos="v" />
+                <word id="1" cont="于" pos="p" />
+                <word id="2" cont="北京" pos="ns" />
+                <word id="3" cont="电影" pos="n" />
+                <word id="4" cont="学院" pos="n" />
+                <word id="5" cont="02" pos="m" />
+                <word id="6" cont="级" pos="q" />
+                <word id="7" cont="高职" pos="n" />
+                <word id="8" cont="配音班" pos="n" />
+                <word id="9" cont="（" pos="wp" />
+                <word id="10" cont="同班" pos="v" />
+                <word id="11" cont="同学" pos="n" />
+                <word id="12" cont="：" pos="wp" />
+                <word id="13" cont="黄渤" pos="nh" />
+                <word id="14" cont="、" pos="wp" />
+                <word id="15" cont="边江" pos="nh" />
+                <word id="16" cont="、" pos="wp" />
+                <word id="17" cont="邱秋" pos="nh" />
+                <word id="18" cont="、" pos="wp" />
+                <word id="19" cont="孟宇" pos="nh" />
+                <word id="20" cont="、" pos="wp" />
+                <word id="21" cont="张磊" pos="nh" />
+                <word id="22" cont="、" pos="wp" />
+                <word id="23" cont="王凯" pos="nh" />
+                <word id="24" cont="、" pos="wp" />
+                <word id="25" cont="刘特" pos="nh" />
+                <word id="26" cont="、" pos="wp" />
+                <word id="27" cont="褚珺" pos="ws" />
+                <word id="28" cont="等" pos="u" />
+                <word id="29" cont="）" pos="wp" />
+                <word id="30" cont="。" pos="wp" />
+            </sent>
+            <sent id="3" cont="擅长演绎温柔可人的女性角色。">
+                <word id="0" cont="擅长" pos="v" />
+                <word id="1" cont="演绎" pos="v" />
+                <word id="2" cont="温柔" pos="a" />
+                <word id="3" cont="可人" pos="a" />
+                <word id="4" cont="的" pos="u" />
+                <word id="5" cont="女性" pos="n" />
+                <word id="6" cont="角色" pos="n" />
+                <word id="7" cont="。" pos="wp" />
+            </sent>
+        </para>
+        <para id="4">
+            <sent id="0" cont="陈大威，号白雪，碧松斋主人，男，1941年3月生于河北省涿州市，当代著名画家，国际羲之书画院终身荣誉教授，人民日报社时代潮周刊理事，红旗出版社《鲜红的党旗》大型画册编委，中国艺术研究院文研中心燕京书画院副院长，北京国际奥林匹克书画院名誉院长，北京东方艺术研究会副会长，全国市长书画院院士;">
+                <word id="0" cont="陈大威" pos="nh" />
+                <word id="1" cont="，" pos="wp" />
+                <word id="2" cont="号" pos="n" />
+                <word id="3" cont="白雪" pos="n" />
+                <word id="4" cont="，" pos="wp" />
+                <word id="5" cont="碧松斋" pos="n" />
+                <word id="6" cont="主人" pos="n" />
+                <word id="7" cont="，" pos="wp" />
+                <word id="8" cont="男" pos="b" />
+                <word id="9" cont="，" pos="wp" />
+                <word id="10" cont="1941年" pos="m" />
+                <word id="11" cont="3月" pos="m" />
+                <word id="12" cont="生于" pos="v" />
+                <word id="13" cont="河北省" pos="ns" />
+                <word id="14" cont="涿州市" pos="ns" />
+                <word id="15" cont="，" pos="wp" />
+                <word id="16" cont="当代" pos="nt" />
+                <word id="17" cont="著名" pos="a" />
+                <word id="18" cont="画家" pos="n" />
+                <word id="19" cont="，" pos="wp" />
+                <word id="20" cont="国际羲" pos="n" />
+                <word id="21" cont="之" pos="u" />
+                <word id="22" cont="书画院" pos="n" />
+                <word id="23" cont="终身" pos="n" />
+                <word id="24" cont="荣誉" pos="n" />
+                <word id="25" cont="教授" pos="n" />
+                <word id="26" cont="，" pos="wp" />
+                <word id="27" cont="人民日报社" pos="ni" />
+                <word id="28" cont="时代潮" pos="n" />
+                <word id="29" cont="周刊" pos="n" />
+                <word id="30" cont="理事" pos="n" />
+                <word id="31" cont="，" pos="wp" />
+                <word id="32" cont="红旗" pos="n" />
+                <word id="33" cont="出版社" pos="n" />
+                <word id="34" cont="《" pos="wp" />
+                <word id="35" cont="鲜红" pos="b" />
+                <word id="36" cont="的" pos="u" />
+                <word id="37" cont="党旗" pos="n" />
+                <word id="38" cont="》" pos="wp" />
+                <word id="39" cont="大型" pos="b" />
+                <word id="40" cont="画册" pos="n" />
+                <word id="41" cont="编委" pos="n" />
+                <word id="42" cont="，" pos="wp" />
+                <word id="43" cont="中国" pos="ns" />
+                <word id="44" cont="艺术" pos="n" />
+                <word id="45" cont="研究院" pos="n" />
+                <word id="46" cont="文研" pos="j" />
+                <word id="47" cont="中心" pos="n" />
+                <word id="48" cont="燕京" pos="ns" />
+                <word id="49" cont="书画院" pos="n" />
+                <word id="50" cont="副" pos="b" />
+                <word id="51" cont="院长" pos="n" />
+                <word id="52" cont="，" pos="wp" />
+                <word id="53" cont="北京" pos="ns" />
+                <word id="54" cont="国际" pos="n" />
+                <word id="55" cont="奥林匹克" pos="nz" />
+                <word id="56" cont="书画院" pos="n" />
+                <word id="57" cont="名誉" pos="n" />
+                <word id="58" cont="院长" pos="n" />
+                <word id="59" cont="，" pos="wp" />
+                <word id="60" cont="北京" pos="ns" />
+                <word id="61" cont="东方" pos="nd" />
+                <word id="62" cont="艺术" pos="n" />
+                <word id="63" cont="研究会" pos="n" />
+                <word id="64" cont="副" pos="b" />
+                <word id="65" cont="会长" pos="n" />
+                <word id="66" cont="，" pos="wp" />
+                <word id="67" cont="全国" pos="n" />
+                <word id="68" cont="市长" pos="n" />
+                <word id="69" cont="书画院" pos="n" />
+                <word id="70" cont="院士;" pos="u" />
+            </sent>
+            <sent id="1" cont="中国书画名家名作研究院高级研究员，涿州市首届美术家协会主席，河北省政协画室高级画师，河北省政协委员会第6、7、8届委员，曾任涿州市人大副主任、政协副主席、文化体育局副局长，国际美术家联合会会员，中国版画家协会会员，中国国画家协会会员，中国美术家协会河北分会会员。">
+                <word id="0" cont="中国" pos="ns" />
+                <word id="1" cont="书画" pos="n" />
+                <word id="2" cont="名家" pos="n" />
+                <word id="3" cont="名作" pos="n" />
+                <word id="4" cont="研究院" pos="n" />
+                <word id="5" cont="高级" pos="a" />
+                <word id="6" cont="研究员" pos="n" />
+                <word id="7" cont="，" pos="wp" />
+                <word id="8" cont="涿州市" pos="ns" />
+                <word id="9" cont="首" pos="m" />
+                <word id="10" cont="届" pos="q" />
+                <word id="11" cont="美术家" pos="n" />
+                <word id="12" cont="协会" pos="n" />
+                <word id="13" cont="主席" pos="n" />
+                <word id="14" cont="，" pos="wp" />
+                <word id="15" cont="河北省" pos="ns" />
+                <word id="16" cont="政协" pos="j" />
+                <word id="17" cont="画室" pos="n" />
+                <word id="18" cont="高级" pos="a" />
+                <word id="19" cont="画师" pos="n" />
+                <word id="20" cont="，" pos="wp" />
+                <word id="21" cont="河北省" pos="ns" />
+                <word id="22" cont="政协" pos="j" />
+                <word id="23" cont="委员会" pos="n" />
+                <word id="24" cont="第6" pos="nh" />
+                <word id="25" cont="、" pos="wp" />
+                <word id="26" cont="7" pos="m" />
+                <word id="27" cont="、" pos="wp" />
+                <word id="28" cont="8" pos="m" />
+                <word id="29" cont="届" pos="q" />
+                <word id="30" cont="委员" pos="n" />
+                <word id="31" cont="，" pos="wp" />
+                <word id="32" cont="曾" pos="d" />
+                <word id="33" cont="任" pos="v" />
+                <word id="34" cont="涿州市" pos="ns" />
+                <word id="35" cont="人大" pos="j" />
+                <word id="36" cont="副" pos="b" />
+                <word id="37" cont="主任" pos="n" />
+                <word id="38" cont="、" pos="wp" />
+                <word id="39" cont="政协" pos="j" />
+                <word id="40" cont="副" pos="b" />
+                <word id="41" cont="主席" pos="n" />
+                <word id="42" cont="、" pos="wp" />
+                <word id="43" cont="文化" pos="n" />
+                <word id="44" cont="体育局" pos="n" />
+                <word id="45" cont="副" pos="b" />
+                <word id="46" cont="局长" pos="n" />
+                <word id="47" cont="，" pos="wp" />
+                <word id="48" cont="国际" pos="n" />
+                <word id="49" cont="美术家" pos="n" />
+                <word id="50" cont="联合会" pos="n" />
+                <word id="51" cont="会员" pos="n" />
+                <word id="52" cont="，" pos="wp" />
+                <word id="53" cont="中国" pos="ns" />
+                <word id="54" cont="版画家" pos="n" />
+                <word id="55" cont="协会" pos="n" />
+                <word id="56" cont="会员" pos="n" />
+                <word id="57" cont="，" pos="wp" />
+                <word id="58" cont="中国" pos="ns" />
+                <word id="59" cont="国画家" pos="n" />
+                <word id="60" cont="协会" pos="n" />
+                <word id="61" cont="会员" pos="n" />
+                <word id="62" cont="，" pos="wp" />
+                <word id="63" cont="中国" pos="ns" />
+                <word id="64" cont="美术家" pos="n" />
+                <word id="65" cont="协会" pos="n" />
+                <word id="66" cont="河北" pos="ns" />
+                <word id="67" cont="分会" pos="n" />
+                <word id="68" cont="会员" pos="n" />
+                <word id="69" cont="。" pos="wp" />
+            </sent>
+        </para>
+        <para id="5">
+            <sent id="0" cont="80后唯美派和悲情派的代表作家。">
+                <word id="0" cont="80" pos="m" />
+                <word id="1" cont="后" pos="nd" />
+                <word id="2" cont="唯" pos="d" />
+                <word id="3" cont="美派" pos="n" />
+                <word id="4" cont="和" pos="c" />
+                <word id="5" cont="悲情派" pos="n" />
+                <word id="6" cont="的" pos="u" />
+                <word id="7" cont="代表" pos="n" />
+                <word id="8" cont="作家" pos="n" />
+                <word id="9" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="原名白雪，祖籍吉林，满族人，1985年10月13日出生于陕西省安康市，后随父母搬往河南省新乡市。">
+                <word id="0" cont="原名" pos="n" />
+                <word id="1" cont="白雪" pos="n" />
+                <word id="2" cont="，" pos="wp" />
+                <word id="3" cont="祖籍" pos="n" />
+                <word id="4" cont="吉林" pos="ns" />
+                <word id="5" cont="，" pos="wp" />
+                <word id="6" cont="满族人" pos="n" />
+                <word id="7" cont="，" pos="wp" />
+                <word id="8" cont="1985年" pos="m" />
+                <word id="9" cont="10月" pos="m" />
+                <word id="10" cont="13日" pos="m" />
+                <word id="11" cont="出生" pos="v" />
+                <word id="12" cont="于" pos="p" />
+                <word id="13" cont="陕西省" pos="ns" />
+                <word id="14" cont="安康市" pos="ns" />
+                <word id="15" cont="，" pos="wp" />
+                <word id="16" cont="后" pos="nd" />
+                <word id="17" cont="随" pos="p" />
+                <word id="18" cont="父母" pos="n" />
+                <word id="19" cont="搬" pos="v" />
+                <word id="20" cont="往" pos="p" />
+                <word id="21" cont="河南省" pos="ns" />
+                <word id="22" cont="新乡市" pos="ns" />
+                <word id="23" cont="。" pos="wp" />
+            </sent>
+        </para>
+        <para id="6">
+            <sent id="0" cont="孙皓晖先生的长篇小说《大秦帝国之黑色裂变》中所虚构的女主角。">
+                <word id="0" cont="孙皓晖" pos="nh" />
+                <word id="1" cont="先生" pos="n" />
+                <word id="2" cont="的" pos="u" />
+                <word id="3" cont="长篇小说" pos="i" />
+                <word id="4" cont="《" pos="wp" />
+                <word id="5" cont="大" pos="a" />
+                <word id="6" cont="秦帝国" pos="n" />
+                <word id="7" cont="之" pos="u" />
+                <word id="8" cont="黑色" pos="n" />
+                <word id="9" cont="裂变" pos="n" />
+                <word id="10" cont="》" pos="wp" />
+                <word id="11" cont="中" pos="nd" />
+                <word id="12" cont="所" pos="u" />
+                <word id="13" cont="虚构" pos="v" />
+                <word id="14" cont="的" pos="u" />
+                <word id="15" cont="女" pos="b" />
+                <word id="16" cont="主角" pos="n" />
+                <word id="17" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="白雪是战国时期魏国政商白圭之女，她不仅有着明艳绝伦的美貌，还具有罕见的智慧胆识。">
+                <word id="0" cont="白雪" pos="n" />
+                <word id="1" cont="是" pos="v" />
+                <word id="2" cont="战国" pos="nt" />
+                <word id="3" cont="时期" pos="n" />
+                <word id="4" cont="魏国政" pos="nh" />
+                <word id="5" cont="商" pos="n" />
+                <word id="6" cont="白圭" pos="nh" />
+                <word id="7" cont="之" pos="u" />
+                <word id="8" cont="女" pos="n" />
+                <word id="9" cont="，" pos="wp" />
+                <word id="10" cont="她" pos="r" />
+                <word id="11" cont="不仅" pos="c" />
+                <word id="12" cont="有着" pos="v" />
+                <word id="13" cont="明艳绝伦" pos="i" />
+                <word id="14" cont="的" pos="u" />
+                <word id="15" cont="美貌" pos="n" />
+                <word id="16" cont="，" pos="wp" />
+                <word id="17" cont="还" pos="d" />
+                <word id="18" cont="具有" pos="v" />
+                <word id="19" cont="罕见" pos="a" />
+                <word id="20" cont="的" pos="u" />
+                <word id="21" cont="智慧" pos="n" />
+                <word id="22" cont="胆识" pos="n" />
+                <word id="23" cont="。" pos="wp" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>

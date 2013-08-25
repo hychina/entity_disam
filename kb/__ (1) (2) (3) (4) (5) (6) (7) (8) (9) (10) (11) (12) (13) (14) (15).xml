@@ -1,0 +1,1548 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="n" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="清代同安县厦门人。">
+                <word id="0" cont="清代" pos="nt" />
+                <word id="1" cont="同安县" pos="ns" />
+                <word id="2" cont="厦门人" pos="n" />
+                <word id="3" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="壮年人伍，后任水师前营游击。">
+                <word id="0" cont="壮年" pos="nt" />
+                <word id="1" cont="人伍" pos="nt" />
+                <word id="2" cont="，" pos="wp" />
+                <word id="3" cont="后" pos="nd" />
+                <word id="4" cont="任" pos="v" />
+                <word id="5" cont="水师" pos="n" />
+                <word id="6" cont="前营" pos="v" />
+                <word id="7" cont="游击" pos="b" />
+                <word id="8" cont="。" pos="wp" />
+            </sent>
+            <sent id="2" cont="乾隆三十四年（1769年），奉命赴缅甸剿贼身亡。">
+                <word id="0" cont="乾隆" pos="nt" />
+                <word id="1" cont="三十四年" pos="nt" />
+                <word id="2" cont="（" pos="wp" />
+                <word id="3" cont="1769年" pos="m" />
+                <word id="4" cont="）" pos="wp" />
+                <word id="5" cont="，" pos="wp" />
+                <word id="6" cont="奉命" pos="v" />
+                <word id="7" cont="赴" pos="v" />
+                <word id="8" cont="缅甸" pos="ns" />
+                <word id="9" cont="剿贼" pos="v" />
+                <word id="10" cont="身亡" pos="v" />
+                <word id="11" cont="。" pos="wp" />
+            </sent>
+        </para>
+        <para id="1">
+            <sent id="0" cont="晚清书画家，清婺源（今江西婺源）人，咸丰（1853-1860）间曾居上海数年。">
+                <word id="0" cont="晚清" pos="nt" />
+                <word id="1" cont="书画家" pos="n" />
+                <word id="2" cont="，" pos="wp" />
+                <word id="3" cont="清" pos="v" />
+                <word id="4" cont="婺源" pos="ns" />
+                <word id="5" cont="（" pos="wp" />
+                <word id="6" cont="今" pos="nt" />
+                <word id="7" cont="江西" pos="ns" />
+                <word id="8" cont="婺源" pos="ns" />
+                <word id="9" cont="）" pos="wp" />
+                <word id="10" cont="人" pos="n" />
+                <word id="11" cont="，" pos="wp" />
+                <word id="12" cont="咸丰" pos="n" />
+                <word id="13" cont="（" pos="wp" />
+                <word id="14" cont="1853" pos="m" />
+                <word id="15" cont="-" pos="n" />
+                <word id="16" cont="1860" pos="m" />
+                <word id="17" cont="）" pos="wp" />
+                <word id="18" cont="间" pos="nd" />
+                <word id="19" cont="曾" pos="d" />
+                <word id="20" cont="居" pos="v" />
+                <word id="21" cont="上海" pos="ns" />
+                <word id="22" cont="数" pos="m" />
+                <word id="23" cont="年" pos="q" />
+                <word id="24" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="工书及篆刻，擅绘山水。">
+                <word id="0" cont="工书" pos="n" />
+                <word id="1" cont="及" pos="c" />
+                <word id="2" cont="篆刻" pos="n" />
+                <word id="3" cont="，" pos="wp" />
+                <word id="4" cont="擅绘" pos="v" />
+                <word id="5" cont="山水" pos="n" />
+                <word id="6" cont="。" pos="wp" />
+            </sent>
+            <sent id="2" cont="初宗董源，后仿荆、关，画松桐最擅长，多用水墨。">
+                <word id="0" cont="初宗" pos="v" />
+                <word id="1" cont="董源" pos="nh" />
+                <word id="2" cont="，" pos="wp" />
+                <word id="3" cont="后" pos="nd" />
+                <word id="4" cont="仿荆" pos="v" />
+                <word id="5" cont="、" pos="wp" />
+                <word id="6" cont="关" pos="n" />
+                <word id="7" cont="，" pos="wp" />
+                <word id="8" cont="画松" pos="n" />
+                <word id="9" cont="桐" pos="n" />
+                <word id="10" cont="最" pos="d" />
+                <word id="11" cont="擅长" pos="v" />
+                <word id="12" cont="，" pos="wp" />
+                <word id="13" cont="多" pos="a" />
+                <word id="14" cont="用" pos="p" />
+                <word id="15" cont="水墨" pos="n" />
+                <word id="16" cont="。" pos="wp" />
+            </sent>
+            <sent id="3" cont="晚岁尤工小楷，喜用鸡毫。">
+                <word id="0" cont="晚" pos="nt" />
+                <word id="1" cont="岁" pos="q" />
+                <word id="2" cont="尤工" pos="n" />
+                <word id="3" cont="小楷" pos="nh" />
+                <word id="4" cont="，" pos="wp" />
+                <word id="5" cont="喜" pos="v" />
+                <word id="6" cont="用" pos="v" />
+                <word id="7" cont="鸡毫" pos="n" />
+                <word id="8" cont="。" pos="wp" />
+            </sent>
+        </para>
+        <para id="2">
+            <sent id="0" cont="乳名永煌，号晓沧，又名执中，福建省连城县芷溪人。">
+                <word id="0" cont="乳名" pos="n" />
+                <word id="1" cont="永煌" pos="a" />
+                <word id="2" cont="，" pos="wp" />
+                <word id="3" cont="号" pos="n" />
+                <word id="4" cont="晓沧" pos="nh" />
+                <word id="5" cont="，" pos="wp" />
+                <word id="6" cont="又" pos="d" />
+                <word id="7" cont="名" pos="q" />
+                <word id="8" cont="执" pos="v" />
+                <word id="9" cont="中" pos="nd" />
+                <word id="10" cont="，" pos="wp" />
+                <word id="11" cont="福建省" pos="ns" />
+                <word id="12" cont="连城县" pos="ns" />
+                <word id="13" cont="芷溪人" pos="n" />
+                <word id="14" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="民国3年（1914年），仅18岁的黄海与学友傅柏翠等东渡日本留学，就读于日本东京法政学院。">
+                <word id="0" cont="民国" pos="n" />
+                <word id="1" cont="3年" pos="m" />
+                <word id="2" cont="（" pos="wp" />
+                <word id="3" cont="1914年" pos="m" />
+                <word id="4" cont="）" pos="wp" />
+                <word id="5" cont="，" pos="wp" />
+                <word id="6" cont="仅" pos="d" />
+                <word id="7" cont="18" pos="m" />
+                <word id="8" cont="岁" pos="q" />
+                <word id="9" cont="的" pos="u" />
+                <word id="10" cont="黄海" pos="ns" />
+                <word id="11" cont="与" pos="p" />
+                <word id="12" cont="学友" pos="n" />
+                <word id="13" cont="傅柏翠" pos="nh" />
+                <word id="14" cont="等" pos="u" />
+                <word id="15" cont="东渡" pos="v" />
+                <word id="16" cont="日本" pos="ns" />
+                <word id="17" cont="留学" pos="v" />
+                <word id="18" cont="，" pos="wp" />
+                <word id="19" cont="就读" pos="v" />
+                <word id="20" cont="于" pos="p" />
+                <word id="21" cont="日本" pos="ns" />
+                <word id="22" cont="东京" pos="ns" />
+                <word id="23" cont="法政" pos="n" />
+                <word id="24" cont="学院" pos="n" />
+                <word id="25" cont="。" pos="wp" />
+            </sent>
+            <sent id="2" cont="在日本求学期间，先后参加孙中山组织的中华革命党、中国同盟会、中国国民党，从事救国救民的革命工作。">
+                <word id="0" cont="在" pos="p" />
+                <word id="1" cont="日本" pos="ns" />
+                <word id="2" cont="求学" pos="v" />
+                <word id="3" cont="期间" pos="nd" />
+                <word id="4" cont="，" pos="wp" />
+                <word id="5" cont="先后" pos="d" />
+                <word id="6" cont="参加" pos="v" />
+                <word id="7" cont="孙中山" pos="nh" />
+                <word id="8" cont="组织" pos="v" />
+                <word id="9" cont="的" pos="u" />
+                <word id="10" cont="中华" pos="nz" />
+                <word id="11" cont="革命党" pos="n" />
+                <word id="12" cont="、" pos="wp" />
+                <word id="13" cont="中国" pos="ns" />
+                <word id="14" cont="同盟会" pos="ni" />
+                <word id="15" cont="、" pos="wp" />
+                <word id="16" cont="中国" pos="ns" />
+                <word id="17" cont="国民党" pos="n" />
+                <word id="18" cont="，" pos="wp" />
+                <word id="19" cont="从事" pos="v" />
+                <word id="20" cont="救国救民" pos="i" />
+                <word id="21" cont="的" pos="u" />
+                <word id="22" cont="革命" pos="v" />
+                <word id="23" cont="工作" pos="v" />
+                <word id="24" cont="。" pos="wp" />
+            </sent>
+            <sent id="3" cont="取得政法学士学位回国后，即参加孙中山领导的北伐革命军，任以陈肇英为师长的援闽浙军补充二团团长。">
+                <word id="0" cont="取得" pos="v" />
+                <word id="1" cont="政法" pos="j" />
+                <word id="2" cont="学士" pos="n" />
+                <word id="3" cont="学位" pos="n" />
+                <word id="4" cont="回国" pos="v" />
+                <word id="5" cont="后" pos="nd" />
+                <word id="6" cont="，" pos="wp" />
+                <word id="7" cont="即" pos="v" />
+                <word id="8" cont="参加" pos="v" />
+                <word id="9" cont="孙中山" pos="nh" />
+                <word id="10" cont="领导" pos="v" />
+                <word id="11" cont="的" pos="u" />
+                <word id="12" cont="北伐" pos="v" />
+                <word id="13" cont="革命军" pos="n" />
+                <word id="14" cont="，" pos="wp" />
+                <word id="15" cont="任" pos="v" />
+                <word id="16" cont="以" pos="p" />
+                <word id="17" cont="陈肇英" pos="nh" />
+                <word id="18" cont="为" pos="v" />
+                <word id="19" cont="师长" pos="n" />
+                <word id="20" cont="的" pos="u" />
+                <word id="21" cont="援" pos="v" />
+                <word id="22" cont="闽" pos="j" />
+                <word id="23" cont="浙军" pos="n" />
+                <word id="24" cont="补充" pos="v" />
+                <word id="25" cont="二团" pos="n" />
+                <word id="26" cont="团长" pos="n" />
+                <word id="27" cont="。" pos="wp" />
+            </sent>
+            <sent id="4" cont="民国11年，广东军阀陈炯明部叛变，派兵围攻总统府。">
+                <word id="0" cont="民国" pos="n" />
+                <word id="1" cont="11" pos="m" />
+                <word id="2" cont="年" pos="q" />
+                <word id="3" cont="，" pos="wp" />
+                <word id="4" cont="广东" pos="ns" />
+                <word id="5" cont="军阀" pos="n" />
+                <word id="6" cont="陈炯明部" pos="nh" />
+                <word id="7" cont="叛变" pos="v" />
+                <word id="8" cont="，" pos="wp" />
+                <word id="9" cont="派兵" pos="v" />
+                <word id="10" cont="围攻" pos="v" />
+                <word id="11" cont="总统府" pos="n" />
+                <word id="12" cont="。" pos="wp" />
+            </sent>
+            <sent id="5" cont="孙中山在危急情况下，漏夜突围脱险。">
+                <word id="0" cont="孙中山" pos="nh" />
+                <word id="1" cont="在" pos="p" />
+                <word id="2" cont="危急" pos="a" />
+                <word id="3" cont="情况" pos="n" />
+                <word id="4" cont="下" pos="nd" />
+                <word id="5" cont="，" pos="wp" />
+                <word id="6" cont="漏夜" pos="nh" />
+                <word id="7" cont="突围" pos="v" />
+                <word id="8" cont="脱险" pos="v" />
+                <word id="9" cont="。" pos="wp" />
+            </sent>
+            <sent id="6" cont="黄海虽然深信孙中山的领导，但国事如此，愤而弃职，回家隐居。">
+                <word id="0" cont="黄海" pos="ns" />
+                <word id="1" cont="虽然" pos="c" />
+                <word id="2" cont="深信" pos="v" />
+                <word id="3" cont="孙中山" pos="nh" />
+                <word id="4" cont="的" pos="u" />
+                <word id="5" cont="领导" pos="v" />
+                <word id="6" cont="，" pos="wp" />
+                <word id="7" cont="但" pos="c" />
+                <word id="8" cont="国事" pos="n" />
+                <word id="9" cont="如此" pos="r" />
+                <word id="10" cont="，" pos="wp" />
+                <word id="11" cont="愤" pos="v" />
+                <word id="12" cont="而" pos="c" />
+                <word id="13" cont="弃职" pos="v" />
+                <word id="14" cont="，" pos="wp" />
+                <word id="15" cont="回家" pos="v" />
+                <word id="16" cont="隐居" pos="v" />
+                <word id="17" cont="。" pos="wp" />
+            </sent>
+            <sent id="7" cont="民国15年2月，黄海在郁郁中英年早逝。">
+                <word id="0" cont="民国" pos="n" />
+                <word id="1" cont="15年" pos="m" />
+                <word id="2" cont="2月" pos="m" />
+                <word id="3" cont="，" pos="wp" />
+                <word id="4" cont="黄海" pos="ns" />
+                <word id="5" cont="在" pos="p" />
+                <word id="6" cont="郁郁" pos="a" />
+                <word id="7" cont="中" pos="nd" />
+                <word id="8" cont="英年早逝" pos="i" />
+                <word id="9" cont="。" pos="wp" />
+            </sent>
+        </para>
+        <para id="3">
+            <sent id="0" cont="商务部部长助理，1947年7月出生，1968年6月参加工作，1976年1月入党。">
+                <word id="0" cont="商务部" pos="n" />
+                <word id="1" cont="部长" pos="n" />
+                <word id="2" cont="助理" pos="n" />
+                <word id="3" cont="，" pos="wp" />
+                <word id="4" cont="1947年" pos="m" />
+                <word id="5" cont="7月" pos="m" />
+                <word id="6" cont="出生" pos="v" />
+                <word id="7" cont="，" pos="wp" />
+                <word id="8" cont="1968年" pos="m" />
+                <word id="9" cont="6月" pos="m" />
+                <word id="10" cont="参加" pos="v" />
+                <word id="11" cont="工作" pos="n" />
+                <word id="12" cont="，" pos="wp" />
+                <word id="13" cont="1976年" pos="m" />
+                <word id="14" cont="1月" pos="m" />
+                <word id="15" cont="入党" pos="v" />
+                <word id="16" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="毕业于中国人民大学工业经济管理专业（成人教育）和中共中央党校理论部研究生班，法学硕士。">
+                <word id="0" cont="毕业" pos="v" />
+                <word id="1" cont="于" pos="p" />
+                <word id="2" cont="中国" pos="ns" />
+                <word id="3" cont="人民" pos="n" />
+                <word id="4" cont="大学" pos="n" />
+                <word id="5" cont="工业" pos="n" />
+                <word id="6" cont="经济" pos="n" />
+                <word id="7" cont="管理" pos="v" />
+                <word id="8" cont="专业" pos="n" />
+                <word id="9" cont="（" pos="wp" />
+                <word id="10" cont="成人" pos="n" />
+                <word id="11" cont="教育" pos="v" />
+                <word id="12" cont="）" pos="wp" />
+                <word id="13" cont="和" pos="c" />
+                <word id="14" cont="中共中央" pos="ni" />
+                <word id="15" cont="党校" pos="n" />
+                <word id="16" cont="理论部" pos="n" />
+                <word id="17" cont="研究生班" pos="n" />
+                <word id="18" cont="，" pos="wp" />
+                <word id="19" cont="法学" pos="n" />
+                <word id="20" cont="硕士" pos="n" />
+                <word id="21" cont="。" pos="wp" />
+            </sent>
+            <sent id="2" cont="2000年11月起，国家经贸委贸易市场局局长；2003年6月起，商务部市场运行调节司司长、国家茧丝绸协调办公室主任；2003年7月起，商务部党组成员、部长助理兼市场运行调节司司长、国家茧丝协调办公室主任；2003年12月起，商务部党组成员、部长助理，国家茧丝绸协调办公室主任。">
+                <word id="0" cont="2000年" pos="m" />
+                <word id="1" cont="11月" pos="m" />
+                <word id="2" cont="起" pos="q" />
+                <word id="3" cont="，" pos="wp" />
+                <word id="4" cont="国家" pos="n" />
+                <word id="5" cont="经贸委" pos="j" />
+                <word id="6" cont="贸易" pos="v" />
+                <word id="7" cont="市场局" pos="n" />
+                <word id="8" cont="局长" pos="n" />
+                <word id="9" cont="；" pos="wp" />
+                <word id="10" cont="2003年" pos="m" />
+                <word id="11" cont="6月" pos="m" />
+                <word id="12" cont="起" pos="q" />
+                <word id="13" cont="，" pos="wp" />
+                <word id="14" cont="商务部" pos="n" />
+                <word id="15" cont="市场" pos="n" />
+                <word id="16" cont="运行" pos="v" />
+                <word id="17" cont="调节司" pos="n" />
+                <word id="18" cont="司长" pos="n" />
+                <word id="19" cont="、" pos="wp" />
+                <word id="20" cont="国家" pos="n" />
+                <word id="21" cont="茧" pos="n" />
+                <word id="22" cont="丝绸" pos="n" />
+                <word id="23" cont="协调" pos="v" />
+                <word id="24" cont="办公室" pos="n" />
+                <word id="25" cont="主任" pos="n" />
+                <word id="26" cont="；" pos="wp" />
+                <word id="27" cont="2003年" pos="m" />
+                <word id="28" cont="7月" pos="m" />
+                <word id="29" cont="起" pos="q" />
+                <word id="30" cont="，" pos="wp" />
+                <word id="31" cont="商务部" pos="n" />
+                <word id="32" cont="党组" pos="n" />
+                <word id="33" cont="成员" pos="n" />
+                <word id="34" cont="、" pos="wp" />
+                <word id="35" cont="部长" pos="n" />
+                <word id="36" cont="助理" pos="n" />
+                <word id="37" cont="兼" pos="v" />
+                <word id="38" cont="市场" pos="n" />
+                <word id="39" cont="运行" pos="v" />
+                <word id="40" cont="调节司" pos="n" />
+                <word id="41" cont="司长" pos="n" />
+                <word id="42" cont="、" pos="wp" />
+                <word id="43" cont="国家" pos="n" />
+                <word id="44" cont="茧丝" pos="n" />
+                <word id="45" cont="协调" pos="v" />
+                <word id="46" cont="办公室" pos="n" />
+                <word id="47" cont="主任" pos="n" />
+                <word id="48" cont="；" pos="wp" />
+                <word id="49" cont="2003年" pos="m" />
+                <word id="50" cont="12月" pos="m" />
+                <word id="51" cont="起" pos="q" />
+                <word id="52" cont="，" pos="wp" />
+                <word id="53" cont="商务部" pos="n" />
+                <word id="54" cont="党组" pos="n" />
+                <word id="55" cont="成员" pos="n" />
+                <word id="56" cont="、" pos="wp" />
+                <word id="57" cont="部长" pos="n" />
+                <word id="58" cont="助理" pos="n" />
+                <word id="59" cont="，" pos="wp" />
+                <word id="60" cont="国家" pos="n" />
+                <word id="61" cont="茧" pos="n" />
+                <word id="62" cont="丝绸" pos="n" />
+                <word id="63" cont="协调" pos="v" />
+                <word id="64" cont="办公室" pos="n" />
+                <word id="65" cont="主任" pos="n" />
+                <word id="66" cont="。" pos="wp" />
+            </sent>
+        </para>
+        <para id="4">
+            <sent id="0" cont="四川省科技青年联合会会员，四川省宜宾市人，在四川大学自动化系自动控制专业深造，潜心科技发明，已有多项发明创造。">
+                <word id="0" cont="四川省" pos="ns" />
+                <word id="1" cont="科技" pos="n" />
+                <word id="2" cont="青年" pos="n" />
+                <word id="3" cont="联合会" pos="n" />
+                <word id="4" cont="会员" pos="n" />
+                <word id="5" cont="，" pos="wp" />
+                <word id="6" cont="四川省" pos="ns" />
+                <word id="7" cont="宜宾市人" pos="n" />
+                <word id="8" cont="，" pos="wp" />
+                <word id="9" cont="在" pos="p" />
+                <word id="10" cont="四川" pos="ns" />
+                <word id="11" cont="大学" pos="n" />
+                <word id="12" cont="自动化系" pos="n" />
+                <word id="13" cont="自动" pos="d" />
+                <word id="14" cont="控制" pos="v" />
+                <word id="15" cont="专业" pos="n" />
+                <word id="16" cont="深造" pos="v" />
+                <word id="17" cont="，" pos="wp" />
+                <word id="18" cont="潜心" pos="d" />
+                <word id="19" cont="科技" pos="n" />
+                <word id="20" cont="发明" pos="v" />
+                <word id="21" cont="，" pos="wp" />
+                <word id="22" cont="已" pos="d" />
+                <word id="23" cont="有" pos="v" />
+                <word id="24" cont="多" pos="a" />
+                <word id="25" cont="项" pos="q" />
+                <word id="26" cont="发明" pos="v" />
+                <word id="27" cont="创造" pos="v" />
+                <word id="28" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="其中“国际钟表”和“一种自带胶信封”两项已获国家专利。">
+                <word id="0" cont="其中" pos="r" />
+                <word id="1" cont="“" pos="wp" />
+                <word id="2" cont="国际" pos="n" />
+                <word id="3" cont="钟表" pos="n" />
+                <word id="4" cont="”" pos="wp" />
+                <word id="5" cont="和" pos="c" />
+                <word id="6" cont="“" pos="wp" />
+                <word id="7" cont="一" pos="m" />
+                <word id="8" cont="种" pos="q" />
+                <word id="9" cont="自" pos="r" />
+                <word id="10" cont="带" pos="v" />
+                <word id="11" cont="胶" pos="n" />
+                <word id="12" cont="信封" pos="n" />
+                <word id="13" cont="”" pos="wp" />
+                <word id="14" cont="两" pos="m" />
+                <word id="15" cont="项" pos="q" />
+                <word id="16" cont="已" pos="d" />
+                <word id="17" cont="获" pos="v" />
+                <word id="18" cont="国家" pos="n" />
+                <word id="19" cont="专利" pos="n" />
+                <word id="20" cont="。" pos="wp" />
+            </sent>
+        </para>
+        <para id="5">
+            <sent id="0" cont="生于1977年9月，高县潆溪乡人。">
+                <word id="0" cont="生于" pos="v" />
+                <word id="1" cont="1977年" pos="m" />
+                <word id="2" cont="9月" pos="m" />
+                <word id="3" cont="，" pos="wp" />
+                <word id="4" cont="高县" pos="ns" />
+                <word id="5" cont="潆溪乡人" pos="n" />
+                <word id="6" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="中共党员，大学本科学业，四川宜宾市高县来复镇中心校校长。">
+                <word id="0" cont="中共" pos="j" />
+                <word id="1" cont="党员" pos="n" />
+                <word id="2" cont="，" pos="wp" />
+                <word id="3" cont="大学" pos="n" />
+                <word id="4" cont="本科" pos="n" />
+                <word id="5" cont="学业" pos="n" />
+                <word id="6" cont="，" pos="wp" />
+                <word id="7" cont="四川" pos="ns" />
+                <word id="8" cont="宜宾市" pos="ns" />
+                <word id="9" cont="高县" pos="ns" />
+                <word id="10" cont="来复镇" pos="ns" />
+                <word id="11" cont="中心校" pos="n" />
+                <word id="12" cont="校长" pos="n" />
+                <word id="13" cont="。" pos="wp" />
+            </sent>
+        </para>
+        <para id="6">
+            <sent id="0" cont="湖南平江人，湖南省社会科学院社会学法学所副研究员，副所长，哲学硕士，华中科技大学社会学在读博士。">
+                <word id="0" cont="湖南" pos="ns" />
+                <word id="1" cont="平江人" pos="n" />
+                <word id="2" cont="，" pos="wp" />
+                <word id="3" cont="湖南省" pos="ns" />
+                <word id="4" cont="社会" pos="n" />
+                <word id="5" cont="科学院" pos="n" />
+                <word id="6" cont="社会学" pos="n" />
+                <word id="7" cont="法学所" pos="n" />
+                <word id="8" cont="副" pos="b" />
+                <word id="9" cont="研究员" pos="n" />
+                <word id="10" cont="，" pos="wp" />
+                <word id="11" cont="副" pos="b" />
+                <word id="12" cont="所长" pos="n" />
+                <word id="13" cont="，" pos="wp" />
+                <word id="14" cont="哲学" pos="n" />
+                <word id="15" cont="硕士" pos="n" />
+                <word id="16" cont="，" pos="wp" />
+                <word id="17" cont="华中" pos="ns" />
+                <word id="18" cont="科技" pos="n" />
+                <word id="19" cont="大学" pos="n" />
+                <word id="20" cont="社会学" pos="n" />
+                <word id="21" cont="在" pos="p" />
+                <word id="22" cont="读" pos="v" />
+                <word id="23" cont="博士" pos="n" />
+                <word id="24" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="2000年至今，在湖南省社会科学院社会学法学研究所从事专职科研工作，主要从事农村社会学和青年研究。">
+                <word id="0" cont="2000年" pos="m" />
+                <word id="1" cont="至" pos="p" />
+                <word id="2" cont="今" pos="nt" />
+                <word id="3" cont="，" pos="wp" />
+                <word id="4" cont="在" pos="p" />
+                <word id="5" cont="湖南省" pos="ns" />
+                <word id="6" cont="社会" pos="n" />
+                <word id="7" cont="科学院" pos="n" />
+                <word id="8" cont="社会学" pos="n" />
+                <word id="9" cont="法学" pos="n" />
+                <word id="10" cont="研究所" pos="n" />
+                <word id="11" cont="从事" pos="v" />
+                <word id="12" cont="专职" pos="b" />
+                <word id="13" cont="科研" pos="n" />
+                <word id="14" cont="工作" pos="v" />
+                <word id="15" cont="，" pos="wp" />
+                <word id="16" cont="主要" pos="d" />
+                <word id="17" cont="从事" pos="v" />
+                <word id="18" cont="农村" pos="n" />
+                <word id="19" cont="社会学" pos="n" />
+                <word id="20" cont="和" pos="c" />
+                <word id="21" cont="青年" pos="n" />
+                <word id="22" cont="研究" pos="v" />
+                <word id="23" cont="。" pos="wp" />
+            </sent>
+            <sent id="2" cont="2001年破格晋升为助理研究员，2005年10月破格晋升为副研究员。">
+                <word id="0" cont="2001年" pos="m" />
+                <word id="1" cont="破格" pos="v" />
+                <word id="2" cont="晋升" pos="v" />
+                <word id="3" cont="为" pos="v" />
+                <word id="4" cont="助理" pos="n" />
+                <word id="5" cont="研究员" pos="n" />
+                <word id="6" cont="，" pos="wp" />
+                <word id="7" cont="2005年" pos="m" />
+                <word id="8" cont="10月" pos="m" />
+                <word id="9" cont="破格" pos="v" />
+                <word id="10" cont="晋升" pos="v" />
+                <word id="11" cont="为" pos="v" />
+                <word id="12" cont="副" pos="b" />
+                <word id="13" cont="研究员" pos="n" />
+                <word id="14" cont="。" pos="wp" />
+            </sent>
+            <sent id="3" cont="2006年9月任社会学法学研究所副所长。">
+                <word id="0" cont="2006年" pos="m" />
+                <word id="1" cont="9月" pos="m" />
+                <word id="2" cont="任" pos="q" />
+                <word id="3" cont="社会学" pos="n" />
+                <word id="4" cont="法学" pos="n" />
+                <word id="5" cont="研究所" pos="n" />
+                <word id="6" cont="副" pos="b" />
+                <word id="7" cont="所长" pos="n" />
+                <word id="8" cont="。" pos="wp" />
+            </sent>
+        </para>
+        <para id="7">
+            <sent id="0" cont="原名黄炳煌，另有笔名凌霄子。">
+                <word id="0" cont="原名" pos="n" />
+                <word id="1" cont="黄炳煌" pos="nh" />
+                <word id="2" cont="，" pos="wp" />
+                <word id="3" cont="另" pos="d" />
+                <word id="4" cont="有" pos="v" />
+                <word id="5" cont="笔" pos="n" />
+                <word id="6" cont="名" pos="n" />
+                <word id="7" cont="凌霄子" pos="nh" />
+                <word id="8" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="1943年1月1日生于台中市，童年成长于母亲的故乡大甲，父籍江西，抗日战争前即来台，二二八事変后入籍台湾，1974年去世于台北永和市。">
+                <word id="0" cont="1943年" pos="m" />
+                <word id="1" cont="1月" pos="m" />
+                <word id="2" cont="1日" pos="m" />
+                <word id="3" cont="生于" pos="v" />
+                <word id="4" cont="台中市" pos="ns" />
+                <word id="5" cont="，" pos="wp" />
+                <word id="6" cont="童年" pos="nt" />
+                <word id="7" cont="成长" pos="v" />
+                <word id="8" cont="于" pos="p" />
+                <word id="9" cont="母亲" pos="n" />
+                <word id="10" cont="的" pos="u" />
+                <word id="11" cont="故乡" pos="n" />
+                <word id="12" cont="大甲" pos="n" />
+                <word id="13" cont="，" pos="wp" />
+                <word id="14" cont="父籍" pos="v" />
+                <word id="15" cont="江西" pos="ns" />
+                <word id="16" cont="，" pos="wp" />
+                <word id="17" cont="抗日战争" pos="nz" />
+                <word id="18" cont="前" pos="nd" />
+                <word id="19" cont="即" pos="v" />
+                <word id="20" cont="来" pos="v" />
+                <word id="21" cont="台" pos="j" />
+                <word id="22" cont="，" pos="wp" />
+                <word id="23" cont="二二八" pos="m" />
+                <word id="24" cont="事" pos="n" />
+                <word id="25" cont="変" pos="n" />
+                <word id="26" cont="后" pos="nd" />
+                <word id="27" cont="入" pos="v" />
+                <word id="28" cont="籍" pos="n" />
+                <word id="29" cont="台湾" pos="ns" />
+                <word id="30" cont="，" pos="wp" />
+                <word id="31" cont="1974年" pos="m" />
+                <word id="32" cont="去世" pos="v" />
+                <word id="33" cont="于" pos="p" />
+                <word id="34" cont="台北永" pos="n" />
+                <word id="35" cont="和" pos="c" />
+                <word id="36" cont="市" pos="n" />
+                <word id="37" cont="。" pos="wp" />
+            </sent>
+            <sent id="2" cont="台湾师范大学历史系毕业。">
+                <word id="0" cont="台湾" pos="ns" />
+                <word id="1" cont="师范大学" pos="n" />
+                <word id="2" cont="历史系" pos="n" />
+                <word id="3" cont="毕业" pos="v" />
+                <word id="4" cont="。" pos="wp" />
+            </sent>
+            <sent id="3" cont="曾任侨联总会总干事（侨讯半月刊主编）、兼任儿童月刊主编、科学儿童周刊主编。">
+                <word id="0" cont="曾" pos="d" />
+                <word id="1" cont="任" pos="v" />
+                <word id="2" cont="侨联" pos="j" />
+                <word id="3" cont="总会" pos="n" />
+                <word id="4" cont="总" pos="b" />
+                <word id="5" cont="干事" pos="n" />
+                <word id="6" cont="（" pos="wp" />
+                <word id="7" cont="侨讯" pos="nz" />
+                <word id="8" cont="半月刊" pos="n" />
+                <word id="9" cont="主编" pos="n" />
+                <word id="10" cont="）" pos="wp" />
+                <word id="11" cont="、" pos="wp" />
+                <word id="12" cont="兼任" pos="v" />
+                <word id="13" cont="儿童" pos="n" />
+                <word id="14" cont="月刊" pos="n" />
+                <word id="15" cont="主编" pos="n" />
+                <word id="16" cont="、" pos="wp" />
+                <word id="17" cont="科学" pos="n" />
+                <word id="18" cont="儿童" pos="n" />
+                <word id="19" cont="周刊" pos="n" />
+                <word id="20" cont="主编" pos="v" />
+                <word id="21" cont="。" pos="wp" />
+            </sent>
+            <sent id="4" cont="联合报编辑退休；退休后兼任静宜大学、世新大学“台湾文学”“科幻文学”讲师，东吴大学“科幻与现代文明”讲座；曾任台湾师大人文中心讲师、倪匡科幻奖、U19科幻小小说奖、教育部文艺创作奖等决审委员。">
+                <word id="0" cont="联合报" pos="n" />
+                <word id="1" cont="编辑" pos="n" />
+                <word id="2" cont="退休" pos="v" />
+                <word id="3" cont="；" pos="wp" />
+                <word id="4" cont="退休" pos="v" />
+                <word id="5" cont="后" pos="nd" />
+                <word id="6" cont="兼任" pos="v" />
+                <word id="7" cont="静宜" pos="v" />
+                <word id="8" cont="大学" pos="n" />
+                <word id="9" cont="、" pos="wp" />
+                <word id="10" cont="世" pos="n" />
+                <word id="11" cont="新" pos="a" />
+                <word id="12" cont="大学" pos="n" />
+                <word id="13" cont="“" pos="wp" />
+                <word id="14" cont="台湾" pos="ns" />
+                <word id="15" cont="文学" pos="n" />
+                <word id="16" cont="”" pos="wp" />
+                <word id="17" cont="“" pos="wp" />
+                <word id="18" cont="科幻" pos="b" />
+                <word id="19" cont="文学" pos="n" />
+                <word id="20" cont="”" pos="wp" />
+                <word id="21" cont="讲师" pos="n" />
+                <word id="22" cont="，" pos="wp" />
+                <word id="23" cont="东吴" pos="ns" />
+                <word id="24" cont="大学" pos="n" />
+                <word id="25" cont="“" pos="wp" />
+                <word id="26" cont="科幻" pos="n" />
+                <word id="27" cont="与" pos="p" />
+                <word id="28" cont="现代" pos="nt" />
+                <word id="29" cont="文明" pos="n" />
+                <word id="30" cont="”" pos="wp" />
+                <word id="31" cont="讲座" pos="n" />
+                <word id="32" cont="；" pos="wp" />
+                <word id="33" cont="曾" pos="d" />
+                <word id="34" cont="任" pos="v" />
+                <word id="35" cont="台湾" pos="ns" />
+                <word id="36" cont="师大" pos="n" />
+                <word id="37" cont="人文" pos="n" />
+                <word id="38" cont="中心" pos="n" />
+                <word id="39" cont="讲师" pos="n" />
+                <word id="40" cont="、" pos="wp" />
+                <word id="41" cont="倪匡科幻奖" pos="nz" />
+                <word id="42" cont="、" pos="wp" />
+                <word id="43" cont="U" pos="ws" />
+                <word id="44" cont="19" pos="m" />
+                <word id="45" cont="科幻" pos="b" />
+                <word id="46" cont="小小说" pos="n" />
+                <word id="47" cont="奖" pos="n" />
+                <word id="48" cont="、" pos="wp" />
+                <word id="49" cont="教育部" pos="ni" />
+                <word id="50" cont="文艺" pos="n" />
+                <word id="51" cont="创作奖" pos="n" />
+                <word id="52" cont="等" pos="u" />
+                <word id="53" cont="决审" pos="v" />
+                <word id="54" cont="委员" pos="n" />
+                <word id="55" cont="。" pos="wp" />
+            </sent>
+            <sent id="5" cont="从事文学创作数十年，作品涵盖成人文学与儿童文学的领域、科幻文学与传统文学的文类。">
+                <word id="0" cont="从事" pos="v" />
+                <word id="1" cont="文学" pos="n" />
+                <word id="2" cont="创作" pos="v" />
+                <word id="3" cont="数十" pos="m" />
+                <word id="4" cont="年" pos="q" />
+                <word id="5" cont="，" pos="wp" />
+                <word id="6" cont="作品" pos="n" />
+                <word id="7" cont="涵盖" pos="v" />
+                <word id="8" cont="成人" pos="n" />
+                <word id="9" cont="文学" pos="n" />
+                <word id="10" cont="与" pos="p" />
+                <word id="11" cont="儿童文学" pos="i" />
+                <word id="12" cont="的" pos="u" />
+                <word id="13" cont="领域" pos="n" />
+                <word id="14" cont="、" pos="wp" />
+                <word id="15" cont="科幻" pos="b" />
+                <word id="16" cont="文学" pos="n" />
+                <word id="17" cont="与" pos="p" />
+                <word id="18" cont="传统" pos="n" />
+                <word id="19" cont="文学" pos="n" />
+                <word id="20" cont="的" pos="u" />
+                <word id="21" cont="文类" pos="n" />
+                <word id="22" cont="。" pos="wp" />
+            </sent>
+            <sent id="6" cont="他是台湾唯一以科幻作品获得国家文艺奖、中山文艺奖的作家。">
+                <word id="0" cont="他" pos="r" />
+                <word id="1" cont="是" pos="v" />
+                <word id="2" cont="台湾" pos="ns" />
+                <word id="3" cont="唯一" pos="b" />
+                <word id="4" cont="以" pos="p" />
+                <word id="5" cont="科幻" pos="b" />
+                <word id="6" cont="作品" pos="n" />
+                <word id="7" cont="获得" pos="v" />
+                <word id="8" cont="国家" pos="n" />
+                <word id="9" cont="文艺" pos="n" />
+                <word id="10" cont="奖" pos="n" />
+                <word id="11" cont="、" pos="wp" />
+                <word id="12" cont="中山" pos="ns" />
+                <word id="13" cont="文艺" pos="n" />
+                <word id="14" cont="奖" pos="n" />
+                <word id="15" cont="的" pos="u" />
+                <word id="16" cont="作家" pos="n" />
+                <word id="17" cont="。" pos="wp" />
+            </sent>
+            <sent id="7" cont="1988年曾与妻子张丽雯及双胎儿子人仰、人望访问大陆，与姜云生、叶永烈、何启治、姚蜀平、汪兆骞见路面，1992年5月参加两岸儿童文学会议，趁便与吴岩、中国科幻之父郑文光及夫人、科幻海洋编辑叶冰如见面。">
+                <word id="0" cont="1988年" pos="m" />
+                <word id="1" cont="曾" pos="d" />
+                <word id="2" cont="与" pos="p" />
+                <word id="3" cont="妻子" pos="n" />
+                <word id="4" cont="张丽雯" pos="nh" />
+                <word id="5" cont="及" pos="c" />
+                <word id="6" cont="双胎" pos="j" />
+                <word id="7" cont="儿子" pos="n" />
+                <word id="8" cont="人仰" pos="nh" />
+                <word id="9" cont="、" pos="wp" />
+                <word id="10" cont="人" pos="n" />
+                <word id="11" cont="望" pos="v" />
+                <word id="12" cont="访问" pos="v" />
+                <word id="13" cont="大陆" pos="n" />
+                <word id="14" cont="，" pos="wp" />
+                <word id="15" cont="与" pos="p" />
+                <word id="16" cont="姜云生" pos="nh" />
+                <word id="17" cont="、" pos="wp" />
+                <word id="18" cont="叶永烈" pos="nh" />
+                <word id="19" cont="、" pos="wp" />
+                <word id="20" cont="何启治" pos="nh" />
+                <word id="21" cont="、" pos="wp" />
+                <word id="22" cont="姚蜀平" pos="nh" />
+                <word id="23" cont="、" pos="wp" />
+                <word id="24" cont="汪兆骞" pos="nh" />
+                <word id="25" cont="见" pos="v" />
+                <word id="26" cont="路面" pos="n" />
+                <word id="27" cont="，" pos="wp" />
+                <word id="28" cont="1992年" pos="m" />
+                <word id="29" cont="5月" pos="m" />
+                <word id="30" cont="参加" pos="v" />
+                <word id="31" cont="两岸" pos="n" />
+                <word id="32" cont="儿童文学" pos="i" />
+                <word id="33" cont="会议" pos="n" />
+                <word id="34" cont="，" pos="wp" />
+                <word id="35" cont="趁" pos="p" />
+                <word id="36" cont="便" pos="d" />
+                <word id="37" cont="与" pos="p" />
+                <word id="38" cont="吴岩" pos="nh" />
+                <word id="39" cont="、" pos="wp" />
+                <word id="40" cont="中国" pos="ns" />
+                <word id="41" cont="科幻" pos="n" />
+                <word id="42" cont="之" pos="u" />
+                <word id="43" cont="父" pos="n" />
+                <word id="44" cont="郑文光" pos="nh" />
+                <word id="45" cont="及" pos="c" />
+                <word id="46" cont="夫人" pos="n" />
+                <word id="47" cont="、" pos="wp" />
+                <word id="48" cont="科幻" pos="b" />
+                <word id="49" cont="海洋" pos="n" />
+                <word id="50" cont="编辑" pos="n" />
+                <word id="51" cont="叶冰" pos="nh" />
+                <word id="52" cont="如" pos="v" />
+                <word id="53" cont="见面" pos="v" />
+                <word id="54" cont="。" pos="wp" />
+            </sent>
+        </para>
+        <para id="8">
+            <sent id="0" cont="湖南望城人。">
+                <word id="0" cont="湖南" pos="ns" />
+                <word id="1" cont="望城" pos="ns" />
+                <word id="2" cont="人" pos="n" />
+                <word id="3" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="1964年毕业于湖南师范学院中文系。">
+                <word id="0" cont="1964年" pos="m" />
+                <word id="1" cont="毕业" pos="v" />
+                <word id="2" cont="于" pos="p" />
+                <word id="3" cont="湖南" pos="ns" />
+                <word id="4" cont="师范学院" pos="n" />
+                <word id="5" cont="中文系" pos="n" />
+                <word id="6" cont="。" pos="wp" />
+            </sent>
+            <sent id="2" cont="曾任湖南人民广播电台编辑、编辑组长、编辑部副主任、主任、副台长，中共湖南耒阳县委副书记，湖南人民广播电台台长兼党委书记，高级编辑。">
+                <word id="0" cont="曾" pos="d" />
+                <word id="1" cont="任" pos="v" />
+                <word id="2" cont="湖南" pos="ns" />
+                <word id="3" cont="人民" pos="n" />
+                <word id="4" cont="广播" pos="v" />
+                <word id="5" cont="电台" pos="n" />
+                <word id="6" cont="编辑" pos="n" />
+                <word id="7" cont="、" pos="wp" />
+                <word id="8" cont="编辑" pos="n" />
+                <word id="9" cont="组长" pos="n" />
+                <word id="10" cont="、" pos="wp" />
+                <word id="11" cont="编辑部" pos="n" />
+                <word id="12" cont="副" pos="b" />
+                <word id="13" cont="主任" pos="n" />
+                <word id="14" cont="、" pos="wp" />
+                <word id="15" cont="主任" pos="n" />
+                <word id="16" cont="、" pos="wp" />
+                <word id="17" cont="副" pos="b" />
+                <word id="18" cont="台长" pos="n" />
+                <word id="19" cont="，" pos="wp" />
+                <word id="20" cont="中共" pos="j" />
+                <word id="21" cont="湖南" pos="ns" />
+                <word id="22" cont="耒阳" pos="ns" />
+                <word id="23" cont="县委" pos="n" />
+                <word id="24" cont="副" pos="b" />
+                <word id="25" cont="书记" pos="n" />
+                <word id="26" cont="，" pos="wp" />
+                <word id="27" cont="湖南" pos="ns" />
+                <word id="28" cont="人民" pos="n" />
+                <word id="29" cont="广播" pos="v" />
+                <word id="30" cont="电台" pos="n" />
+                <word id="31" cont="台长" pos="n" />
+                <word id="32" cont="兼" pos="v" />
+                <word id="33" cont="党委" pos="n" />
+                <word id="34" cont="书记" pos="n" />
+                <word id="35" cont="，" pos="wp" />
+                <word id="36" cont="高级" pos="a" />
+                <word id="37" cont="编辑" pos="n" />
+                <word id="38" cont="。" pos="wp" />
+            </sent>
+            <sent id="3" cont="现任湖南省文联委员，湖南省新闻工作者协会理事，湖南省新闻学会理事，中国广播剧研究会副会长，湖南省广播电视学会副会长，湖南省文化厅副厅长、党组副书记。">
+                <word id="0" cont="现任" pos="b" />
+                <word id="1" cont="湖南省" pos="ns" />
+                <word id="2" cont="文联" pos="j" />
+                <word id="3" cont="委员" pos="n" />
+                <word id="4" cont="，" pos="wp" />
+                <word id="5" cont="湖南省" pos="ns" />
+                <word id="6" cont="新闻" pos="n" />
+                <word id="7" cont="工作者" pos="n" />
+                <word id="8" cont="协会" pos="n" />
+                <word id="9" cont="理事" pos="n" />
+                <word id="10" cont="，" pos="wp" />
+                <word id="11" cont="湖南省" pos="ns" />
+                <word id="12" cont="新闻" pos="n" />
+                <word id="13" cont="学会" pos="n" />
+                <word id="14" cont="理事" pos="n" />
+                <word id="15" cont="，" pos="wp" />
+                <word id="16" cont="中国" pos="ns" />
+                <word id="17" cont="广播剧" pos="n" />
+                <word id="18" cont="研究会" pos="n" />
+                <word id="19" cont="副" pos="b" />
+                <word id="20" cont="会长" pos="n" />
+                <word id="21" cont="，" pos="wp" />
+                <word id="22" cont="湖南省" pos="ns" />
+                <word id="23" cont="广播" pos="v" />
+                <word id="24" cont="电视" pos="n" />
+                <word id="25" cont="学会" pos="n" />
+                <word id="26" cont="副" pos="b" />
+                <word id="27" cont="会长" pos="n" />
+                <word id="28" cont="，" pos="wp" />
+                <word id="29" cont="湖南省" pos="ns" />
+                <word id="30" cont="文化厅" pos="n" />
+                <word id="31" cont="副" pos="b" />
+                <word id="32" cont="厅长" pos="n" />
+                <word id="33" cont="、" pos="wp" />
+                <word id="34" cont="党组" pos="n" />
+                <word id="35" cont="副" pos="b" />
+                <word id="36" cont="书记" pos="n" />
+                <word id="37" cont="。" pos="wp" />
+            </sent>
+            <sent id="4" cont="几十年来撰写了大量新闻、文艺作品以及理论文章。">
+                <word id="0" cont="几十" pos="m" />
+                <word id="1" cont="年" pos="q" />
+                <word id="2" cont="来" pos="nd" />
+                <word id="3" cont="撰写" pos="v" />
+                <word id="4" cont="了" pos="u" />
+                <word id="5" cont="大量" pos="m" />
+                <word id="6" cont="新闻" pos="n" />
+                <word id="7" cont="、" pos="wp" />
+                <word id="8" cont="文艺" pos="n" />
+                <word id="9" cont="作品" pos="n" />
+                <word id="10" cont="以及" pos="c" />
+                <word id="11" cont="理论" pos="n" />
+                <word id="12" cont="文章" pos="n" />
+                <word id="13" cont="。" pos="wp" />
+            </sent>
+            <sent id="5" cont="主要有广播剧《当乌云密布的时候》、《深夜小河边》、《不平静的夏夜》、《她还是那样美》、《告诉你一个消息》，其中《她》剧和《告》剧被评为全省优秀广播剧。">
+                <word id="0" cont="主要" pos="d" />
+                <word id="1" cont="有" pos="v" />
+                <word id="2" cont="广播剧" pos="n" />
+                <word id="3" cont="《" pos="wp" />
+                <word id="4" cont="当" pos="v" />
+                <word id="5" cont="乌云" pos="n" />
+                <word id="6" cont="密布" pos="v" />
+                <word id="7" cont="的" pos="u" />
+                <word id="8" cont="时候" pos="n" />
+                <word id="9" cont="》" pos="wp" />
+                <word id="10" cont="、" pos="wp" />
+                <word id="11" cont="《" pos="wp" />
+                <word id="12" cont="深夜" pos="nt" />
+                <word id="13" cont="小" pos="a" />
+                <word id="14" cont="河边" pos="nl" />
+                <word id="15" cont="》" pos="wp" />
+                <word id="16" cont="、" pos="wp" />
+                <word id="17" cont="《" pos="wp" />
+                <word id="18" cont="不" pos="d" />
+                <word id="19" cont="平静" pos="a" />
+                <word id="20" cont="的" pos="u" />
+                <word id="21" cont="夏夜" pos="nt" />
+                <word id="22" cont="》" pos="wp" />
+                <word id="23" cont="、" pos="wp" />
+                <word id="24" cont="《" pos="wp" />
+                <word id="25" cont="她" pos="r" />
+                <word id="26" cont="还是" pos="c" />
+                <word id="27" cont="那样" pos="r" />
+                <word id="28" cont="美" pos="j" />
+                <word id="29" cont="》" pos="wp" />
+                <word id="30" cont="、" pos="wp" />
+                <word id="31" cont="《" pos="wp" />
+                <word id="32" cont="告诉" pos="v" />
+                <word id="33" cont="你" pos="r" />
+                <word id="34" cont="一个" pos="m" />
+                <word id="35" cont="消息" pos="n" />
+                <word id="36" cont="》" pos="wp" />
+                <word id="37" cont="，" pos="wp" />
+                <word id="38" cont="其中" pos="r" />
+                <word id="39" cont="《" pos="wp" />
+                <word id="40" cont="她" pos="r" />
+                <word id="41" cont="》" pos="wp" />
+                <word id="42" cont="剧" pos="n" />
+                <word id="43" cont="和" pos="c" />
+                <word id="44" cont="《" pos="wp" />
+                <word id="45" cont="告" pos="v" />
+                <word id="46" cont="》" pos="wp" />
+                <word id="47" cont="剧" pos="n" />
+                <word id="48" cont="被" pos="p" />
+                <word id="49" cont="评为" pos="v" />
+                <word id="50" cont="全省" pos="n" />
+                <word id="51" cont="优秀" pos="a" />
+                <word id="52" cont="广播剧" pos="n" />
+                <word id="53" cont="。" pos="wp" />
+            </sent>
+        </para>
+        <para id="9">
+            <sent id="0" cont="辽宁抚顺人，2001年毕业于渤海大学信息技术系，曾任北京德法利科技发展有限责任公司技术总监，出访非洲、美洲多国参与国外大型博彩项目投资考察与项目实施。">
+                <word id="0" cont="辽宁" pos="ns" />
+                <word id="1" cont="抚顺人" pos="n" />
+                <word id="2" cont="，" pos="wp" />
+                <word id="3" cont="2001年" pos="m" />
+                <word id="4" cont="毕业" pos="v" />
+                <word id="5" cont="于" pos="p" />
+                <word id="6" cont="渤海" pos="ns" />
+                <word id="7" cont="大学" pos="n" />
+                <word id="8" cont="信息" pos="n" />
+                <word id="9" cont="技术系" pos="n" />
+                <word id="10" cont="，" pos="wp" />
+                <word id="11" cont="曾" pos="d" />
+                <word id="12" cont="任" pos="v" />
+                <word id="13" cont="北京" pos="ns" />
+                <word id="14" cont="德" pos="j" />
+                <word id="15" cont="法利" pos="nz" />
+                <word id="16" cont="科技" pos="n" />
+                <word id="17" cont="发展" pos="v" />
+                <word id="18" cont="有限" pos="a" />
+                <word id="19" cont="责任" pos="n" />
+                <word id="20" cont="公司" pos="n" />
+                <word id="21" cont="技术" pos="n" />
+                <word id="22" cont="总监" pos="n" />
+                <word id="23" cont="，" pos="wp" />
+                <word id="24" cont="出访" pos="v" />
+                <word id="25" cont="非洲" pos="ns" />
+                <word id="26" cont="、" pos="wp" />
+                <word id="27" cont="美洲" pos="ns" />
+                <word id="28" cont="多" pos="a" />
+                <word id="29" cont="国" pos="n" />
+                <word id="30" cont="参与" pos="v" />
+                <word id="31" cont="国外" pos="nl" />
+                <word id="32" cont="大型" pos="b" />
+                <word id="33" cont="博彩" pos="v" />
+                <word id="34" cont="项目" pos="n" />
+                <word id="35" cont="投资" pos="v" />
+                <word id="36" cont="考察" pos="v" />
+                <word id="37" cont="与" pos="p" />
+                <word id="38" cont="项目" pos="n" />
+                <word id="39" cont="实施" pos="v" />
+                <word id="40" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="现任休闲网CEO，带着一校一网，无处不在的理念走进中国高校开设1000多家休闲网分站。">
+                <word id="0" cont="现任" pos="b" />
+                <word id="1" cont="休闲网" pos="n" />
+                <word id="2" cont="CEO" pos="ws" />
+                <word id="3" cont="，" pos="wp" />
+                <word id="4" cont="带" pos="v" />
+                <word id="5" cont="着" pos="u" />
+                <word id="6" cont="一" pos="m" />
+                <word id="7" cont="校" pos="n" />
+                <word id="8" cont="一网" pos="n" />
+                <word id="9" cont="，" pos="wp" />
+                <word id="10" cont="无处不在" pos="i" />
+                <word id="11" cont="的" pos="u" />
+                <word id="12" cont="理念" pos="n" />
+                <word id="13" cont="走" pos="v" />
+                <word id="14" cont="进" pos="v" />
+                <word id="15" cont="中国" pos="ns" />
+                <word id="16" cont="高校" pos="j" />
+                <word id="17" cont="开设" pos="v" />
+                <word id="18" cont="1000" pos="m" />
+                <word id="19" cont="多" pos="m" />
+                <word id="20" cont="家" pos="q" />
+                <word id="21" cont="休闲网" pos="n" />
+                <word id="22" cont="分站" pos="n" />
+                <word id="23" cont="。" pos="wp" />
+            </sent>
+            <sent id="2" cont="2007年被渤海大学授予杰出创业代表，同年被聘为渤海大学客座教授。">
+                <word id="0" cont="2007年" pos="m" />
+                <word id="1" cont="被" pos="p" />
+                <word id="2" cont="渤海" pos="ns" />
+                <word id="3" cont="大学" pos="n" />
+                <word id="4" cont="授予" pos="v" />
+                <word id="5" cont="杰出" pos="a" />
+                <word id="6" cont="创业" pos="v" />
+                <word id="7" cont="代表" pos="n" />
+                <word id="8" cont="，" pos="wp" />
+                <word id="9" cont="同年" pos="d" />
+                <word id="10" cont="被" pos="p" />
+                <word id="11" cont="聘" pos="v" />
+                <word id="12" cont="为" pos="v" />
+                <word id="13" cont="渤海" pos="ns" />
+                <word id="14" cont="大学" pos="n" />
+                <word id="15" cont="客座教授" pos="n" />
+                <word id="16" cont="。" pos="wp" />
+            </sent>
+            <sent id="3" cont="2007年休闲网旗下战神蚁(assurant)休闲游戏在渤海大学多项科技评比中获奖。">
+                <word id="0" cont="2007" pos="m" />
+                <word id="1" cont="年" pos="q" />
+                <word id="2" cont="休闲网旗" pos="n" />
+                <word id="3" cont="下" pos="nd" />
+                <word id="4" cont="战神" pos="n" />
+                <word id="5" cont="蚁(assurant)" pos="m" />
+                <word id="6" cont="休闲" pos="v" />
+                <word id="7" cont="游戏" pos="n" />
+                <word id="8" cont="在" pos="p" />
+                <word id="9" cont="渤海" pos="ns" />
+                <word id="10" cont="大学" pos="n" />
+                <word id="11" cont="多" pos="a" />
+                <word id="12" cont="项" pos="q" />
+                <word id="13" cont="科技" pos="n" />
+                <word id="14" cont="评比" pos="v" />
+                <word id="15" cont="中" pos="nd" />
+                <word id="16" cont="获奖" pos="v" />
+                <word id="17" cont="。" pos="wp" />
+            </sent>
+            <sent id="4" cont="主要作品有：休闲网、大学生交友中心、大学生创业基地、校园文化网。">
+                <word id="0" cont="主要" pos="b" />
+                <word id="1" cont="作品" pos="n" />
+                <word id="2" cont="有" pos="v" />
+                <word id="3" cont="：" pos="wp" />
+                <word id="4" cont="休闲网" pos="n" />
+                <word id="5" cont="、" pos="wp" />
+                <word id="6" cont="大学生" pos="n" />
+                <word id="7" cont="交友" pos="v" />
+                <word id="8" cont="中心" pos="n" />
+                <word id="9" cont="、" pos="wp" />
+                <word id="10" cont="大学生" pos="n" />
+                <word id="11" cont="创业" pos="v" />
+                <word id="12" cont="基地" pos="n" />
+                <word id="13" cont="、" pos="wp" />
+                <word id="14" cont="校园" pos="n" />
+                <word id="15" cont="文化网" pos="n" />
+                <word id="16" cont="。" pos="wp" />
+            </sent>
+        </para>
+        <para id="10">
+            <sent id="0" cont="北京大学数学系副教授。">
+                <word id="0" cont="北京大学" pos="ni" />
+                <word id="1" cont="数学系" pos="n" />
+                <word id="2" cont="副教授" pos="n" />
+                <word id="3" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="主要研究微分方程定性理论，经济金融动力系统，证券投资学。">
+                <word id="0" cont="主要" pos="d" />
+                <word id="1" cont="研究" pos="v" />
+                <word id="2" cont="微分" pos="n" />
+                <word id="3" cont="方程" pos="n" />
+                <word id="4" cont="定性" pos="v" />
+                <word id="5" cont="理论" pos="n" />
+                <word id="6" cont="，" pos="wp" />
+                <word id="7" cont="经济" pos="n" />
+                <word id="8" cont="金融" pos="n" />
+                <word id="9" cont="动力" pos="n" />
+                <word id="10" cont="系统" pos="n" />
+                <word id="11" cont="，" pos="wp" />
+                <word id="12" cont="证券" pos="n" />
+                <word id="13" cont="投资学" pos="n" />
+                <word id="14" cont="。" pos="wp" />
+            </sent>
+        </para>
+        <para id="11">
+            <sent id="0" cont="西安体育学院教授。">
+                <word id="0" cont="西安" pos="ns" />
+                <word id="1" cont="体育" pos="n" />
+                <word id="2" cont="学院" pos="n" />
+                <word id="3" cont="教授" pos="n" />
+                <word id="4" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="1951年12月9日出生于新疆，1976年毕业于西安体育学院体育教育专业。">
+                <word id="0" cont="1951年" pos="m" />
+                <word id="1" cont="12月" pos="m" />
+                <word id="2" cont="9日" pos="m" />
+                <word id="3" cont="出生" pos="v" />
+                <word id="4" cont="于" pos="p" />
+                <word id="5" cont="新疆" pos="ns" />
+                <word id="6" cont="，" pos="wp" />
+                <word id="7" cont="1976年" pos="m" />
+                <word id="8" cont="毕业" pos="v" />
+                <word id="9" cont="于" pos="p" />
+                <word id="10" cont="西安" pos="ns" />
+                <word id="11" cont="体育" pos="n" />
+                <word id="12" cont="学院" pos="n" />
+                <word id="13" cont="体育" pos="n" />
+                <word id="14" cont="教育" pos="v" />
+                <word id="15" cont="专业" pos="n" />
+                <word id="16" cont="。" pos="wp" />
+            </sent>
+            <sent id="2" cont="1982年研究生毕业，获教育学硕士学位。">
+                <word id="0" cont="1982年" pos="m" />
+                <word id="1" cont="研究生" pos="n" />
+                <word id="2" cont="毕业" pos="v" />
+                <word id="3" cont="，" pos="wp" />
+                <word id="4" cont="获" pos="v" />
+                <word id="5" cont="教育学" pos="n" />
+                <word id="6" cont="硕士" pos="n" />
+                <word id="7" cont="学位" pos="n" />
+                <word id="8" cont="。" pos="wp" />
+            </sent>
+            <sent id="3" cont="现任西安体育学院运动人体科学系主任，硕士研究生导师，主要从事体质测评的应用研究和运动能力评定。">
+                <word id="0" cont="现任" pos="b" />
+                <word id="1" cont="西安" pos="ns" />
+                <word id="2" cont="体育" pos="n" />
+                <word id="3" cont="学院" pos="n" />
+                <word id="4" cont="运动" pos="v" />
+                <word id="5" cont="人体" pos="n" />
+                <word id="6" cont="科学系" pos="n" />
+                <word id="7" cont="主任" pos="n" />
+                <word id="8" cont="，" pos="wp" />
+                <word id="9" cont="硕士" pos="n" />
+                <word id="10" cont="研究生" pos="n" />
+                <word id="11" cont="导师" pos="n" />
+                <word id="12" cont="，" pos="wp" />
+                <word id="13" cont="主要" pos="d" />
+                <word id="14" cont="从事" pos="v" />
+                <word id="15" cont="体质" pos="n" />
+                <word id="16" cont="测评" pos="v" />
+                <word id="17" cont="的" pos="u" />
+                <word id="18" cont="应用" pos="v" />
+                <word id="19" cont="研究" pos="v" />
+                <word id="20" cont="和" pos="c" />
+                <word id="21" cont="运动" pos="v" />
+                <word id="22" cont="能力" pos="n" />
+                <word id="23" cont="评定" pos="v" />
+                <word id="24" cont="。" pos="wp" />
+            </sent>
+            <sent id="4" cont="1988年留学日本进行体育测量评价的学习和研究，1999年获教育部留学基金的资助，在日本进行半年的高级访问学者，先后完成了“人体免疫系统对有氧运动适应性变化及其机理的实验研究”，“7-12岁儿童动作协调能力发展规律的研究”，“大众艺术健身操科学方法及测评系统的研究”和“间歇性低氧训练提高运动员有氧代谢能力的实验研究”等多项部委重点研究课题。">
+                <word id="0" cont="1988年" pos="m" />
+                <word id="1" cont="留学" pos="v" />
+                <word id="2" cont="日本" pos="ns" />
+                <word id="3" cont="进行" pos="v" />
+                <word id="4" cont="体育" pos="n" />
+                <word id="5" cont="测量" pos="v" />
+                <word id="6" cont="评价" pos="v" />
+                <word id="7" cont="的" pos="u" />
+                <word id="8" cont="学习" pos="v" />
+                <word id="9" cont="和" pos="c" />
+                <word id="10" cont="研究" pos="v" />
+                <word id="11" cont="，" pos="wp" />
+                <word id="12" cont="1999年" pos="m" />
+                <word id="13" cont="获" pos="v" />
+                <word id="14" cont="教育部" pos="ni" />
+                <word id="15" cont="留学" pos="v" />
+                <word id="16" cont="基金" pos="n" />
+                <word id="17" cont="的" pos="u" />
+                <word id="18" cont="资助" pos="v" />
+                <word id="19" cont="，" pos="wp" />
+                <word id="20" cont="在" pos="p" />
+                <word id="21" cont="日本" pos="ns" />
+                <word id="22" cont="进行" pos="v" />
+                <word id="23" cont="半" pos="m" />
+                <word id="24" cont="年" pos="q" />
+                <word id="25" cont="的" pos="u" />
+                <word id="26" cont="高级" pos="a" />
+                <word id="27" cont="访问" pos="v" />
+                <word id="28" cont="学者" pos="n" />
+                <word id="29" cont="，" pos="wp" />
+                <word id="30" cont="先后" pos="d" />
+                <word id="31" cont="完成" pos="v" />
+                <word id="32" cont="了" pos="u" />
+                <word id="33" cont="“" pos="wp" />
+                <word id="34" cont="人体" pos="n" />
+                <word id="35" cont="免疫" pos="v" />
+                <word id="36" cont="系统" pos="n" />
+                <word id="37" cont="对" pos="p" />
+                <word id="38" cont="有" pos="v" />
+                <word id="39" cont="氧" pos="n" />
+                <word id="40" cont="运动" pos="v" />
+                <word id="41" cont="适应性" pos="n" />
+                <word id="42" cont="变化" pos="v" />
+                <word id="43" cont="及其" pos="c" />
+                <word id="44" cont="机理" pos="n" />
+                <word id="45" cont="的" pos="u" />
+                <word id="46" cont="实验" pos="v" />
+                <word id="47" cont="研究" pos="v" />
+                <word id="48" cont="”" pos="wp" />
+                <word id="49" cont="，" pos="wp" />
+                <word id="50" cont="“" pos="wp" />
+                <word id="51" cont="7" pos="m" />
+                <word id="52" cont="-" pos="n" />
+                <word id="53" cont="12" pos="m" />
+                <word id="54" cont="岁" pos="q" />
+                <word id="55" cont="儿童" pos="n" />
+                <word id="56" cont="动作" pos="n" />
+                <word id="57" cont="协调" pos="v" />
+                <word id="58" cont="能力" pos="n" />
+                <word id="59" cont="发展" pos="v" />
+                <word id="60" cont="规律" pos="n" />
+                <word id="61" cont="的" pos="u" />
+                <word id="62" cont="研究" pos="v" />
+                <word id="63" cont="”" pos="wp" />
+                <word id="64" cont="，" pos="wp" />
+                <word id="65" cont="“" pos="wp" />
+                <word id="66" cont="大众" pos="n" />
+                <word id="67" cont="艺术" pos="n" />
+                <word id="68" cont="健身操" pos="n" />
+                <word id="69" cont="科学" pos="n" />
+                <word id="70" cont="方法" pos="n" />
+                <word id="71" cont="及" pos="c" />
+                <word id="72" cont="测评" pos="v" />
+                <word id="73" cont="系统" pos="n" />
+                <word id="74" cont="的" pos="u" />
+                <word id="75" cont="研究" pos="v" />
+                <word id="76" cont="”" pos="wp" />
+                <word id="77" cont="和" pos="c" />
+                <word id="78" cont="“" pos="wp" />
+                <word id="79" cont="间歇性" pos="n" />
+                <word id="80" cont="低氧" pos="n" />
+                <word id="81" cont="训练" pos="v" />
+                <word id="82" cont="提高" pos="v" />
+                <word id="83" cont="运动员" pos="n" />
+                <word id="84" cont="有" pos="v" />
+                <word id="85" cont="氧代谢" pos="n" />
+                <word id="86" cont="能力" pos="n" />
+                <word id="87" cont="的" pos="u" />
+                <word id="88" cont="实验" pos="v" />
+                <word id="89" cont="研究" pos="v" />
+                <word id="90" cont="”" pos="wp" />
+                <word id="91" cont="等" pos="u" />
+                <word id="92" cont="多" pos="a" />
+                <word id="93" cont="项" pos="q" />
+                <word id="94" cont="部委" pos="j" />
+                <word id="95" cont="重点" pos="n" />
+                <word id="96" cont="研究" pos="v" />
+                <word id="97" cont="课题" pos="n" />
+                <word id="98" cont="。" pos="wp" />
+            </sent>
+            <sent id="5" cont="在国内外学术会议和刊物上发表了多篇相关的学术论文，编写出版《体育测量评价》《大学体育学》和《排球》等多本教材著作。">
+                <word id="0" cont="在" pos="p" />
+                <word id="1" cont="国内外" pos="nl" />
+                <word id="2" cont="学术" pos="n" />
+                <word id="3" cont="会议" pos="n" />
+                <word id="4" cont="和" pos="c" />
+                <word id="5" cont="刊物" pos="n" />
+                <word id="6" cont="上" pos="nd" />
+                <word id="7" cont="发表" pos="v" />
+                <word id="8" cont="了" pos="u" />
+                <word id="9" cont="多" pos="a" />
+                <word id="10" cont="篇" pos="q" />
+                <word id="11" cont="相关" pos="v" />
+                <word id="12" cont="的" pos="u" />
+                <word id="13" cont="学术" pos="n" />
+                <word id="14" cont="论文" pos="n" />
+                <word id="15" cont="，" pos="wp" />
+                <word id="16" cont="编写" pos="v" />
+                <word id="17" cont="出版" pos="v" />
+                <word id="18" cont="《" pos="wp" />
+                <word id="19" cont="体育" pos="n" />
+                <word id="20" cont="测量" pos="v" />
+                <word id="21" cont="评价" pos="v" />
+                <word id="22" cont="》" pos="wp" />
+                <word id="23" cont="《" pos="wp" />
+                <word id="24" cont="大学" pos="n" />
+                <word id="25" cont="体育学" pos="n" />
+                <word id="26" cont="》" pos="wp" />
+                <word id="27" cont="和" pos="c" />
+                <word id="28" cont="《" pos="wp" />
+                <word id="29" cont="排球" pos="n" />
+                <word id="30" cont="》" pos="wp" />
+                <word id="31" cont="等" pos="u" />
+                <word id="32" cont="多" pos="a" />
+                <word id="33" cont="本" pos="q" />
+                <word id="34" cont="教材" pos="n" />
+                <word id="35" cont="著作" pos="n" />
+                <word id="36" cont="。" pos="wp" />
+            </sent>
+        </para>
+        <para id="12">
+            <sent id="0" cont="珠江电台著名主持人。">
+                <word id="0" cont="珠江" pos="ns" />
+                <word id="1" cont="电台" pos="n" />
+                <word id="2" cont="著名" pos="a" />
+                <word id="3" cont="主持人" pos="n" />
+                <word id="4" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="心理分析广播节目名嘴，国家职业心理咨询师，早年曾在珠江经济台、城市之声主持节目，被戏称为“女性听众杀手”。">
+                <word id="0" cont="心理" pos="n" />
+                <word id="1" cont="分析" pos="v" />
+                <word id="2" cont="广播" pos="v" />
+                <word id="3" cont="节目" pos="n" />
+                <word id="4" cont="名嘴" pos="n" />
+                <word id="5" cont="，" pos="wp" />
+                <word id="6" cont="国家" pos="n" />
+                <word id="7" cont="职业" pos="n" />
+                <word id="8" cont="心理" pos="n" />
+                <word id="9" cont="咨询师" pos="n" />
+                <word id="10" cont="，" pos="wp" />
+                <word id="11" cont="早年" pos="nt" />
+                <word id="12" cont="曾" pos="d" />
+                <word id="13" cont="在" pos="p" />
+                <word id="14" cont="珠江" pos="ns" />
+                <word id="15" cont="经济" pos="n" />
+                <word id="16" cont="台" pos="n" />
+                <word id="17" cont="、" pos="wp" />
+                <word id="18" cont="城市" pos="n" />
+                <word id="19" cont="之" pos="u" />
+                <word id="20" cont="声" pos="n" />
+                <word id="21" cont="主持" pos="v" />
+                <word id="22" cont="节目" pos="n" />
+                <word id="23" cont="，" pos="wp" />
+                <word id="24" cont="被" pos="p" />
+                <word id="25" cont="戏称为" pos="n" />
+                <word id="26" cont="“" pos="wp" />
+                <word id="27" cont="女性" pos="n" />
+                <word id="28" cont="听众" pos="n" />
+                <word id="29" cont="杀手" pos="n" />
+                <word id="30" cont="”" pos="wp" />
+                <word id="31" cont="。" pos="wp" />
+            </sent>
+            <sent id="2" cont="从业二十多年来，他主持的《农村天地》、《人在今晚夜》至今被人们津津乐道，担任南方生活广播情感节目《信是有缘》嘉宾主持人以来，与感性女主持人卓晶配合默契，剖析现代人的情感心理问题入木三分，日益受珠三角及粤西地区的听迷拥戴。">
+                <word id="0" cont="从业" pos="b" />
+                <word id="1" cont="二十" pos="m" />
+                <word id="2" cont="多" pos="m" />
+                <word id="3" cont="年" pos="q" />
+                <word id="4" cont="来" pos="nd" />
+                <word id="5" cont="，" pos="wp" />
+                <word id="6" cont="他" pos="r" />
+                <word id="7" cont="主持" pos="v" />
+                <word id="8" cont="的" pos="u" />
+                <word id="9" cont="《" pos="wp" />
+                <word id="10" cont="农村" pos="n" />
+                <word id="11" cont="天地" pos="n" />
+                <word id="12" cont="》" pos="wp" />
+                <word id="13" cont="、" pos="wp" />
+                <word id="14" cont="《" pos="wp" />
+                <word id="15" cont="人" pos="n" />
+                <word id="16" cont="在" pos="p" />
+                <word id="17" cont="今晚" pos="nt" />
+                <word id="18" cont="夜" pos="nt" />
+                <word id="19" cont="》" pos="wp" />
+                <word id="20" cont="至今" pos="d" />
+                <word id="21" cont="被" pos="p" />
+                <word id="22" cont="人们" pos="n" />
+                <word id="23" cont="津津乐道" pos="i" />
+                <word id="24" cont="，" pos="wp" />
+                <word id="25" cont="担任" pos="v" />
+                <word id="26" cont="南方" pos="nl" />
+                <word id="27" cont="生活" pos="v" />
+                <word id="28" cont="广播" pos="v" />
+                <word id="29" cont="情感" pos="n" />
+                <word id="30" cont="节目" pos="n" />
+                <word id="31" cont="《" pos="wp" />
+                <word id="32" cont="信" pos="n" />
+                <word id="33" cont="是" pos="v" />
+                <word id="34" cont="有" pos="v" />
+                <word id="35" cont="缘" pos="n" />
+                <word id="36" cont="》" pos="wp" />
+                <word id="37" cont="嘉宾" pos="n" />
+                <word id="38" cont="主持人" pos="n" />
+                <word id="39" cont="以来" pos="nd" />
+                <word id="40" cont="，" pos="wp" />
+                <word id="41" cont="与" pos="p" />
+                <word id="42" cont="感性" pos="n" />
+                <word id="43" cont="女" pos="b" />
+                <word id="44" cont="主持人" pos="n" />
+                <word id="45" cont="卓晶" pos="nh" />
+                <word id="46" cont="配合" pos="v" />
+                <word id="47" cont="默契" pos="a" />
+                <word id="48" cont="，" pos="wp" />
+                <word id="49" cont="剖析" pos="v" />
+                <word id="50" cont="现代人" pos="n" />
+                <word id="51" cont="的" pos="u" />
+                <word id="52" cont="情感" pos="n" />
+                <word id="53" cont="心理" pos="n" />
+                <word id="54" cont="问题" pos="n" />
+                <word id="55" cont="入木三分" pos="i" />
+                <word id="56" cont="，" pos="wp" />
+                <word id="57" cont="日益" pos="d" />
+                <word id="58" cont="受珠" pos="v" />
+                <word id="59" cont="三角" pos="n" />
+                <word id="60" cont="及" pos="c" />
+                <word id="61" cont="粤西" pos="ns" />
+                <word id="62" cont="地区" pos="n" />
+                <word id="63" cont="的" pos="u" />
+                <word id="64" cont="听迷" pos="v" />
+                <word id="65" cont="拥戴" pos="v" />
+                <word id="66" cont="。" pos="wp" />
+            </sent>
+        </para>
+        <para id="13">
+            <sent id="0" cont="职业画家。">
+                <word id="0" cont="职业" pos="n" />
+                <word id="1" cont="画家" pos="n" />
+                <word id="2" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="擅长写实肖像创作，应邀为多位国家部委领导人绘制肖像，国际知名企业韩国现代集团董事会长郑梦九也邀请为其绘制肖像。">
+                <word id="0" cont="擅长" pos="v" />
+                <word id="1" cont="写实" pos="b" />
+                <word id="2" cont="肖像" pos="n" />
+                <word id="3" cont="创作" pos="v" />
+                <word id="4" cont="，" pos="wp" />
+                <word id="5" cont="应邀" pos="v" />
+                <word id="6" cont="为" pos="v" />
+                <word id="7" cont="多" pos="a" />
+                <word id="8" cont="位" pos="q" />
+                <word id="9" cont="国家" pos="n" />
+                <word id="10" cont="部委" pos="j" />
+                <word id="11" cont="领导人" pos="n" />
+                <word id="12" cont="绘制" pos="v" />
+                <word id="13" cont="肖像" pos="n" />
+                <word id="14" cont="，" pos="wp" />
+                <word id="15" cont="国际" pos="n" />
+                <word id="16" cont="知名" pos="a" />
+                <word id="17" cont="企业" pos="n" />
+                <word id="18" cont="韩国" pos="ns" />
+                <word id="19" cont="现代" pos="nt" />
+                <word id="20" cont="集团" pos="n" />
+                <word id="21" cont="董事" pos="n" />
+                <word id="22" cont="会长" pos="n" />
+                <word id="23" cont="郑梦九" pos="nh" />
+                <word id="24" cont="也" pos="d" />
+                <word id="25" cont="邀请" pos="v" />
+                <word id="26" cont="为" pos="p" />
+                <word id="27" cont="其" pos="r" />
+                <word id="28" cont="绘制" pos="v" />
+                <word id="29" cont="肖像" pos="n" />
+                <word id="30" cont="。" pos="wp" />
+            </sent>
+        </para>
+        <para id="14">
+            <sent id="0" cont="太平洋西部的一个边缘海，位于中国大陆与朝鲜半岛之间。">
+                <word id="0" cont="太平洋" pos="ns" />
+                <word id="1" cont="西部" pos="nd" />
+                <word id="2" cont="的" pos="u" />
+                <word id="3" cont="一个" pos="m" />
+                <word id="4" cont="边缘海" pos="n" />
+                <word id="5" cont="，" pos="wp" />
+                <word id="6" cont="位于" pos="v" />
+                <word id="7" cont="中国" pos="ns" />
+                <word id="8" cont="大陆" pos="n" />
+                <word id="9" cont="与" pos="p" />
+                <word id="10" cont="朝鲜" pos="ns" />
+                <word id="11" cont="半岛" pos="n" />
+                <word id="12" cont="之间" pos="nd" />
+                <word id="13" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="黄海平均水深44米，海底平缓，为东亚大陆架的一部分。">
+                <word id="0" cont="黄海" pos="ns" />
+                <word id="1" cont="平均" pos="a" />
+                <word id="2" cont="水深" pos="n" />
+                <word id="3" cont="44" pos="m" />
+                <word id="4" cont="米" pos="q" />
+                <word id="5" cont="，" pos="wp" />
+                <word id="6" cont="海底" pos="n" />
+                <word id="7" cont="平缓" pos="a" />
+                <word id="8" cont="，" pos="wp" />
+                <word id="9" cont="为" pos="p" />
+                <word id="10" cont="东亚" pos="ns" />
+                <word id="11" cont="大陆架" pos="n" />
+                <word id="12" cont="的" pos="u" />
+                <word id="13" cont="一" pos="m" />
+                <word id="14" cont="部分" pos="n" />
+                <word id="15" cont="。" pos="wp" />
+            </sent>
+            <sent id="2" cont="注入黄海的主要河流有鸭绿江、大同江、汉江、淮河等，主要沿海城市有大连、丹东、天津、汉城、青岛、烟台、连云港等。">
+                <word id="0" cont="注入" pos="v" />
+                <word id="1" cont="黄海" pos="ns" />
+                <word id="2" cont="的" pos="u" />
+                <word id="3" cont="主要" pos="b" />
+                <word id="4" cont="河流" pos="n" />
+                <word id="5" cont="有" pos="v" />
+                <word id="6" cont="鸭绿江" pos="ns" />
+                <word id="7" cont="、" pos="wp" />
+                <word id="8" cont="大同江" pos="ns" />
+                <word id="9" cont="、" pos="wp" />
+                <word id="10" cont="汉江" pos="ns" />
+                <word id="11" cont="、" pos="wp" />
+                <word id="12" cont="淮河" pos="ns" />
+                <word id="13" cont="等" pos="u" />
+                <word id="14" cont="，" pos="wp" />
+                <word id="15" cont="主要" pos="b" />
+                <word id="16" cont="沿海" pos="nd" />
+                <word id="17" cont="城市" pos="n" />
+                <word id="18" cont="有" pos="v" />
+                <word id="19" cont="大连" pos="ns" />
+                <word id="20" cont="、" pos="wp" />
+                <word id="21" cont="丹东" pos="ns" />
+                <word id="22" cont="、" pos="wp" />
+                <word id="23" cont="天津" pos="ns" />
+                <word id="24" cont="、" pos="wp" />
+                <word id="25" cont="汉城" pos="ns" />
+                <word id="26" cont="、" pos="wp" />
+                <word id="27" cont="青岛" pos="ns" />
+                <word id="28" cont="、" pos="wp" />
+                <word id="29" cont="烟台" pos="ns" />
+                <word id="30" cont="、" pos="wp" />
+                <word id="31" cont="连云港" pos="ns" />
+                <word id="32" cont="等" pos="u" />
+                <word id="33" cont="。" pos="wp" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>

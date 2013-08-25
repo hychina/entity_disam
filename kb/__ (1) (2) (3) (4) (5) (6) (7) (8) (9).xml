@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="n" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="通江县第二中学教师，男，大学本科，西华师范大学英语语言文学专业毕业。">
+                <word id="0" cont="通江县" pos="ns" />
+                <word id="1" cont="第二" pos="m" />
+                <word id="2" cont="中学" pos="n" />
+                <word id="3" cont="教师" pos="n" />
+                <word id="4" cont="，" pos="wp" />
+                <word id="5" cont="男" pos="b" />
+                <word id="6" cont="，" pos="wp" />
+                <word id="7" cont="大学" pos="n" />
+                <word id="8" cont="本科" pos="n" />
+                <word id="9" cont="，" pos="wp" />
+                <word id="10" cont="西华" pos="ns" />
+                <word id="11" cont="师范大学" pos="n" />
+                <word id="12" cont="英语" pos="nz" />
+                <word id="13" cont="语言" pos="n" />
+                <word id="14" cont="文学" pos="n" />
+                <word id="15" cont="专业" pos="n" />
+                <word id="16" cont="毕业" pos="v" />
+                <word id="17" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="高二英语备课组长。">
+                <word id="0" cont="高二" pos="m" />
+                <word id="1" cont="英语" pos="nz" />
+                <word id="2" cont="备课" pos="v" />
+                <word id="3" cont="组长" pos="n" />
+                <word id="4" cont="。" pos="wp" />
+            </sent>
+            <sent id="2" cont="自参工以来一事从事高中英语教学工作，长期从事班主任工作，所任班级历届成绩显著。">
+                <word id="0" cont="自" pos="p" />
+                <word id="1" cont="参工" pos="n" />
+                <word id="2" cont="以来" pos="nd" />
+                <word id="3" cont="一" pos="m" />
+                <word id="4" cont="事" pos="n" />
+                <word id="5" cont="从事" pos="v" />
+                <word id="6" cont="高中" pos="n" />
+                <word id="7" cont="英语" pos="nz" />
+                <word id="8" cont="教学" pos="v" />
+                <word id="9" cont="工作" pos="v" />
+                <word id="10" cont="，" pos="wp" />
+                <word id="11" cont="长期" pos="d" />
+                <word id="12" cont="从事" pos="v" />
+                <word id="13" cont="班主任" pos="n" />
+                <word id="14" cont="工作" pos="v" />
+                <word id="15" cont="，" pos="wp" />
+                <word id="16" cont="所" pos="u" />
+                <word id="17" cont="任" pos="v" />
+                <word id="18" cont="班级" pos="n" />
+                <word id="19" cont="历届" pos="b" />
+                <word id="20" cont="成绩" pos="n" />
+                <word id="21" cont="显著" pos="a" />
+                <word id="22" cont="。" pos="wp" />
+            </sent>
+            <sent id="3" cont="论文《虚拟语气的用法》、《浅谈分词短语作状语》、《定语从句中“介词+关系词”介词的选定》在国家级、省级刊物上发表。">
+                <word id="0" cont="论文" pos="n" />
+                <word id="1" cont="《" pos="wp" />
+                <word id="2" cont="虚拟" pos="v" />
+                <word id="3" cont="语气" pos="n" />
+                <word id="4" cont="的" pos="u" />
+                <word id="5" cont="用法" pos="n" />
+                <word id="6" cont="》" pos="wp" />
+                <word id="7" cont="、" pos="wp" />
+                <word id="8" cont="《" pos="wp" />
+                <word id="9" cont="浅谈" pos="v" />
+                <word id="10" cont="分词" pos="n" />
+                <word id="11" cont="短语" pos="n" />
+                <word id="12" cont="作" pos="v" />
+                <word id="13" cont="状" pos="n" />
+                <word id="14" cont="语" pos="n" />
+                <word id="15" cont="》" pos="wp" />
+                <word id="16" cont="、" pos="wp" />
+                <word id="17" cont="《" pos="wp" />
+                <word id="18" cont="定语" pos="v" />
+                <word id="19" cont="从" pos="p" />
+                <word id="20" cont="句" pos="n" />
+                <word id="21" cont="中" pos="nd" />
+                <word id="22" cont="“" pos="wp" />
+                <word id="23" cont="介词" pos="v" />
+                <word id="24" cont="+" pos="n" />
+                <word id="25" cont="关系词" pos="n" />
+                <word id="26" cont="”" pos="wp" />
+                <word id="27" cont="介词" pos="n" />
+                <word id="28" cont="的" pos="u" />
+                <word id="29" cont="选定" pos="v" />
+                <word id="30" cont="》" pos="wp" />
+                <word id="31" cont="在" pos="p" />
+                <word id="32" cont="国家级" pos="b" />
+                <word id="33" cont="、" pos="wp" />
+                <word id="34" cont="省级" pos="b" />
+                <word id="35" cont="刊物" pos="n" />
+                <word id="36" cont="上" pos="nd" />
+                <word id="37" cont="发表" pos="v" />
+                <word id="38" cont="。" pos="wp" />
+            </sent>
+            <sent id="4" cont="指导向桀等多名学生参加历届全国中学生英语能力大赛并获优秀指导奖。">
+                <word id="0" cont="指导向" pos="n" />
+                <word id="1" cont="桀" pos="nh" />
+                <word id="2" cont="等" pos="u" />
+                <word id="3" cont="多" pos="a" />
+                <word id="4" cont="名" pos="q" />
+                <word id="5" cont="学生" pos="n" />
+                <word id="6" cont="参加" pos="v" />
+                <word id="7" cont="历届" pos="b" />
+                <word id="8" cont="全国" pos="n" />
+                <word id="9" cont="中学生" pos="n" />
+                <word id="10" cont="英语" pos="nz" />
+                <word id="11" cont="能力" pos="n" />
+                <word id="12" cont="大赛" pos="v" />
+                <word id="13" cont="并" pos="c" />
+                <word id="14" cont="获" pos="v" />
+                <word id="15" cont="优秀" pos="a" />
+                <word id="16" cont="指导奖" pos="n" />
+                <word id="17" cont="。" pos="wp" />
+            </sent>
+        </para>
+        <para id="1">
+            <sent id="0" cont="重庆市黔江区太极乡党委副书记、乡长。">
+                <word id="0" cont="重庆市" pos="ns" />
+                <word id="1" cont="黔江区" pos="ns" />
+                <word id="2" cont="太极乡" pos="ns" />
+                <word id="3" cont="党委" pos="n" />
+                <word id="4" cont="副" pos="b" />
+                <word id="5" cont="书记" pos="n" />
+                <word id="6" cont="、" pos="wp" />
+                <word id="7" cont="乡长" pos="n" />
+                <word id="8" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="主持政府全面工作，主管财政、金融、审计、统计、非公有制经济、城乡统筹、乡镇企业、招商引资、烤烟、蚕桑工作。">
+                <word id="0" cont="主持" pos="v" />
+                <word id="1" cont="政府" pos="n" />
+                <word id="2" cont="全面" pos="a" />
+                <word id="3" cont="工作" pos="v" />
+                <word id="4" cont="，" pos="wp" />
+                <word id="5" cont="主管" pos="v" />
+                <word id="6" cont="财政" pos="n" />
+                <word id="7" cont="、" pos="wp" />
+                <word id="8" cont="金融" pos="n" />
+                <word id="9" cont="、" pos="wp" />
+                <word id="10" cont="审计" pos="v" />
+                <word id="11" cont="、" pos="wp" />
+                <word id="12" cont="统计" pos="v" />
+                <word id="13" cont="、" pos="wp" />
+                <word id="14" cont="非公有制" pos="b" />
+                <word id="15" cont="经济" pos="n" />
+                <word id="16" cont="、" pos="wp" />
+                <word id="17" cont="城乡" pos="n" />
+                <word id="18" cont="统筹" pos="v" />
+                <word id="19" cont="、" pos="wp" />
+                <word id="20" cont="乡镇企业" pos="n" />
+                <word id="21" cont="、" pos="wp" />
+                <word id="22" cont="招商引资" pos="i" />
+                <word id="23" cont="、" pos="wp" />
+                <word id="24" cont="烤烟" pos="n" />
+                <word id="25" cont="、" pos="wp" />
+                <word id="26" cont="蚕桑" pos="n" />
+                <word id="27" cont="工作" pos="v" />
+                <word id="28" cont="。" pos="wp" />
+            </sent>
+        </para>
+        <para id="2">
+            <sent id="0" cont="罗源县中房镇下湖村人。">
+                <word id="0" cont="罗源县" pos="ns" />
+                <word id="1" cont="中房镇" pos="ns" />
+                <word id="2" cont="下湖村人" pos="n" />
+                <word id="3" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="1978年8月加入中国共产党。">
+                <word id="0" cont="1978年" pos="m" />
+                <word id="1" cont="8月" pos="m" />
+                <word id="2" cont="加入" pos="v" />
+                <word id="3" cont="中国" pos="ns" />
+                <word id="4" cont="共产党" pos="n" />
+                <word id="5" cont="。" pos="wp" />
+            </sent>
+            <sent id="2" cont="1981年，毕业于上海同济大学规划专业。">
+                <word id="0" cont="1981年" pos="m" />
+                <word id="1" cont="，" pos="wp" />
+                <word id="2" cont="毕业" pos="v" />
+                <word id="3" cont="于" pos="p" />
+                <word id="4" cont="上海" pos="ns" />
+                <word id="5" cont="同济" pos="nz" />
+                <word id="6" cont="大学" pos="n" />
+                <word id="7" cont="规划" pos="v" />
+                <word id="8" cont="专业" pos="n" />
+                <word id="9" cont="。" pos="wp" />
+            </sent>
+            <sent id="3" cont="同年起，任福州市城乡设计院规划室主任、工程师，兼任福州市土木建筑学会秘书长。">
+                <word id="0" cont="同年" pos="d" />
+                <word id="1" cont="起" pos="v" />
+                <word id="2" cont="，" pos="wp" />
+                <word id="3" cont="任" pos="v" />
+                <word id="4" cont="福州市" pos="ns" />
+                <word id="5" cont="城乡" pos="n" />
+                <word id="6" cont="设计院" pos="n" />
+                <word id="7" cont="规划" pos="n" />
+                <word id="8" cont="室" pos="n" />
+                <word id="9" cont="主任" pos="n" />
+                <word id="10" cont="、" pos="wp" />
+                <word id="11" cont="工程师" pos="n" />
+                <word id="12" cont="，" pos="wp" />
+                <word id="13" cont="兼任" pos="v" />
+                <word id="14" cont="福州市" pos="ns" />
+                <word id="15" cont="土木" pos="n" />
+                <word id="16" cont="建筑" pos="n" />
+                <word id="17" cont="学会" pos="n" />
+                <word id="18" cont="秘书长" pos="n" />
+                <word id="19" cont="。" pos="wp" />
+            </sent>
+            <sent id="4" cont="曾获省4项、市1项建筑规划设计奖。">
+                <word id="0" cont="曾" pos="d" />
+                <word id="1" cont="获" pos="v" />
+                <word id="2" cont="省" pos="n" />
+                <word id="3" cont="4" pos="m" />
+                <word id="4" cont="项" pos="q" />
+                <word id="5" cont="、" pos="wp" />
+                <word id="6" cont="市" pos="n" />
+                <word id="7" cont="1" pos="m" />
+                <word id="8" cont="项" pos="q" />
+                <word id="9" cont="建筑" pos="n" />
+                <word id="10" cont="规划" pos="v" />
+                <word id="11" cont="设计奖" pos="n" />
+                <word id="12" cont="。" pos="wp" />
+            </sent>
+            <sent id="5" cont="1993年，任福州市政府城市改造办公室主任科员、福州市房地产开发总公司副总工程师。">
+                <word id="0" cont="1993年" pos="m" />
+                <word id="1" cont="，" pos="wp" />
+                <word id="2" cont="任" pos="v" />
+                <word id="3" cont="福州" pos="ns" />
+                <word id="4" cont="市政府" pos="n" />
+                <word id="5" cont="城市" pos="n" />
+                <word id="6" cont="改造" pos="v" />
+                <word id="7" cont="办公室" pos="n" />
+                <word id="8" cont="主任" pos="n" />
+                <word id="9" cont="科员" pos="n" />
+                <word id="10" cont="、" pos="wp" />
+                <word id="11" cont="福州市" pos="ns" />
+                <word id="12" cont="房地产" pos="j" />
+                <word id="13" cont="开发" pos="v" />
+                <word id="14" cont="总公司" pos="n" />
+                <word id="15" cont="副" pos="b" />
+                <word id="16" cont="总工程师" pos="n" />
+                <word id="17" cont="。" pos="wp" />
+            </sent>
+            <sent id="6" cont="2000年，任福建武夷工程总公司建兴公司总经理(副处级)。">
+                <word id="0" cont="2000年" pos="m" />
+                <word id="1" cont="，" pos="wp" />
+                <word id="2" cont="任" pos="v" />
+                <word id="3" cont="福建" pos="ns" />
+                <word id="4" cont="武夷" pos="ns" />
+                <word id="5" cont="工程" pos="n" />
+                <word id="6" cont="总公司" pos="n" />
+                <word id="7" cont="建兴" pos="nz" />
+                <word id="8" cont="公司" pos="n" />
+                <word id="9" cont="总经理" pos="n" />
+                <word id="10" cont="(" pos="nh" />
+                <word id="11" cont="副处级" pos="b" />
+                <word id="12" cont=")" pos="n" />
+                <word id="13" cont="。" pos="wp" />
+            </sent>
+            <sent id="7" cont="2001年，任重庆武夷公司总经理(处级)。">
+                <word id="0" cont="2001年" pos="m" />
+                <word id="1" cont="，" pos="wp" />
+                <word id="2" cont="任" pos="v" />
+                <word id="3" cont="重庆" pos="ns" />
+                <word id="4" cont="武夷" pos="ns" />
+                <word id="5" cont="公司" pos="n" />
+                <word id="6" cont="总经理" pos="n" />
+                <word id="7" cont="(处级" pos="ws" />
+                <word id="8" cont=")" pos="i" />
+                <word id="9" cont="。" pos="wp" />
+            </sent>
+        </para>
+        <para id="3">
+            <sent id="0" cont="男，汉族，硕士研究生学历，出生于1961年9月，陕西中共商南县委书记，商州人，1980年8月参加革命工作，1982年7月加入中国共产党，现任中共商南县委书记。">
+                <word id="0" cont="男" pos="b" />
+                <word id="1" cont="，" pos="wp" />
+                <word id="2" cont="汉族" pos="nz" />
+                <word id="3" cont="，" pos="wp" />
+                <word id="4" cont="硕士" pos="n" />
+                <word id="5" cont="研究生" pos="n" />
+                <word id="6" cont="学历" pos="n" />
+                <word id="7" cont="，" pos="wp" />
+                <word id="8" cont="出生" pos="v" />
+                <word id="9" cont="于" pos="p" />
+                <word id="10" cont="1961年" pos="m" />
+                <word id="11" cont="9月" pos="m" />
+                <word id="12" cont="，" pos="wp" />
+                <word id="13" cont="陕西" pos="ns" />
+                <word id="14" cont="中共" pos="j" />
+                <word id="15" cont="商南" pos="ns" />
+                <word id="16" cont="县委" pos="n" />
+                <word id="17" cont="书记" pos="n" />
+                <word id="18" cont="，" pos="wp" />
+                <word id="19" cont="商州人" pos="n" />
+                <word id="20" cont="，" pos="wp" />
+                <word id="21" cont="1980年" pos="m" />
+                <word id="22" cont="8月" pos="m" />
+                <word id="23" cont="参加" pos="v" />
+                <word id="24" cont="革命" pos="v" />
+                <word id="25" cont="工作" pos="v" />
+                <word id="26" cont="，" pos="wp" />
+                <word id="27" cont="1982年" pos="m" />
+                <word id="28" cont="7月" pos="m" />
+                <word id="29" cont="加入" pos="v" />
+                <word id="30" cont="中国" pos="ns" />
+                <word id="31" cont="共产党" pos="n" />
+                <word id="32" cont="，" pos="wp" />
+                <word id="33" cont="现任" pos="v" />
+                <word id="34" cont="中共" pos="j" />
+                <word id="35" cont="商南" pos="ns" />
+                <word id="36" cont="县委" pos="n" />
+                <word id="37" cont="书记" pos="n" />
+                <word id="38" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="曾任任共青团商洛地委副书记；洛南县政府副县长；任中共商南县委副书记；中共山阳县委常委、县政府常务副县长，等。">
+                <word id="0" cont="曾" pos="d" />
+                <word id="1" cont="任" pos="v" />
+                <word id="2" cont="任" pos="v" />
+                <word id="3" cont="共青团" pos="n" />
+                <word id="4" cont="商洛" pos="ns" />
+                <word id="5" cont="地委" pos="n" />
+                <word id="6" cont="副" pos="b" />
+                <word id="7" cont="书记" pos="n" />
+                <word id="8" cont="；" pos="wp" />
+                <word id="9" cont="洛南县政府" pos="ns" />
+                <word id="10" cont="副" pos="b" />
+                <word id="11" cont="县长" pos="n" />
+                <word id="12" cont="；" pos="wp" />
+                <word id="13" cont="任" pos="v" />
+                <word id="14" cont="中共" pos="j" />
+                <word id="15" cont="商南" pos="ns" />
+                <word id="16" cont="县委" pos="n" />
+                <word id="17" cont="副" pos="b" />
+                <word id="18" cont="书记" pos="n" />
+                <word id="19" cont="；" pos="wp" />
+                <word id="20" cont="中共" pos="j" />
+                <word id="21" cont="山阳" pos="ns" />
+                <word id="22" cont="县委" pos="n" />
+                <word id="23" cont="常委" pos="n" />
+                <word id="24" cont="、" pos="wp" />
+                <word id="25" cont="县政府" pos="n" />
+                <word id="26" cont="常务" pos="b" />
+                <word id="27" cont="副" pos="b" />
+                <word id="28" cont="县长" pos="n" />
+                <word id="29" cont="，" pos="wp" />
+                <word id="30" cont="等" pos="v" />
+                <word id="31" cont="。" pos="wp" />
+            </sent>
+        </para>
+        <para id="4">
+            <sent id="0" cont="四川省蒲江县教育局党组书记、局长。">
+                <word id="0" cont="四川省" pos="ns" />
+                <word id="1" cont="蒲江县" pos="ns" />
+                <word id="2" cont="教育局" pos="n" />
+                <word id="3" cont="党组" pos="n" />
+                <word id="4" cont="书记" pos="n" />
+                <word id="5" cont="、" pos="wp" />
+                <word id="6" cont="局长" pos="n" />
+                <word id="7" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="主持县教育局全面工作。">
+                <word id="0" cont="主持" pos="v" />
+                <word id="1" cont="县" pos="n" />
+                <word id="2" cont="教育局" pos="n" />
+                <word id="3" cont="全面" pos="a" />
+                <word id="4" cont="工作" pos="v" />
+                <word id="5" cont="。" pos="wp" />
+            </sent>
+            <sent id="2" cont="主管教育督导、计财、基建和教仪电教等工作。">
+                <word id="0" cont="主管" pos="v" />
+                <word id="1" cont="教育" pos="v" />
+                <word id="2" cont="督导" pos="v" />
+                <word id="3" cont="、" pos="wp" />
+                <word id="4" cont="计财" pos="v" />
+                <word id="5" cont="、" pos="wp" />
+                <word id="6" cont="基建" pos="n" />
+                <word id="7" cont="和" pos="c" />
+                <word id="8" cont="教仪" pos="n" />
+                <word id="9" cont="电教" pos="n" />
+                <word id="10" cont="等" pos="u" />
+                <word id="11" cont="工作" pos="v" />
+                <word id="12" cont="。" pos="wp" />
+            </sent>
+        </para>
+        <para id="5">
+            <sent id="0" cont="女，1975年8月生，回族，广西南宁人，中共党员，1997年7月广西师范大学汉语言专业毕业，2006年获教育硕士学位，中学中级教师，1997年7月进入桂林中学任教语文至今。">
+                <word id="0" cont="女" pos="b" />
+                <word id="1" cont="，" pos="wp" />
+                <word id="2" cont="1975年" pos="m" />
+                <word id="3" cont="8月" pos="m" />
+                <word id="4" cont="生" pos="v" />
+                <word id="5" cont="，" pos="wp" />
+                <word id="6" cont="回族" pos="nz" />
+                <word id="7" cont="，" pos="wp" />
+                <word id="8" cont="广西" pos="ns" />
+                <word id="9" cont="南宁人" pos="n" />
+                <word id="10" cont="，" pos="wp" />
+                <word id="11" cont="中共" pos="j" />
+                <word id="12" cont="党员" pos="n" />
+                <word id="13" cont="，" pos="wp" />
+                <word id="14" cont="1997年" pos="m" />
+                <word id="15" cont="7月" pos="m" />
+                <word id="16" cont="广西" pos="ns" />
+                <word id="17" cont="师范大学" pos="n" />
+                <word id="18" cont="汉语言" pos="n" />
+                <word id="19" cont="专业" pos="n" />
+                <word id="20" cont="毕业" pos="v" />
+                <word id="21" cont="，" pos="wp" />
+                <word id="22" cont="2006年" pos="m" />
+                <word id="23" cont="获" pos="v" />
+                <word id="24" cont="教育" pos="v" />
+                <word id="25" cont="硕士" pos="n" />
+                <word id="26" cont="学位" pos="n" />
+                <word id="27" cont="，" pos="wp" />
+                <word id="28" cont="中学" pos="n" />
+                <word id="29" cont="中级" pos="b" />
+                <word id="30" cont="教师" pos="n" />
+                <word id="31" cont="，" pos="wp" />
+                <word id="32" cont="1997年" pos="m" />
+                <word id="33" cont="7月" pos="m" />
+                <word id="34" cont="进入" pos="v" />
+                <word id="35" cont="桂林" pos="ns" />
+                <word id="36" cont="中学" pos="n" />
+                <word id="37" cont="任教" pos="v" />
+                <word id="38" cont="语文" pos="n" />
+                <word id="39" cont="至" pos="p" />
+                <word id="40" cont="今" pos="nt" />
+                <word id="41" cont="。" pos="wp" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>

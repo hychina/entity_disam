@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="n" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="出生于香港，居住太平山山顶，后随父母迁至广州和北京，1997年香港回归时又回到香港。">
+                <word id="0" cont="出生于" pos="v" />
+                <word id="1" cont="香港" pos="ns" />
+                <word id="2" cont="，" pos="wp" />
+                <word id="3" cont="居住" pos="v" />
+                <word id="4" cont="太平山" pos="ns" />
+                <word id="5" cont="山顶" pos="n" />
+                <word id="6" cont="，" pos="wp" />
+                <word id="7" cont="后" pos="nd" />
+                <word id="8" cont="随" pos="p" />
+                <word id="9" cont="父母" pos="n" />
+                <word id="10" cont="迁" pos="v" />
+                <word id="11" cont="至" pos="p" />
+                <word id="12" cont="广州" pos="ns" />
+                <word id="13" cont="和" pos="c" />
+                <word id="14" cont="北京" pos="ns" />
+                <word id="15" cont="，" pos="wp" />
+                <word id="16" cont="1997年" pos="m" />
+                <word id="17" cont="香港" pos="ns" />
+                <word id="18" cont="回归" pos="v" />
+                <word id="19" cont="时" pos="n" />
+                <word id="20" cont="又" pos="d" />
+                <word id="21" cont="回到" pos="v" />
+                <word id="22" cont="香港" pos="ns" />
+                <word id="23" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="2000年华明去了英国接受英式教育，在英国伊顿公学学习。">
+                <word id="0" cont="2000年" pos="m" />
+                <word id="1" cont="华明" pos="nz" />
+                <word id="2" cont="去" pos="v" />
+                <word id="3" cont="了" pos="u" />
+                <word id="4" cont="英国" pos="ns" />
+                <word id="5" cont="接受" pos="v" />
+                <word id="6" cont="英式" pos="b" />
+                <word id="7" cont="教育" pos="v" />
+                <word id="8" cont="，" pos="wp" />
+                <word id="9" cont="在" pos="p" />
+                <word id="10" cont="英国" pos="ns" />
+                <word id="11" cont="伊顿" pos="nz" />
+                <word id="12" cont="公学" pos="n" />
+                <word id="13" cont="学习" pos="v" />
+                <word id="14" cont="。" pos="wp" />
+            </sent>
+            <sent id="2" cont="擅长于橄榄球、曲棍球、网球、壁球、国际象棋、马术场地障碍赛、马术三项赛和冬季猎狐活动。">
+                <word id="0" cont="擅长" pos="v" />
+                <word id="1" cont="于" pos="p" />
+                <word id="2" cont="橄榄球" pos="n" />
+                <word id="3" cont="、" pos="wp" />
+                <word id="4" cont="曲棍球" pos="n" />
+                <word id="5" cont="、" pos="wp" />
+                <word id="6" cont="网球" pos="n" />
+                <word id="7" cont="、" pos="wp" />
+                <word id="8" cont="壁球" pos="n" />
+                <word id="9" cont="、" pos="wp" />
+                <word id="10" cont="国际象棋" pos="n" />
+                <word id="11" cont="、" pos="wp" />
+                <word id="12" cont="马术" pos="n" />
+                <word id="13" cont="场地" pos="n" />
+                <word id="14" cont="障碍赛" pos="n" />
+                <word id="15" cont="、" pos="wp" />
+                <word id="16" cont="马术" pos="n" />
+                <word id="17" cont="三" pos="m" />
+                <word id="18" cont="项赛" pos="n" />
+                <word id="19" cont="和" pos="c" />
+                <word id="20" cont="冬季" pos="nt" />
+                <word id="21" cont="猎狐" pos="n" />
+                <word id="22" cont="活动" pos="v" />
+                <word id="23" cont="。" pos="wp" />
+            </sent>
+            <sent id="3" cont="但板球运动始终是他参与所有这些运动项目中投入最大精力的运动。">
+                <word id="0" cont="但" pos="c" />
+                <word id="1" cont="板球" pos="n" />
+                <word id="2" cont="运动" pos="v" />
+                <word id="3" cont="始终" pos="d" />
+                <word id="4" cont="是" pos="v" />
+                <word id="5" cont="他" pos="r" />
+                <word id="6" cont="参与" pos="v" />
+                <word id="7" cont="所有" pos="b" />
+                <word id="8" cont="这些" pos="r" />
+                <word id="9" cont="运动" pos="v" />
+                <word id="10" cont="项目" pos="n" />
+                <word id="11" cont="中" pos="nd" />
+                <word id="12" cont="投入" pos="v" />
+                <word id="13" cont="最" pos="d" />
+                <word id="14" cont="大" pos="a" />
+                <word id="15" cont="精力" pos="n" />
+                <word id="16" cont="的" pos="u" />
+                <word id="17" cont="运动" pos="v" />
+                <word id="18" cont="。" pos="wp" />
+            </sent>
+        </para>
+        <para id="1">
+            <sent id="0" cont="从小随父母在四川省成都市、辽宁省大连市、吉林省长春市、北京市、江苏省南京市生活，先后就读于北京遗光寺小学、南京林学院小学、南京市第三十四中学和南京市第一中学。">
+                <word id="0" cont="从小" pos="d" />
+                <word id="1" cont="随" pos="p" />
+                <word id="2" cont="父母" pos="n" />
+                <word id="3" cont="在" pos="p" />
+                <word id="4" cont="四川省" pos="ns" />
+                <word id="5" cont="成都市" pos="ns" />
+                <word id="6" cont="、" pos="wp" />
+                <word id="7" cont="辽宁省" pos="ns" />
+                <word id="8" cont="大连市" pos="ns" />
+                <word id="9" cont="、" pos="wp" />
+                <word id="10" cont="吉林省" pos="ns" />
+                <word id="11" cont="长春市" pos="ns" />
+                <word id="12" cont="、" pos="wp" />
+                <word id="13" cont="北京市" pos="ns" />
+                <word id="14" cont="、" pos="wp" />
+                <word id="15" cont="江苏省" pos="ns" />
+                <word id="16" cont="南京市" pos="ns" />
+                <word id="17" cont="生活" pos="v" />
+                <word id="18" cont="，" pos="wp" />
+                <word id="19" cont="先后" pos="d" />
+                <word id="20" cont="就读" pos="v" />
+                <word id="21" cont="于" pos="p" />
+                <word id="22" cont="北京" pos="ns" />
+                <word id="23" cont="遗光寺" pos="ns" />
+                <word id="24" cont="小学" pos="n" />
+                <word id="25" cont="、" pos="wp" />
+                <word id="26" cont="南京" pos="ns" />
+                <word id="27" cont="林学院" pos="n" />
+                <word id="28" cont="小学" pos="n" />
+                <word id="29" cont="、" pos="wp" />
+                <word id="30" cont="南京市" pos="ns" />
+                <word id="31" cont="第三十四" pos="m" />
+                <word id="32" cont="中学" pos="n" />
+                <word id="33" cont="和" pos="c" />
+                <word id="34" cont="南京市" pos="ns" />
+                <word id="35" cont="第一" pos="m" />
+                <word id="36" cont="中学" pos="n" />
+                <word id="37" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="曾为江苏省江都县周西公社刘五大队插队知识青年、广西壮族自治区南宁市手扶拖拉机厂职工。">
+                <word id="0" cont="曾" pos="d" />
+                <word id="1" cont="为" pos="p" />
+                <word id="2" cont="江苏省" pos="ns" />
+                <word id="3" cont="江都县" pos="ns" />
+                <word id="4" cont="周西公社" pos="ns" />
+                <word id="5" cont="刘五" pos="nh" />
+                <word id="6" cont="大队" pos="n" />
+                <word id="7" cont="插队" pos="v" />
+                <word id="8" cont="知识青年" pos="i" />
+                <word id="9" cont="、" pos="wp" />
+                <word id="10" cont="广西" pos="ns" />
+                <word id="11" cont="壮族" pos="nz" />
+                <word id="12" cont="自治区" pos="n" />
+                <word id="13" cont="南宁市" pos="ns" />
+                <word id="14" cont="手扶拖拉机" pos="n" />
+                <word id="15" cont="厂" pos="n" />
+                <word id="16" cont="职工" pos="n" />
+                <word id="17" cont="。" pos="wp" />
+            </sent>
+            <sent id="2" cont="南京师范大学影视艺术研究所所长。">
+                <word id="0" cont="南京" pos="ns" />
+                <word id="1" cont="师范大学" pos="n" />
+                <word id="2" cont="影视" pos="b" />
+                <word id="3" cont="艺术" pos="n" />
+                <word id="4" cont="研究所" pos="n" />
+                <word id="5" cont="所长" pos="n" />
+                <word id="6" cont="。" pos="wp" />
+            </sent>
+        </para>
+        <para id="2">
+            <sent id="0" cont="地处市中心区和“天津滨海新区”之间，约占东丽区的三分之一。">
+                <word id="0" cont="地处" pos="v" />
+                <word id="1" cont="市" pos="n" />
+                <word id="2" cont="中心区" pos="n" />
+                <word id="3" cont="和" pos="c" />
+                <word id="4" cont="“" pos="wp" />
+                <word id="5" cont="天津" pos="ns" />
+                <word id="6" cont="滨海" pos="n" />
+                <word id="7" cont="新区" pos="n" />
+                <word id="8" cont="”" pos="wp" />
+                <word id="9" cont="之间" pos="nd" />
+                <word id="10" cont="，" pos="wp" />
+                <word id="11" cont="约" pos="d" />
+                <word id="12" cont="占" pos="v" />
+                <word id="13" cont="东丽区" pos="ns" />
+                <word id="14" cont="的" pos="u" />
+                <word id="15" cont="三分之一" pos="m" />
+                <word id="16" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="全镇辖15个自然村，常住人口5万余人。">
+                <word id="0" cont="全镇" pos="n" />
+                <word id="1" cont="辖" pos="v" />
+                <word id="2" cont="15" pos="m" />
+                <word id="3" cont="个" pos="q" />
+                <word id="4" cont="自然村" pos="n" />
+                <word id="5" cont="，" pos="wp" />
+                <word id="6" cont="常住" pos="v" />
+                <word id="7" cont="人口" pos="n" />
+                <word id="8" cont="5万" pos="m" />
+                <word id="9" cont="余" pos="m" />
+                <word id="10" cont="人" pos="n" />
+                <word id="11" cont="。" pos="wp" />
+            </sent>
+            <sent id="2" cont="地理位置优越，交通便捷畅达，周边环境良好。">
+                <word id="0" cont="地理" pos="n" />
+                <word id="1" cont="位置" pos="n" />
+                <word id="2" cont="优越" pos="a" />
+                <word id="3" cont="，" pos="wp" />
+                <word id="4" cont="交通" pos="n" />
+                <word id="5" cont="便捷" pos="a" />
+                <word id="6" cont="畅达" pos="a" />
+                <word id="7" cont="，" pos="wp" />
+                <word id="8" cont="周边" pos="n" />
+                <word id="9" cont="环境" pos="n" />
+                <word id="10" cont="良好" pos="a" />
+                <word id="11" cont="。" pos="wp" />
+            </sent>
+            <sent id="3" cont="东连“天津滨海新区”，西靠天津市中心区，南临“天津滨海国际机场”，北通东三省。">
+                <word id="0" cont="东连" pos="ns" />
+                <word id="1" cont="“" pos="wp" />
+                <word id="2" cont="天津" pos="ns" />
+                <word id="3" cont="滨海" pos="n" />
+                <word id="4" cont="新区" pos="n" />
+                <word id="5" cont="”" pos="wp" />
+                <word id="6" cont="，" pos="wp" />
+                <word id="7" cont="西" pos="nd" />
+                <word id="8" cont="靠" pos="v" />
+                <word id="9" cont="天津" pos="ns" />
+                <word id="10" cont="市" pos="n" />
+                <word id="11" cont="中心区" pos="n" />
+                <word id="12" cont="，" pos="wp" />
+                <word id="13" cont="南临" pos="ns" />
+                <word id="14" cont="“" pos="wp" />
+                <word id="15" cont="天津" pos="ns" />
+                <word id="16" cont="滨海" pos="n" />
+                <word id="17" cont="国际" pos="n" />
+                <word id="18" cont="机场" pos="n" />
+                <word id="19" cont="”" pos="wp" />
+                <word id="20" cont="，" pos="wp" />
+                <word id="21" cont="北" pos="nd" />
+                <word id="22" cont="通东" pos="v" />
+                <word id="23" cont="三" pos="m" />
+                <word id="24" cont="省" pos="n" />
+                <word id="25" cont="。" pos="wp" />
+            </sent>
+            <sent id="4" cont="“津汉公路”、“北环铁路”贯穿东西，“杨北公路”、外环线南北并行，京津塘快速路在境内都有出入口。">
+                <word id="0" cont="“" pos="wp" />
+                <word id="1" cont="津汉" pos="n" />
+                <word id="2" cont="公路" pos="n" />
+                <word id="3" cont="”" pos="wp" />
+                <word id="4" cont="、" pos="wp" />
+                <word id="5" cont="“" pos="wp" />
+                <word id="6" cont="北" pos="nd" />
+                <word id="7" cont="环" pos="v" />
+                <word id="8" cont="铁路" pos="n" />
+                <word id="9" cont="”" pos="wp" />
+                <word id="10" cont="贯穿" pos="v" />
+                <word id="11" cont="东西" pos="n" />
+                <word id="12" cont="，" pos="wp" />
+                <word id="13" cont="“" pos="wp" />
+                <word id="14" cont="杨北" pos="ns" />
+                <word id="15" cont="公路" pos="n" />
+                <word id="16" cont="”" pos="wp" />
+                <word id="17" cont="、" pos="wp" />
+                <word id="18" cont="外环线" pos="n" />
+                <word id="19" cont="南北" pos="nd" />
+                <word id="20" cont="并行" pos="v" />
+                <word id="21" cont="，" pos="wp" />
+                <word id="22" cont="京" pos="j" />
+                <word id="23" cont="津" pos="j" />
+                <word id="24" cont="塘" pos="j" />
+                <word id="25" cont="快速" pos="b" />
+                <word id="26" cont="路" pos="n" />
+                <word id="27" cont="在" pos="p" />
+                <word id="28" cont="境内" pos="nl" />
+                <word id="29" cont="都" pos="d" />
+                <word id="30" cont="有" pos="v" />
+                <word id="31" cont="出入口" pos="n" />
+                <word id="32" cont="。" pos="wp" />
+            </sent>
+            <sent id="5" cont="从镇中心区到天津机场仅5公里，到市中心仅12公里，完备的交通设施使这里成为连接天津市区与滨海新区、国际机场、首都北京以及东北三省的重要枢纽。">
+                <word id="0" cont="从" pos="p" />
+                <word id="1" cont="镇" pos="n" />
+                <word id="2" cont="中心区" pos="n" />
+                <word id="3" cont="到" pos="v" />
+                <word id="4" cont="天津" pos="ns" />
+                <word id="5" cont="机场" pos="n" />
+                <word id="6" cont="仅" pos="d" />
+                <word id="7" cont="5" pos="m" />
+                <word id="8" cont="公里" pos="q" />
+                <word id="9" cont="，" pos="wp" />
+                <word id="10" cont="到" pos="v" />
+                <word id="11" cont="市中心" pos="nl" />
+                <word id="12" cont="仅" pos="d" />
+                <word id="13" cont="12" pos="m" />
+                <word id="14" cont="公里" pos="q" />
+                <word id="15" cont="，" pos="wp" />
+                <word id="16" cont="完备" pos="a" />
+                <word id="17" cont="的" pos="u" />
+                <word id="18" cont="交通" pos="n" />
+                <word id="19" cont="设施" pos="n" />
+                <word id="20" cont="使" pos="v" />
+                <word id="21" cont="这里" pos="r" />
+                <word id="22" cont="成为" pos="v" />
+                <word id="23" cont="连接" pos="v" />
+                <word id="24" cont="天津" pos="ns" />
+                <word id="25" cont="市区" pos="nl" />
+                <word id="26" cont="与" pos="p" />
+                <word id="27" cont="滨海" pos="n" />
+                <word id="28" cont="新区" pos="n" />
+                <word id="29" cont="、" pos="wp" />
+                <word id="30" cont="国际" pos="n" />
+                <word id="31" cont="机场" pos="n" />
+                <word id="32" cont="、" pos="wp" />
+                <word id="33" cont="首都" pos="n" />
+                <word id="34" cont="北京" pos="ns" />
+                <word id="35" cont="以及" pos="c" />
+                <word id="36" cont="东北" pos="nl" />
+                <word id="37" cont="三" pos="m" />
+                <word id="38" cont="省" pos="n" />
+                <word id="39" cont="的" pos="u" />
+                <word id="40" cont="重要" pos="a" />
+                <word id="41" cont="枢纽" pos="n" />
+                <word id="42" cont="。" pos="wp" />
+            </sent>
+        </para>
+        <para id="3">
+            <sent id="0" cont="中国电力变压器分接开关领导企业。">
+                <word id="0" cont="中国" pos="ns" />
+                <word id="1" cont="电力" pos="n" />
+                <word id="2" cont="变压器" pos="n" />
+                <word id="3" cont="分" pos="v" />
+                <word id="4" cont="接" pos="v" />
+                <word id="5" cont="开关" pos="v" />
+                <word id="6" cont="领导" pos="n" />
+                <word id="7" cont="企业" pos="n" />
+                <word id="8" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="致力于以“中国自主科技装备电力工业”，是集变电站高压电力设备的研究、开发、生产、销售为一体的高新技术企业。">
+                <word id="0" cont="致力" pos="v" />
+                <word id="1" cont="于" pos="p" />
+                <word id="2" cont="以" pos="p" />
+                <word id="3" cont="“" pos="wp" />
+                <word id="4" cont="中国" pos="ns" />
+                <word id="5" cont="自主" pos="v" />
+                <word id="6" cont="科技" pos="n" />
+                <word id="7" cont="装备" pos="n" />
+                <word id="8" cont="电力" pos="n" />
+                <word id="9" cont="工业" pos="n" />
+                <word id="10" cont="”" pos="wp" />
+                <word id="11" cont="，" pos="wp" />
+                <word id="12" cont="是" pos="v" />
+                <word id="13" cont="集" pos="v" />
+                <word id="14" cont="变电站" pos="n" />
+                <word id="15" cont="高压" pos="n" />
+                <word id="16" cont="电力" pos="n" />
+                <word id="17" cont="设备" pos="n" />
+                <word id="18" cont="的" pos="u" />
+                <word id="19" cont="研究" pos="v" />
+                <word id="20" cont="、" pos="wp" />
+                <word id="21" cont="开发" pos="v" />
+                <word id="22" cont="、" pos="wp" />
+                <word id="23" cont="生产" pos="v" />
+                <word id="24" cont="、" pos="wp" />
+                <word id="25" cont="销售" pos="v" />
+                <word id="26" cont="为" pos="v" />
+                <word id="27" cont="一体" pos="n" />
+                <word id="28" cont="的" pos="u" />
+                <word id="29" cont="高新技术" pos="n" />
+                <word id="30" cont="企业" pos="n" />
+                <word id="31" cont="。" pos="wp" />
+            </sent>
+            <sent id="2" cont="主要产品为变压器有载分接开关、无励磁分接开关、高压断路器和高压隔离开关、敞开式组合电器、绝缘材料等。">
+                <word id="0" cont="主要" pos="b" />
+                <word id="1" cont="产品" pos="n" />
+                <word id="2" cont="为" pos="v" />
+                <word id="3" cont="变压器" pos="n" />
+                <word id="4" cont="有" pos="v" />
+                <word id="5" cont="载" pos="v" />
+                <word id="6" cont="分" pos="v" />
+                <word id="7" cont="接" pos="v" />
+                <word id="8" cont="开关" pos="n" />
+                <word id="9" cont="、" pos="wp" />
+                <word id="10" cont="无励" pos="v" />
+                <word id="11" cont="磁分" pos="n" />
+                <word id="12" cont="接" pos="v" />
+                <word id="13" cont="开关" pos="v" />
+                <word id="14" cont="、" pos="wp" />
+                <word id="15" cont="高压" pos="n" />
+                <word id="16" cont="断路器" pos="n" />
+                <word id="17" cont="和" pos="c" />
+                <word id="18" cont="高压" pos="n" />
+                <word id="19" cont="隔" pos="v" />
+                <word id="20" cont="离" pos="v" />
+                <word id="21" cont="开关" pos="n" />
+                <word id="22" cont="、" pos="wp" />
+                <word id="23" cont="敞开式" pos="b" />
+                <word id="24" cont="组合" pos="v" />
+                <word id="25" cont="电器" pos="n" />
+                <word id="26" cont="、" pos="wp" />
+                <word id="27" cont="绝缘" pos="v" />
+                <word id="28" cont="材料" pos="n" />
+                <word id="29" cont="等" pos="u" />
+                <word id="30" cont="。" pos="wp" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>

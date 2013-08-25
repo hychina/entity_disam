@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="n" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="著名宋史研究专家、中国思想史研究专家。">
+                <word id="0" cont="著名" pos="a" />
+                <word id="1" cont="宋史" pos="n" />
+                <word id="2" cont="研究" pos="v" />
+                <word id="3" cont="专家" pos="n" />
+                <word id="4" cont="、" pos="wp" />
+                <word id="5" cont="中国" pos="ns" />
+                <word id="6" cont="思想史" pos="n" />
+                <word id="7" cont="研究" pos="v" />
+                <word id="8" cont="专家" pos="n" />
+                <word id="9" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="原名华芷荪。">
+                <word id="0" cont="原名" pos="n" />
+                <word id="1" cont="华芷荪" pos="nh" />
+                <word id="2" cont="。" pos="wp" />
+            </sent>
+            <sent id="2" cont="1910年11月12日出生于江苏省无锡县张泾桥乡（今属无锡市锡山区张泾镇）一个地主家庭中，祖父手里家道中落，父亲应过科举，教书终老。">
+                <word id="0" cont="1910年" pos="m" />
+                <word id="1" cont="11月" pos="m" />
+                <word id="2" cont="12日" pos="m" />
+                <word id="3" cont="出生" pos="v" />
+                <word id="4" cont="于" pos="p" />
+                <word id="5" cont="江苏省" pos="ns" />
+                <word id="6" cont="无锡县" pos="ns" />
+                <word id="7" cont="张泾桥乡" pos="ns" />
+                <word id="8" cont="（" pos="wp" />
+                <word id="9" cont="今属" pos="ns" />
+                <word id="10" cont="无锡市" pos="ns" />
+                <word id="11" cont="锡山区" pos="ns" />
+                <word id="12" cont="张泾镇" pos="nh" />
+                <word id="13" cont="）" pos="wp" />
+                <word id="14" cont="一个" pos="m" />
+                <word id="15" cont="地主" pos="n" />
+                <word id="16" cont="家庭" pos="n" />
+                <word id="17" cont="中" pos="nd" />
+                <word id="18" cont="，" pos="wp" />
+                <word id="19" cont="祖父" pos="n" />
+                <word id="20" cont="手里" pos="nl" />
+                <word id="21" cont="家道" pos="n" />
+                <word id="22" cont="中" pos="nd" />
+                <word id="23" cont="落" pos="v" />
+                <word id="24" cont="，" pos="wp" />
+                <word id="25" cont="父亲" pos="n" />
+                <word id="26" cont="应" pos="v" />
+                <word id="27" cont="过" pos="u" />
+                <word id="28" cont="科举" pos="n" />
+                <word id="29" cont="，" pos="wp" />
+                <word id="30" cont="教书" pos="v" />
+                <word id="31" cont="终老" pos="nh" />
+                <word id="32" cont="。" pos="wp" />
+            </sent>
+            <sent id="3" cont="张泾桥又名泾皋，明代后期东林党领袖顾宪成、顾允成兄弟出生于此。">
+                <word id="0" cont="张泾桥" pos="nh" />
+                <word id="1" cont="又" pos="d" />
+                <word id="2" cont="名泾皋" pos="a" />
+                <word id="3" cont="，" pos="wp" />
+                <word id="4" cont="明代" pos="nt" />
+                <word id="5" cont="后期" pos="nt" />
+                <word id="6" cont="东林党" pos="n" />
+                <word id="7" cont="领袖" pos="n" />
+                <word id="8" cont="顾宪成" pos="nh" />
+                <word id="9" cont="、" pos="wp" />
+                <word id="10" cont="顾允成" pos="nh" />
+                <word id="11" cont="兄弟" pos="n" />
+                <word id="12" cont="出生" pos="v" />
+                <word id="13" cont="于" pos="p" />
+                <word id="14" cont="此" pos="r" />
+                <word id="15" cont="。" pos="wp" />
+            </sent>
+            <sent id="4" cont="清代前期，文风颇盛，状元顾皋、文学家顾贞观等都是这里出生的。">
+                <word id="0" cont="清代" pos="nt" />
+                <word id="1" cont="前期" pos="nd" />
+                <word id="2" cont="，" pos="wp" />
+                <word id="3" cont="文风" pos="n" />
+                <word id="4" cont="颇" pos="d" />
+                <word id="5" cont="盛" pos="v" />
+                <word id="6" cont="，" pos="wp" />
+                <word id="7" cont="状元" pos="n" />
+                <word id="8" cont="顾皋" pos="nh" />
+                <word id="9" cont="、" pos="wp" />
+                <word id="10" cont="文学家" pos="n" />
+                <word id="11" cont="顾贞观" pos="n" />
+                <word id="12" cont="等" pos="u" />
+                <word id="13" cont="都" pos="d" />
+                <word id="14" cont="是" pos="v" />
+                <word id="15" cont="这里" pos="r" />
+                <word id="16" cont="出生" pos="v" />
+                <word id="17" cont="的" pos="u" />
+                <word id="18" cont="。" pos="wp" />
+            </sent>
+            <sent id="5" cont="华山自幼酷爱文学，在私立无锡中学高中文科班读书时，即以诗词闻名於同辈。">
+                <word id="0" cont="华山" pos="ns" />
+                <word id="1" cont="自幼" pos="d" />
+                <word id="2" cont="酷爱" pos="v" />
+                <word id="3" cont="文学" pos="n" />
+                <word id="4" cont="，" pos="wp" />
+                <word id="5" cont="在" pos="p" />
+                <word id="6" cont="私立" pos="b" />
+                <word id="7" cont="无锡" pos="ns" />
+                <word id="8" cont="中学" pos="n" />
+                <word id="9" cont="高中文科班" pos="n" />
+                <word id="10" cont="读书" pos="v" />
+                <word id="11" cont="时" pos="n" />
+                <word id="12" cont="，" pos="wp" />
+                <word id="13" cont="即" pos="v" />
+                <word id="14" cont="以" pos="p" />
+                <word id="15" cont="诗词" pos="n" />
+                <word id="16" cont="闻名於" pos="n" />
+                <word id="17" cont="同辈" pos="n" />
+                <word id="18" cont="。" pos="wp" />
+            </sent>
+            <sent id="6" cont="1928年高中毕业，考入中国公学----学部中国文学系。">
+                <word id="0" cont="1928年" pos="m" />
+                <word id="1" cont="高中" pos="n" />
+                <word id="2" cont="毕业" pos="v" />
+                <word id="3" cont="，" pos="wp" />
+                <word id="4" cont="考入" pos="v" />
+                <word id="5" cont="中国" pos="ns" />
+                <word id="6" cont="公学" pos="j" />
+                <word id="7" cont="-" pos="ns" />
+                <word id="8" cont="--" pos="wp" />
+                <word id="9" cont="-" pos="ns" />
+                <word id="10" cont="学部" pos="n" />
+                <word id="11" cont="中国" pos="ns" />
+                <word id="12" cont="文学" pos="n" />
+                <word id="13" cont="系" pos="n" />
+                <word id="14" cont="。" pos="wp" />
+            </sent>
+            <sent id="7" cont="翌年，考入清华大学中国文学系，后转政治经济系。">
+                <word id="0" cont="翌年" pos="nt" />
+                <word id="1" cont="，" pos="wp" />
+                <word id="2" cont="考入" pos="v" />
+                <word id="3" cont="清华大学" pos="ni" />
+                <word id="4" cont="中国" pos="ns" />
+                <word id="5" cont="文学" pos="n" />
+                <word id="6" cont="系" pos="v" />
+                <word id="7" cont="，" pos="wp" />
+                <word id="8" cont="后" pos="nd" />
+                <word id="9" cont="转" pos="v" />
+                <word id="10" cont="政治" pos="n" />
+                <word id="11" cont="经济系" pos="n" />
+                <word id="12" cont="。" pos="wp" />
+            </sent>
+            <sent id="8" cont="因他担心学文毕业之后无出路，所以改变主意，选择较易谋生的科系攻读。">
+                <word id="0" cont="因" pos="p" />
+                <word id="1" cont="他" pos="r" />
+                <word id="2" cont="担心" pos="v" />
+                <word id="3" cont="学文" pos="nh" />
+                <word id="4" cont="毕业" pos="v" />
+                <word id="5" cont="之后" pos="nd" />
+                <word id="6" cont="无出路" pos="ns" />
+                <word id="7" cont="，" pos="wp" />
+                <word id="8" cont="所以" pos="c" />
+                <word id="9" cont="改变" pos="v" />
+                <word id="10" cont="主意" pos="n" />
+                <word id="11" cont="，" pos="wp" />
+                <word id="12" cont="选择" pos="v" />
+                <word id="13" cont="较" pos="d" />
+                <word id="14" cont="易" pos="a" />
+                <word id="15" cont="谋生" pos="v" />
+                <word id="16" cont="的" pos="u" />
+                <word id="17" cont="科系" pos="n" />
+                <word id="18" cont="攻读" pos="v" />
+                <word id="19" cont="。" pos="wp" />
+            </sent>
+        </para>
+        <para id="1">
+            <sent id="0" cont="作家。">
+                <word id="0" cont="作家" pos="n" />
+                <word id="1" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="原名杨华宁，广西龙州镇西街人。">
+                <word id="0" cont="原名" pos="n" />
+                <word id="1" cont="杨华宁" pos="nh" />
+                <word id="2" cont="，" pos="wp" />
+                <word id="3" cont="广西" pos="ns" />
+                <word id="4" cont="龙州镇" pos="ns" />
+                <word id="5" cont="西街" pos="n" />
+                <word id="6" cont="人" pos="n" />
+                <word id="7" cont="。" pos="wp" />
+            </sent>
+            <sent id="2" cont="曾用笔名：伯韦、未央、西岳、牧荆、肖杨、洛枫、杲讯、若曦等。">
+                <word id="0" cont="曾" pos="d" />
+                <word id="1" cont="用" pos="v" />
+                <word id="2" cont="笔名" pos="n" />
+                <word id="3" cont="：" pos="wp" />
+                <word id="4" cont="伯韦" pos="nh" />
+                <word id="5" cont="、" pos="wp" />
+                <word id="6" cont="未央" pos="nh" />
+                <word id="7" cont="、" pos="wp" />
+                <word id="8" cont="西岳" pos="ns" />
+                <word id="9" cont="、" pos="wp" />
+                <word id="10" cont="牧荆" pos="ns" />
+                <word id="11" cont="、" pos="wp" />
+                <word id="12" cont="肖杨" pos="ns" />
+                <word id="13" cont="、" pos="wp" />
+                <word id="14" cont="洛枫" pos="ns" />
+                <word id="15" cont="、" pos="wp" />
+                <word id="16" cont="杲讯" pos="ns" />
+                <word id="17" cont="、" pos="wp" />
+                <word id="18" cont="若曦" pos="ns" />
+                <word id="19" cont="等" pos="u" />
+                <word id="20" cont="。" pos="wp" />
+            </sent>
+            <sent id="3" cont="6岁随家迁居南宁，14岁考入上海泉漳高中。">
+                <word id="0" cont="6" pos="m" />
+                <word id="1" cont="岁" pos="q" />
+                <word id="2" cont="随" pos="p" />
+                <word id="3" cont="家" pos="n" />
+                <word id="4" cont="迁居" pos="v" />
+                <word id="5" cont="南宁" pos="ns" />
+                <word id="6" cont="，" pos="wp" />
+                <word id="7" cont="14" pos="m" />
+                <word id="8" cont="岁" pos="q" />
+                <word id="9" cont="考入" pos="v" />
+                <word id="10" cont="上海" pos="ns" />
+                <word id="11" cont="泉漳" pos="nz" />
+                <word id="12" cont="高中" pos="n" />
+                <word id="13" cont="。" pos="wp" />
+            </sent>
+            <sent id="4" cont="1936年参加共产党领导的“民先”组织，被学校当局开除，遂在张爱萍将军领导下的上海游击队做传令兵，经张爱萍将军介绍，赴延安吴堡西北青年训练班，后转入延安鲁迅艺术学院学习。">
+                <word id="0" cont="1936年" pos="m" />
+                <word id="1" cont="参加" pos="v" />
+                <word id="2" cont="共产党" pos="n" />
+                <word id="3" cont="领导" pos="v" />
+                <word id="4" cont="的" pos="u" />
+                <word id="5" cont="“" pos="wp" />
+                <word id="6" cont="民先" pos="j" />
+                <word id="7" cont="”" pos="wp" />
+                <word id="8" cont="组织" pos="n" />
+                <word id="9" cont="，" pos="wp" />
+                <word id="10" cont="被" pos="p" />
+                <word id="11" cont="学校" pos="n" />
+                <word id="12" cont="当局" pos="n" />
+                <word id="13" cont="开除" pos="v" />
+                <word id="14" cont="，" pos="wp" />
+                <word id="15" cont="遂" pos="d" />
+                <word id="16" cont="在" pos="p" />
+                <word id="17" cont="张爱萍" pos="nh" />
+                <word id="18" cont="将军" pos="n" />
+                <word id="19" cont="领导" pos="v" />
+                <word id="20" cont="下" pos="nd" />
+                <word id="21" cont="的" pos="u" />
+                <word id="22" cont="上海" pos="ns" />
+                <word id="23" cont="游击队" pos="n" />
+                <word id="24" cont="做" pos="v" />
+                <word id="25" cont="传令" pos="v" />
+                <word id="26" cont="兵" pos="n" />
+                <word id="27" cont="，" pos="wp" />
+                <word id="28" cont="经" pos="p" />
+                <word id="29" cont="张爱萍" pos="nh" />
+                <word id="30" cont="将军" pos="n" />
+                <word id="31" cont="介绍" pos="v" />
+                <word id="32" cont="，" pos="wp" />
+                <word id="33" cont="赴" pos="v" />
+                <word id="34" cont="延安" pos="ns" />
+                <word id="35" cont="吴堡" pos="ns" />
+                <word id="36" cont="西北" pos="nd" />
+                <word id="37" cont="青年" pos="n" />
+                <word id="38" cont="训练班" pos="n" />
+                <word id="39" cont="，" pos="wp" />
+                <word id="40" cont="后" pos="nd" />
+                <word id="41" cont="转入" pos="v" />
+                <word id="42" cont="延安" pos="ns" />
+                <word id="43" cont="鲁迅" pos="nh" />
+                <word id="44" cont="艺术" pos="n" />
+                <word id="45" cont="学院" pos="n" />
+                <word id="46" cont="学习" pos="v" />
+                <word id="47" cont="。" pos="wp" />
+            </sent>
+            <sent id="5" cont="中篇小说《鸡毛信》和报告文学《英雄十月》、《清川江畔》分别选入小学、中学和大学语文教科书。">
+                <word id="0" cont="中篇小说" pos="i" />
+                <word id="1" cont="《" pos="wp" />
+                <word id="2" cont="鸡毛信" pos="n" />
+                <word id="3" cont="》" pos="wp" />
+                <word id="4" cont="和" pos="c" />
+                <word id="5" cont="报告文学" pos="i" />
+                <word id="6" cont="《" pos="wp" />
+                <word id="7" cont="英雄" pos="n" />
+                <word id="8" cont="十月" pos="nt" />
+                <word id="9" cont="》" pos="wp" />
+                <word id="10" cont="、" pos="wp" />
+                <word id="11" cont="《" pos="wp" />
+                <word id="12" cont="清川江畔" pos="ns" />
+                <word id="13" cont="》" pos="wp" />
+                <word id="14" cont="分别" pos="d" />
+                <word id="15" cont="选" pos="v" />
+                <word id="16" cont="入" pos="v" />
+                <word id="17" cont="小学" pos="n" />
+                <word id="18" cont="、" pos="wp" />
+                <word id="19" cont="中学" pos="n" />
+                <word id="20" cont="和" pos="c" />
+                <word id="21" cont="大学" pos="n" />
+                <word id="22" cont="语文" pos="n" />
+                <word id="23" cont="教科书" pos="n" />
+                <word id="24" cont="。" pos="wp" />
+            </sent>
+        </para>
+        <para id="2">
+            <sent id="0" cont="又名华一泓，上世纪70、80年代香港邵氏电影著名导演。">
+                <word id="0" cont="又" pos="d" />
+                <word id="1" cont="名" pos="v" />
+                <word id="2" cont="华" pos="j" />
+                <word id="3" cont="一" pos="m" />
+                <word id="4" cont="泓" pos="q" />
+                <word id="5" cont="，" pos="wp" />
+                <word id="6" cont="上" pos="nd" />
+                <word id="7" cont="世纪" pos="n" />
+                <word id="8" cont="70" pos="m" />
+                <word id="9" cont="、" pos="wp" />
+                <word id="10" cont="80" pos="m" />
+                <word id="11" cont="年代" pos="n" />
+                <word id="12" cont="香港" pos="ns" />
+                <word id="13" cont="邵氏" pos="nh" />
+                <word id="14" cont="电影" pos="n" />
+                <word id="15" cont="著名" pos="a" />
+                <word id="16" cont="导演" pos="n" />
+                <word id="17" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="1942年出生于上海，上海电影专科学校摄影系毕业。">
+                <word id="0" cont="1942年" pos="m" />
+                <word id="1" cont="出生" pos="v" />
+                <word id="2" cont="于" pos="p" />
+                <word id="3" cont="上海" pos="ns" />
+                <word id="4" cont="，" pos="wp" />
+                <word id="5" cont="上海" pos="ns" />
+                <word id="6" cont="电影" pos="n" />
+                <word id="7" cont="专科学校" pos="i" />
+                <word id="8" cont="摄影系" pos="n" />
+                <word id="9" cont="毕业" pos="v" />
+                <word id="10" cont="。" pos="wp" />
+            </sent>
+            <sent id="2" cont="1963年加入邵氏电影公司，任西本正的摄影助手。">
+                <word id="0" cont="1963年" pos="m" />
+                <word id="1" cont="加入" pos="v" />
+                <word id="2" cont="邵氏" pos="nh" />
+                <word id="3" cont="电影" pos="n" />
+                <word id="4" cont="公司" pos="n" />
+                <word id="5" cont="，" pos="wp" />
+                <word id="6" cont="任" pos="v" />
+                <word id="7" cont="西本正" pos="nh" />
+                <word id="8" cont="的" pos="u" />
+                <word id="9" cont="摄影" pos="v" />
+                <word id="10" cont="助手" pos="n" />
+                <word id="11" cont="。" pos="wp" />
+            </sent>
+            <sent id="3" cont="1968年升任摄影师，拍摄过申江执导的《插翅虎》和张曾泽执导的《吉祥赌坊》等十多部片。">
+                <word id="0" cont="1968年" pos="m" />
+                <word id="1" cont="升" pos="q" />
+                <word id="2" cont="任" pos="v" />
+                <word id="3" cont="摄影师" pos="n" />
+                <word id="4" cont="，" pos="wp" />
+                <word id="5" cont="拍摄" pos="v" />
+                <word id="6" cont="过" pos="u" />
+                <word id="7" cont="申江" pos="nh" />
+                <word id="8" cont="执导" pos="v" />
+                <word id="9" cont="的" pos="u" />
+                <word id="10" cont="《" pos="wp" />
+                <word id="11" cont="插翅" pos="n" />
+                <word id="12" cont="虎" pos="n" />
+                <word id="13" cont="》" pos="wp" />
+                <word id="14" cont="和" pos="c" />
+                <word id="15" cont="张" pos="nh" />
+                <word id="16" cont="曾泽" pos="nh" />
+                <word id="17" cont="执导" pos="v" />
+                <word id="18" cont="的" pos="u" />
+                <word id="19" cont="《" pos="wp" />
+                <word id="20" cont="吉祥" pos="n" />
+                <word id="21" cont="赌坊" pos="n" />
+                <word id="22" cont="》" pos="wp" />
+                <word id="23" cont="等" pos="u" />
+                <word id="24" cont="十" pos="m" />
+                <word id="25" cont="多" pos="m" />
+                <word id="26" cont="部片" pos="n" />
+                <word id="27" cont="。" pos="wp" />
+            </sent>
+            <sent id="4" cont="1976年以导演身份，拍摄了《中国超人》与三部《香港奇案》系列其中的单元故事—《血溅吊颈岭》、《大家姐》及《法网难逃》。">
+                <word id="0" cont="1976年" pos="m" />
+                <word id="1" cont="以" pos="p" />
+                <word id="2" cont="导演" pos="n" />
+                <word id="3" cont="身份" pos="n" />
+                <word id="4" cont="，" pos="wp" />
+                <word id="5" cont="拍摄" pos="v" />
+                <word id="6" cont="了" pos="u" />
+                <word id="7" cont="《" pos="wp" />
+                <word id="8" cont="中国" pos="ns" />
+                <word id="9" cont="超人" pos="n" />
+                <word id="10" cont="》" pos="wp" />
+                <word id="11" cont="与" pos="p" />
+                <word id="12" cont="三" pos="m" />
+                <word id="13" cont="部" pos="q" />
+                <word id="14" cont="《" pos="wp" />
+                <word id="15" cont="香港" pos="ns" />
+                <word id="16" cont="奇案" pos="n" />
+                <word id="17" cont="》" pos="wp" />
+                <word id="18" cont="系列" pos="n" />
+                <word id="19" cont="其中" pos="r" />
+                <word id="20" cont="的" pos="u" />
+                <word id="21" cont="单元" pos="n" />
+                <word id="22" cont="故事" pos="n" />
+                <word id="23" cont="—" pos="wp" />
+                <word id="24" cont="《" pos="wp" />
+                <word id="25" cont="血" pos="n" />
+                <word id="26" cont="溅" pos="v" />
+                <word id="27" cont="吊颈岭" pos="n" />
+                <word id="28" cont="》" pos="wp" />
+                <word id="29" cont="、" pos="wp" />
+                <word id="30" cont="《" pos="wp" />
+                <word id="31" cont="大家" pos="r" />
+                <word id="32" cont="姐" pos="n" />
+                <word id="33" cont="》" pos="wp" />
+                <word id="34" cont="及" pos="c" />
+                <word id="35" cont="《" pos="wp" />
+                <word id="36" cont="法网" pos="n" />
+                <word id="37" cont="难" pos="a" />
+                <word id="38" cont="逃" pos="v" />
+                <word id="39" cont="》" pos="wp" />
+                <word id="40" cont="。" pos="wp" />
+            </sent>
+            <sent id="5" cont="同年又执导另一部写实片《江湖子弟》。">
+                <word id="0" cont="同年" pos="d" />
+                <word id="1" cont="又" pos="d" />
+                <word id="2" cont="执导" pos="v" />
+                <word id="3" cont="另" pos="r" />
+                <word id="4" cont="一" pos="m" />
+                <word id="5" cont="部" pos="q" />
+                <word id="6" cont="写实片" pos="n" />
+                <word id="7" cont="《" pos="wp" />
+                <word id="8" cont="江湖" pos="n" />
+                <word id="9" cont="子弟" pos="n" />
+                <word id="10" cont="》" pos="wp" />
+                <word id="11" cont="。" pos="wp" />
+            </sent>
+            <sent id="6" cont="1975年至1983年期间，华山产量甚多。">
+                <word id="0" cont="1975年" pos="m" />
+                <word id="1" cont="至" pos="p" />
+                <word id="2" cont="1983年" pos="m" />
+                <word id="3" cont="期间" pos="nd" />
+                <word id="4" cont="，" pos="wp" />
+                <word id="5" cont="华山" pos="ns" />
+                <word id="6" cont="产量" pos="n" />
+                <word id="7" cont="甚" pos="d" />
+                <word id="8" cont="多" pos="a" />
+                <word id="9" cont="。" pos="wp" />
+            </sent>
+            <sent id="7" cont="这些电影种类多元化，对具新闻性的奇情电影情有独钟，而这些作品亦非常卖座。">
+                <word id="0" cont="这些" pos="r" />
+                <word id="1" cont="电影" pos="n" />
+                <word id="2" cont="种类" pos="n" />
+                <word id="3" cont="多元化" pos="v" />
+                <word id="4" cont="，" pos="wp" />
+                <word id="5" cont="对" pos="p" />
+                <word id="6" cont="具" pos="v" />
+                <word id="7" cont="新闻性" pos="n" />
+                <word id="8" cont="的" pos="u" />
+                <word id="9" cont="奇情" pos="n" />
+                <word id="10" cont="电影" pos="n" />
+                <word id="11" cont="情有独钟" pos="i" />
+                <word id="12" cont="，" pos="wp" />
+                <word id="13" cont="而" pos="c" />
+                <word id="14" cont="这些" pos="r" />
+                <word id="15" cont="作品" pos="n" />
+                <word id="16" cont="亦" pos="d" />
+                <word id="17" cont="非常" pos="d" />
+                <word id="18" cont="卖座" pos="v" />
+                <word id="19" cont="。" pos="wp" />
+            </sent>
+        </para>
+        <para id="3">
+            <sent id="0" cont="广东潮剧院一团演出《葫芦庙》舞美设计（特邀）。">
+                <word id="0" cont="广东" pos="ns" />
+                <word id="1" cont="潮" pos="n" />
+                <word id="2" cont="剧院" pos="n" />
+                <word id="3" cont="一团" pos="m" />
+                <word id="4" cont="演出" pos="v" />
+                <word id="5" cont="《" pos="wp" />
+                <word id="6" cont="葫芦庙" pos="n" />
+                <word id="7" cont="》" pos="wp" />
+                <word id="8" cont="舞美" pos="j" />
+                <word id="9" cont="设计" pos="v" />
+                <word id="10" cont="（" pos="wp" />
+                <word id="11" cont="特邀" pos="v" />
+                <word id="12" cont="）" pos="wp" />
+                <word id="13" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="福建省实验闽剧院一级舞美设计。">
+                <word id="0" cont="福建省" pos="ns" />
+                <word id="1" cont="实验" pos="v" />
+                <word id="2" cont="闽" pos="j" />
+                <word id="3" cont="剧院" pos="n" />
+                <word id="4" cont="一级" pos="b" />
+                <word id="5" cont="舞美" pos="j" />
+                <word id="6" cont="设计" pos="v" />
+                <word id="7" cont="。" pos="wp" />
+            </sent>
+            <sent id="2" cont="中国戏剧家协会会员，中国舞台美术学会会员，福建省舞美学会副会长，福建省美协会员，福建省第七届政协委员。">
+                <word id="0" cont="中国" pos="ns" />
+                <word id="1" cont="戏剧家" pos="n" />
+                <word id="2" cont="协会" pos="n" />
+                <word id="3" cont="会员" pos="n" />
+                <word id="4" cont="，" pos="wp" />
+                <word id="5" cont="中国" pos="ns" />
+                <word id="6" cont="舞台" pos="n" />
+                <word id="7" cont="美术" pos="n" />
+                <word id="8" cont="学会" pos="n" />
+                <word id="9" cont="会员" pos="n" />
+                <word id="10" cont="，" pos="wp" />
+                <word id="11" cont="福建省" pos="ns" />
+                <word id="12" cont="舞美" pos="j" />
+                <word id="13" cont="学会" pos="n" />
+                <word id="14" cont="副" pos="b" />
+                <word id="15" cont="会长" pos="n" />
+                <word id="16" cont="，" pos="wp" />
+                <word id="17" cont="福建省" pos="ns" />
+                <word id="18" cont="美协" pos="j" />
+                <word id="19" cont="会员" pos="n" />
+                <word id="20" cont="，" pos="wp" />
+                <word id="21" cont="福建省" pos="ns" />
+                <word id="22" cont="第七" pos="m" />
+                <word id="23" cont="届" pos="q" />
+                <word id="24" cont="政协" pos="j" />
+                <word id="25" cont="委员" pos="n" />
+                <word id="26" cont="。" pos="wp" />
+            </sent>
+        </para>
+        <para id="4">
+            <sent id="0" cont="主任医师、儿科硕士。">
+                <word id="0" cont="主任医师" pos="i" />
+                <word id="1" cont="、" pos="wp" />
+                <word id="2" cont="儿科" pos="n" />
+                <word id="3" cont="硕士" pos="n" />
+                <word id="4" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="毕业于安徽医科大学专业：儿科、呼吸。">
+                <word id="0" cont="毕业" pos="v" />
+                <word id="1" cont="于" pos="p" />
+                <word id="2" cont="安徽" pos="ns" />
+                <word id="3" cont="医科" pos="n" />
+                <word id="4" cont="大学" pos="n" />
+                <word id="5" cont="专业" pos="n" />
+                <word id="6" cont="：" pos="wp" />
+                <word id="7" cont="儿科" pos="n" />
+                <word id="8" cont="、" pos="wp" />
+                <word id="9" cont="呼吸" pos="v" />
+                <word id="10" cont="。" pos="wp" />
+            </sent>
+            <sent id="2" cont="专业特长各种儿内科疾病，特别是支气管哮喘、反复呼吸道感染、慢性咳嗽、免疫力低下等各种呼吸道疾病。">
+                <word id="0" cont="专业" pos="n" />
+                <word id="1" cont="特长" pos="n" />
+                <word id="2" cont="各种儿" pos="n" />
+                <word id="3" cont="内科" pos="n" />
+                <word id="4" cont="疾病" pos="n" />
+                <word id="5" cont="，" pos="wp" />
+                <word id="6" cont="特别" pos="d" />
+                <word id="7" cont="是" pos="v" />
+                <word id="8" cont="支气管" pos="n" />
+                <word id="9" cont="哮喘" pos="n" />
+                <word id="10" cont="、" pos="wp" />
+                <word id="11" cont="反复" pos="d" />
+                <word id="12" cont="呼吸道" pos="i" />
+                <word id="13" cont="感染" pos="v" />
+                <word id="14" cont="、" pos="wp" />
+                <word id="15" cont="慢性" pos="d" />
+                <word id="16" cont="咳嗽" pos="v" />
+                <word id="17" cont="、" pos="wp" />
+                <word id="18" cont="免疫力" pos="n" />
+                <word id="19" cont="低下" pos="a" />
+                <word id="20" cont="等" pos="u" />
+                <word id="21" cont="各种" pos="r" />
+                <word id="22" cont="呼吸道" pos="i" />
+                <word id="23" cont="疾病" pos="n" />
+                <word id="24" cont="。" pos="wp" />
+            </sent>
+        </para>
+        <para id="5">
+            <sent id="0" cont="华南农业大学华山宿舍区于2011年建成，坐落于学校的西区，临近第一、第二教学楼。">
+                <word id="0" cont="华南" pos="ns" />
+                <word id="1" cont="农业" pos="n" />
+                <word id="2" cont="大学" pos="n" />
+                <word id="3" cont="华山" pos="ns" />
+                <word id="4" cont="宿舍区" pos="n" />
+                <word id="5" cont="于" pos="p" />
+                <word id="6" cont="2011年" pos="m" />
+                <word id="7" cont="建成" pos="v" />
+                <word id="8" cont="，" pos="wp" />
+                <word id="9" cont="坐落" pos="v" />
+                <word id="10" cont="于" pos="p" />
+                <word id="11" cont="学校" pos="n" />
+                <word id="12" cont="的" pos="u" />
+                <word id="13" cont="西区" pos="n" />
+                <word id="14" cont="，" pos="wp" />
+                <word id="15" cont="临近" pos="v" />
+                <word id="16" cont="第一" pos="m" />
+                <word id="17" cont="、" pos="wp" />
+                <word id="18" cont="第二" pos="m" />
+                <word id="19" cont="教学楼" pos="n" />
+                <word id="20" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="该区每间宿舍住4人或6人，配备了洗澡间和卫生间，开通了校园网。">
+                <word id="0" cont="该区" pos="r" />
+                <word id="1" cont="每" pos="r" />
+                <word id="2" cont="间" pos="q" />
+                <word id="3" cont="宿舍" pos="n" />
+                <word id="4" cont="住" pos="v" />
+                <word id="5" cont="4" pos="m" />
+                <word id="6" cont="人" pos="n" />
+                <word id="7" cont="或" pos="c" />
+                <word id="8" cont="6" pos="m" />
+                <word id="9" cont="人" pos="n" />
+                <word id="10" cont="，" pos="wp" />
+                <word id="11" cont="配备" pos="v" />
+                <word id="12" cont="了" pos="u" />
+                <word id="13" cont="洗澡" pos="v" />
+                <word id="14" cont="间" pos="nd" />
+                <word id="15" cont="和" pos="c" />
+                <word id="16" cont="卫生间" pos="n" />
+                <word id="17" cont="，" pos="wp" />
+                <word id="18" cont="开通" pos="v" />
+                <word id="19" cont="了" pos="u" />
+                <word id="20" cont="校园网" pos="n" />
+                <word id="21" cont="。" pos="wp" />
+            </sent>
+            <sent id="2" cont="每个学生均有独立床位、书桌、书柜及衣柜。">
+                <word id="0" cont="每个" pos="r" />
+                <word id="1" cont="学生" pos="n" />
+                <word id="2" cont="均" pos="d" />
+                <word id="3" cont="有" pos="v" />
+                <word id="4" cont="独立" pos="a" />
+                <word id="5" cont="床位" pos="n" />
+                <word id="6" cont="、" pos="wp" />
+                <word id="7" cont="书桌" pos="n" />
+                <word id="8" cont="、" pos="wp" />
+                <word id="9" cont="书柜" pos="n" />
+                <word id="10" cont="及" pos="c" />
+                <word id="11" cont="衣柜" pos="n" />
+                <word id="12" cont="。" pos="wp" />
+            </sent>
+            <sent id="3" cont="华山宿舍区环境优美，绿化很好。">
+                <word id="0" cont="华山" pos="ns" />
+                <word id="1" cont="宿舍区" pos="n" />
+                <word id="2" cont="环境" pos="n" />
+                <word id="3" cont="优美" pos="a" />
+                <word id="4" cont="，" pos="wp" />
+                <word id="5" cont="绿化" pos="v" />
+                <word id="6" cont="很" pos="d" />
+                <word id="7" cont="好" pos="a" />
+                <word id="8" cont="。" pos="wp" />
+            </sent>
+            <sent id="4" cont="该区中心有个湖，叫“西湖”。">
+                <word id="0" cont="该区" pos="r" />
+                <word id="1" cont="中心" pos="n" />
+                <word id="2" cont="有" pos="v" />
+                <word id="3" cont="个" pos="q" />
+                <word id="4" cont="湖" pos="n" />
+                <word id="5" cont="，" pos="wp" />
+                <word id="6" cont="叫" pos="v" />
+                <word id="7" cont="“" pos="wp" />
+                <word id="8" cont="西湖" pos="ns" />
+                <word id="9" cont="”" pos="wp" />
+                <word id="10" cont="。" pos="wp" />
+            </sent>
+            <sent id="5" cont="垂柳环湖，鱼系湖中花影，自是一番美景。">
+                <word id="0" cont="垂柳" pos="n" />
+                <word id="1" cont="环湖" pos="ns" />
+                <word id="2" cont="，" pos="wp" />
+                <word id="3" cont="鱼系" pos="n" />
+                <word id="4" cont="湖" pos="n" />
+                <word id="5" cont="中" pos="nd" />
+                <word id="6" cont="花影" pos="n" />
+                <word id="7" cont="，" pos="wp" />
+                <word id="8" cont="自" pos="d" />
+                <word id="9" cont="是" pos="v" />
+                <word id="10" cont="一番" pos="m" />
+                <word id="11" cont="美景" pos="n" />
+                <word id="12" cont="。" pos="wp" />
+            </sent>
+        </para>
+        <para id="6">
+            <sent id="0" cont="我国著名的五岳之一，海拔2154.9米，位于陕西省西安以东120公里历史文化故地渭南市的华阴市境内，北临坦荡的渭河平原和咆哮的黄河，南依秦岭，是秦岭支脉分水脊的北侧的一座花岗岩山。">
+                <word id="0" cont="我国" pos="n" />
+                <word id="1" cont="著名" pos="a" />
+                <word id="2" cont="的" pos="u" />
+                <word id="3" cont="五岳" pos="n" />
+                <word id="4" cont="之一" pos="r" />
+                <word id="5" cont="，" pos="wp" />
+                <word id="6" cont="海拔" pos="n" />
+                <word id="7" cont="2154.9" pos="ws" />
+                <word id="8" cont="米" pos="n" />
+                <word id="9" cont="，" pos="wp" />
+                <word id="10" cont="位于" pos="v" />
+                <word id="11" cont="陕西省" pos="ns" />
+                <word id="12" cont="西安" pos="ns" />
+                <word id="13" cont="以东" pos="nd" />
+                <word id="14" cont="120" pos="m" />
+                <word id="15" cont="公里" pos="q" />
+                <word id="16" cont="历史" pos="n" />
+                <word id="17" cont="文化" pos="n" />
+                <word id="18" cont="故地" pos="n" />
+                <word id="19" cont="渭南市" pos="ns" />
+                <word id="20" cont="的" pos="u" />
+                <word id="21" cont="华阴市" pos="ns" />
+                <word id="22" cont="境内" pos="nl" />
+                <word id="23" cont="，" pos="wp" />
+                <word id="24" cont="北临" pos="ns" />
+                <word id="25" cont="坦荡" pos="a" />
+                <word id="26" cont="的" pos="u" />
+                <word id="27" cont="渭河" pos="ns" />
+                <word id="28" cont="平原" pos="n" />
+                <word id="29" cont="和" pos="c" />
+                <word id="30" cont="咆哮" pos="v" />
+                <word id="31" cont="的" pos="u" />
+                <word id="32" cont="黄河" pos="ns" />
+                <word id="33" cont="，" pos="wp" />
+                <word id="34" cont="南依" pos="v" />
+                <word id="35" cont="秦岭" pos="ns" />
+                <word id="36" cont="，" pos="wp" />
+                <word id="37" cont="是" pos="v" />
+                <word id="38" cont="秦岭" pos="ns" />
+                <word id="39" cont="支脉" pos="n" />
+                <word id="40" cont="分" pos="v" />
+                <word id="41" cont="水脊" pos="n" />
+                <word id="42" cont="的" pos="u" />
+                <word id="43" cont="北侧" pos="nd" />
+                <word id="44" cont="的" pos="u" />
+                <word id="45" cont="一" pos="m" />
+                <word id="46" cont="座" pos="q" />
+                <word id="47" cont="花岗岩山" pos="ns" />
+                <word id="48" cont="。" pos="wp" />
+            </sent>
+            <sent id="1" cont="凭藉大自然风云变换的装扮，华山的千姿万态被有声有色的勾画出来，是国家级风景名胜区。">
+                <word id="0" cont="凭" pos="p" />
+                <word id="1" cont="藉" pos="v" />
+                <word id="2" cont="大自然" pos="n" />
+                <word id="3" cont="风云变换" pos="i" />
+                <word id="4" cont="的" pos="u" />
+                <word id="5" cont="装扮" pos="v" />
+                <word id="6" cont="，" pos="wp" />
+                <word id="7" cont="华山" pos="ns" />
+                <word id="8" cont="的" pos="u" />
+                <word id="9" cont="千姿" pos="nz" />
+                <word id="10" cont="万态" pos="n" />
+                <word id="11" cont="被" pos="p" />
+                <word id="12" cont="有声有色" pos="i" />
+                <word id="13" cont="的" pos="u" />
+                <word id="14" cont="勾画" pos="v" />
+                <word id="15" cont="出来" pos="v" />
+                <word id="16" cont="，" pos="wp" />
+                <word id="17" cont="是" pos="v" />
+                <word id="18" cont="国家级" pos="b" />
+                <word id="19" cont="风景" pos="n" />
+                <word id="20" cont="名胜区" pos="n" />
+                <word id="21" cont="。" pos="wp" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
